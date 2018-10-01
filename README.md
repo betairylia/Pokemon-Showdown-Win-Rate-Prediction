@@ -37,6 +37,9 @@ Parameter Short hand | Usage | Comments
 -load | -load modelFiles/ou.ckpt | Load saved model weights (.ckpt)
 -fmt | -fmt ou | Filename used to store trained model weights when training ends. File will be saved as ./modelFiles/<format>.ckpt
 
+e.g.
+> python simpleToy.py dataset\train_vgcSun.txt dataset\test_vgcSun.txt -gpu 0 -pu 128 -thu 256 -bs 64 -ep 600 -fmt vgc_team_dropout
+
 ### Use the model to predict results
 
 > python predict.py [parameters]
@@ -44,7 +47,10 @@ Parameter Short hand | Usage | Comments
 Parameters same as above.  
 However, one **must** load a saved weight file (.ckpt) in order to get reasonable results.  
 
-**NOTE**  
+e.g.
+> python predict.py -gpu 0 -pu 128 -thu 256 -load modelFiles/vgc_team_dropout.ckpt
+
+**NOTE:**  
 When input team members for each side, one **must**:  
 * Use Pokemon Showdown offical names (name shown in game) with forms (-Wash, -Therian etc.)
 * Don't add -Mega for mega Pokemons
@@ -52,13 +58,14 @@ When input team members for each side, one **must**:
 * DO NOT add extra white spaces around comma
 * ADD a EXTRA COMMA at the end of input.
 
-For example:  
+e.g.  
 > Rotom-Wash,Bronzong,Incineroar,Groudon,Venusaur,Xerneas,
 
 ## Details  
 
 ### Team model ( without -big )
 ![Team model structure](PS_team_model.png)
+( There are 2 team MLP networks sharing weights. )
 
 ### Big model ( -big )
 ![Big model structure](PS_big_model.png)
