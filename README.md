@@ -1,7 +1,7 @@
 # Pokemon Showdown Win Rate Prediction
 
 This is an simple model predicts win-rate for pokemon (showdown) matches.  
-** WORK IN PROGRESS **
+**WORK IN PROGRESS**
 
 ## Requirements ( latest should work )
 * python 3.5  
