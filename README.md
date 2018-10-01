@@ -1,6 +1,6 @@
 # Pokemon Showdown Win Rate Prediction
 
-This is an simple model predicts win-rate for pokemon (showdown) matches.
+This is an simple model predicts win-rate for pokemon (showdown) matches.  
 ** WORK IN PROGRESS **
 
 ## Requirements ( latest should work )
