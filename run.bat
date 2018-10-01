@@ -1,0 +1,1 @@
+python spider.py gen7vgc2019sunseries && python spider.py gen7ou && python spider.py gen7doublesou && python spider.py gen7vgc2019moonseries && python spider.py gen7vgc2019ultraseries && python spider.py gen7uu && python spider.py gen7doublesuu && python spider.py gen7ubers && python spider.py gen7doublesubers

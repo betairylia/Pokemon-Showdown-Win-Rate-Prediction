@@ -1,0 +1,8 @@
+# Saved model data
+modelFiles/
+
+# python cache
+__pycache__/
+
+# vscode files
+.vscode/

@@ -1,0 +1,5656 @@
+811234855
+Aerodactyl,Groudon,Lunala,Amoonguss,Tapu Koko,Tapu Lele,
+Kyogre,Rayquaza,Bronzong,Tornadus,Incineroar,Tapu Koko,
+2
+811232986
+Rayquaza,Nihilego,Necrozma-Dusk-Mane,Tornadus,Tapu Koko,Incineroar,
+Aerodactyl,Groudon,Lunala,Amoonguss,Tapu Koko,Tapu Lele,
+2
+811217661
+Mewtwo,Ho-Oh,Tapu Lele,Tapu Koko,Gyarados,Ferrothorn,
+Crobat,Groudon,Xerneas,Incineroar,Bronzong,Salamence,
+2
+811195130
+Yveltal,Tapu Lele,Kyogre,Tapu Koko,Altaria,Ferrothorn,
+Groudon,Tornadus,Ho-Oh,Cresselia,Charizard,Kartana,
+1
+811192184
+Yveltal,Tapu Lele,Kyogre,Tapu Koko,Altaria,Ferrothorn,
+Kyogre,Bronzong,Gengar,Rayquaza,Togedemaru,Incineroar,
+1
+811190640
+Xerneas,Amoonguss,Groudon,Bronzong,Incineroar,Smeargle,
+Rayquaza,Kyogre,Tapu Koko,Amoonguss,Weavile,Whimsicott,
+2
+811189548
+Audino,Kyogre,Celesteela,Mimikyu-Totem,Groudon,Amoonguss,
+Rayquaza,Kyogre,Tapu Koko,Amoonguss,Weavile,Whimsicott,
+2
+811187888
+Kangaskhan,Yveltal,Groudon,Tapu Koko,Kartana,Clefairy,
+Audino,Kyogre,Celesteela,Mimikyu-Totem,Groudon,Amoonguss,
+2
+811173677
+Kyogre,Rayquaza,Bronzong,Weavile,Tornadus,Tapu Koko,
+Landorus-Therian,Tapu Fini,Cresselia,Kyogre,Groudon,Ferrothorn,
+2
+811161406
+Tapu Lele,Tapu Fini,Cresselia,Kyogre,Groudon,Ferrothorn,
+Houndoom,Yveltal,Groudon,Tapu Koko,Weavile,Toxicroak,
+2
+811152226
+Rayquaza,Kyogre,Rotom-Wash,Incineroar,Kartana,Tapu Lele,
+Kyogre,Rayquaza,Weavile,Bronzong,Tornadus,Tapu Koko,
+1
+811151571
+Houndoom,Yveltal,Groudon,Tapu Koko,Weavile,Toxicroak,
+Kyogre,Kartana,Incineroar,Garchomp,Gengar,Kangaskhan,
+1
+811150927
+Necrozma-Dawn-Wings,Kyogre,Kartana,Banette,Araquanid,Tapu Lele,
+Xerneas,Incineroar,Tapu Koko,Amoonguss,Kyogre,Aegislash,
+1
+811144317
+Houndoom,Yveltal,Groudon,Tapu Koko,Weavile,Toxicroak,
+Blaziken,Landorus-Therian,Solgaleo,Aegislash,Zapdos,Suicune,
+1
+811088421
+Zekrom,Reshiram,Ditto,Lurantis,Tapu Lele,Metagross,
+Rayquaza,Solgaleo,Whimsicott,Manectric,Garchomp,Landorus-Therian,
+1
+811069165
+Kyurem-White,Rayquaza,Amoonguss,Metagross,Incineroar,Gastrodon,
+Aerodactyl,Kyogre,Lunala,Landorus-Therian,Tapu Lele,Amoonguss,
+2
+811066234
+Kyogre,Rayquaza,Tapu Lele,Araquanid,Landorus-Therian,Drifblim,
+Groudon,Kyogre,Ludicolo,Tapu Fini,Crobat,Landorus-Therian,
+2
+811041102
+Necrozma-Dusk-Mane,Rayquaza,Tapu Lele,Ditto,Tyranitar,Araquanid,
+Eevee,Clefairy,Smeargle,Espeon,Groudon,Rayquaza,
+1
+811021651
+Necrozma-Dusk-Mane,Rayquaza,Tapu Lele,Ditto,Tyranitar,Araquanid,
+Ho-Oh,Groudon,Chansey,Cresselia,Machamp,Manectric,
+1
+811021135
+Tapu Koko,Salamence,Xerneas,Smeargle,Groudon,Venusaur,
+Tapu Lele,Porygon-Z,Groudon,Ferrothorn,Snorlax,Necrozma-Dusk-Mane,
+1
+810999520
+Xerneas,Lunala,Salamence,Crobat,Greninja,Manectric,
+Xerneas,Rayquaza,Vanilluxe,Xurkitree,Krookodile,Tapu Bulu,
+1
+810997026
+Xerneas,Lunala,Salamence,Crobat,Greninja,Manectric,
+Groudon,Lapras,Crobat,Incineroar,Tapu Koko,Rayquaza,
+1
+810991909
+Tapu Fini,Blacephalon,Rotom-Mow,Rayquaza,Yveltal,Scolipede,
+Xerneas,Lunala,Salamence,Crobat,Greninja,Manectric,
+2
+810985030
+Kyogre,Rayquaza,Mawile,Cresselia,Aegislash,Raichu,
+Greninja,Xerneas,Tangela,Stoutland,Yveltal,Clawitzer,
+2
+810970431
+Necrozma-Dawn-Wings,Groudon,Tapu Lele,Kartana,Smeargle,Manectric,
+Tyranitar,Azumarill,Landorus-Therian,Aerodactyl,Bisharp,Forretress,
+1
+810904629
+Xerneas,Groudon,Clefable,Oranguru,Tapu Fini,Crobat,
+Xerneas,Metagross,Amoonguss,Incineroar,Kyogre,Talonflame,
+1
+810854426
+Landorus-Therian,Zekrom,Tapu Koko,Kyogre,Crobat,Lucario,
+Groudon,Meowstic,Silvally-*,Omastar,Pikachu,Scyther,
+2
+810837841
+Charizard,Sceptile,Gliscor,Tapu Lele,Tapu Koko,Tyranitar,
+Arcanine,Celesteela,Serperior,Venusaur,Garchomp,Tapu Koko,
+1
+810831007
+Xerneas,Rayquaza,Incineroar,Tapu Fini,Manectric,Ferrothorn,
+Necrozma-Dawn-Wings,Groudon,Salamence,Milotic,Tapu Lele,Tapu Koko,
+1
+810829105
+Xerneas,Groudon,Clefable,Oranguru,Tapu Fini,Crobat,
+Ninetales-Alola,Oranguru,Pidgeot,Blacephalon,Groudon,Kommo-o,
+1
+810827272
+Xerneas,Groudon,Clefable,Oranguru,Tapu Fini,Crobat,
+Mewtwo,Kyogre,Golisopod,Landorus-Therian,Kommo-o,Tapu Koko,
+1
+810825835
+Kyurem-White,Manectric,Thundurus-Therian,Groudon,Ninetales-Alola,Ferrothorn,
+Xerneas,Groudon,Clefable,Oranguru,Tapu Fini,Crobat,
+2
+810824895
+Cobalion,Whimsicott,Kyogre,Tapu Lele,Xerneas,Tapu Koko,
+Gengar,Incineroar,Kommo-o,Zapdos,Clawitzer,Scizor,
+1
+810823993
+Kartana,Landorus,Mewtwo,Zekrom,Tapu Bulu,Incineroar,
+Xerneas,Rayquaza,Incineroar,Tapu Fini,Manectric,Ferrothorn,
+2
+810822761
+Xerneas,Groudon,Clefable,Oranguru,Tapu Fini,Crobat,
+Kartana,Tapu Lele,Tapu Koko,Lunala,Kyogre,Smeargle,
+1
+810819822
+Pidgeot,Ninetales-Alola,Oranguru,Groudon,Clefairy,Xerneas,
+Groudon,Smeargle,Mewtwo,Slaking,Blaziken,Tapu Lele,
+1
+810813468
+Mimikyu,Yveltal,Groudon,Salamence,Tapu Koko,Mawile,
+Aerodactyl,Kyogre,Lunala,Landorus-Therian,Tapu Lele,Amoonguss,
+2
+810813070
+Xerneas,Groudon,Clefable,Sableye,Tapu Fini,Crobat,
+Ninetales-Alola,Oranguru,Pidgeot,Blacephalon,Torkoal,Kommo-o,
+2
+810809917
+Gardevoir,Politoed,Zapdos,Poliwrath,Scrafty,Aegislash,
+Xerneas,Groudon,Clefable,Sableye,Tapu Fini,Crobat,
+2
+810809773
+Aerodactyl,Kyogre,Lunala,Landorus-Therian,Tapu Lele,Amoonguss,
+Tapu Koko,Raichu-Alola,Salamence,Yveltal,Whimsicott,Tapu Fini,
+1
+810807446
+Xerneas,Groudon,Clefable,Sableye,Tapu Fini,Crobat,
+Ludicolo,Politoed,Tapu Koko,Tornadus,Swampert,Scizor,
+1
+810805437
+Xerneas,Groudon,Clefable,Sableye,Tapu Fini,Crobat,
+Zapdos,Metagross,Landorus-Therian,Amoonguss,Tapu Fini,Clefairy,
+1
+810804495
+Groudon,Xerneas,Bronzong,Incineroar,Tapu Koko,Crobat,
+Xerneas,Groudon,Clefable,Sableye,Tapu Fini,Crobat,
+2
+810800537
+Reshiram,Zekrom,Tapu Bulu,Incineroar,Gastrodon,Stakataka,
+Xerneas,Groudon,Clefable,Sableye,Tapu Fini,Crobat,
+2
+810799325
+Tapu Lele,Pheromosa,Torkoal,Lilligant,Tapu Fini,Garchomp,
+Xerneas,Groudon,Clefable,Sableye,Tapu Fini,Crobat,
+2
+810786039
+Rotom-Wash,Xerneas,Hitmontop,Heatran,Tornadus-Therian,Garchomp,
+Gastrodon-East,Mawile,Necrozma-Dawn-Wings,Staraptor,Kyogre,Zapdos,
+1
+810782058
+Groudon,Venusaur,Yveltal,Landorus-Therian,Porygon2,Tyranitar,
+Rotom-Wash,Xerneas,Hitmontop,Heatran,Tornadus-Therian,Garchomp,
+2
+810767331
+Incineroar,Gardevoir,Landorus-Therian,Zekrom,Tapu Fini,Ferrothorn,
+Stakataka,Tapu Lele,Mewtwo,Yveltal,Incineroar,Araquanid,
+2
+810767621
+Incineroar,Xerneas,Kartana,Groudon,Suicune,Shiinotic,
+Lunala,Xerneas,Salamence,Crobat,Greninja,Manectric,
+2
+810766671
+Lunala,Xerneas,Salamence,Crobat,Greninja,Manectric,
+Incineroar,Xerneas,Kartana,Groudon,Suicune,Shiinotic,
+1
+810763549
+Mawile,Kyogre,Groudon,Oranguru,Crawdaunt,Liepard,
+Lunala,Xerneas,Salamence,Crobat,Greninja,Manectric,
+2
+810761970
+Gengar,Groudon,Tapu Lele,Kyogre,Amoonguss,Bronzong,
+Lunala,Xerneas,Salamence,Crobat,Greninja,Manectric,
+2
+810759613
+Lunala,Xerneas,Salamence,Crobat,Greninja,Manectric,
+Yveltal,Ferrothorn,Kyogre,Cresselia,Celesteela,Gengar,
+1
+810750256
+Xerneas,Lunala,Incineroar,Salamence,Amoonguss,Tapu Lele,
+Rayquaza,Kyogre,Murkrow,Togedemaru,Incineroar,Bronzong,
+2
+810742166
+Dialga,Kyogre,Oranguru,Tapu Lele,Gengar,Hitmontop,
+Dialga,Lunala,Kartana,Lopunny,Nihilego,Shedinja,
+1
+810714296
+Xerneas,Kyogre,Ninetales-Alola,Incineroar,Naganadel,Chansey,
+Lucario,Gothitelle,Vikavolt,Bronzong,Talonflame,Hitmonlee,
+2
+810702896
+Blaziken,Landorus-Therian,Solgaleo,Aegislash,Zapdos,Suicune,
+Crobat,Groudon,Xerneas,Incineroar,Bronzong,Salamence,
+2
+810687181
+Oricorio-Pom-Pom,Volcarona,Lilligant,Gyarados,Meowstic-F,Murkrow,
+Salazzle,Landorus-Therian,Sableye,Celesteela,Latios,Azumarill,
+1
+810686667
+Smeargle,Xerneas,Togekiss,Lunala,Weavile,Terrakion,
+Aerodactyl,Kyogre,Lunala,Landorus-Therian,Tapu Lele,Amoonguss,
+2
+810685134
+Oricorio-Pom-Pom,Volcarona,Lilligant,Gyarados,Meowstic-F,Murkrow,
+Aegislash,Incineroar,Muk-Alola,Salamence,Milotic,Gastrodon-East,
+1
+810675927
+Togedemaru,Charizard,Landorus-Therian,Kartana,Tapu Fini,Snorlax,
+Tapu Koko,Ferrothorn,Incineroar,Landorus-Therian,Sceptile,Politoed,
+1
+810676020
+Reshiram,Zekrom,Tapu Bulu,Incineroar,Gastrodon,Stakataka,
+Oricorio-Pom-Pom,Volcarona,Lilligant,Gyarados,Meowstic-F,Murkrow,
+1
+810673091
+Araquanid,Salamence,Scizor,Rotom-Heat,Tyranitar,Staraptor,
+Oricorio-Pom-Pom,Volcarona,Lilligant,Gyarados,Meowstic-F,Murkrow,
+2
+810663985
+Togedemaru,Charizard,Landorus-Therian,Kartana,Tapu Fini,Snorlax,
+Mewtwo,Kartana,Thundurus,Giratina-Origin,Greninja,Pheromosa,
+1
+810655650
+Snorlax,Stakataka,Celesteela,Blissey,Porygon2,Muk-Alola,
+Togedemaru,Charizard,Landorus-Therian,Kartana,Tapu Fini,Snorlax,
+2
+810639915
+Mewtwo,Tapu Lele,Kyogre,Crobat,Incineroar,Ludicolo,
+Crobat,Groudon,Xerneas,Incineroar,Bronzong,Salamence,
+2
+810590222
+Incineroar,Kartana,Yveltal,Kyogre,Ditto,Swampert,
+Xerneas,Tapu Lele,Salamence,Kartana,Incineroar,Groudon,
+1
+810575823
+Salamence,Groudon,Xerneas,Smeargle,Talonflame,Amoonguss,
+Gengar,Hitmontop,Raichu,Tapu Fini,Xerneas,Rayquaza,
+2
+810561791
+Lopunny,Groudon,Lunala,Kartana,Tapu Fini,Landorus,
+Mewtwo,Yveltal,Tapu Lele,Incineroar,Stakataka,Araquanid,
+2
+810551702
+Incineroar,Kartana,Yveltal,Kyogre,Ditto,Swampert,
+Rayquaza,Groudon,Crobat,Incineroar,Tapu Koko,Ferrothorn,
+1
+810525970
+Xerneas,Lunala,Salamence,Crobat,Greninja,Manectric,
+Groudon,Necrozma-Dusk-Mane,Tapu Lele,Tapu Koko,Landorus-Therian,Incineroar,
+1
+810512467
+Butterfree,Incineroar,Tapu Lele,Necrozma-Dusk-Mane,Altaria,Kyogre,
+Yveltal,Groudon,Stakataka,Blaziken,Raichu,Venusaur,
+1
+810504313
+Dialga,Kyogre,Oranguru,Tapu Lele,Gengar,Hitmontop,
+Butterfree,Chansey,Groudon,Mewtwo,Tapu Lele,Gastrodon,
+1
+810494875
+Mawile,Yveltal,Gothitelle,Kyogre,Snorlax,Tapu Fini,
+Zekrom,Reshiram,Ditto,Lurantis,Tapu Lele,Metagross,
+2
+810492976
+Zekrom,Reshiram,Ditto,Lurantis,Tapu Lele,Metagross,
+Groudon,Mewtwo,Tapu Lele,Zapdos,Aegislash,Gengar,
+1
+810487967
+Zekrom,Reshiram,Ditto,Lurantis,Tapu Lele,Metagross,
+Dialga,Kyogre,Oranguru,Tapu Lele,Gengar,Hitmontop,
+1
+810475840
+Mewtwo,Groudon,Tapu Lele,Incineroar,Ferrothorn,Landorus-Therian,
+Groudon,Tapu Koko,Celesteela,Incineroar,Gastrodon,Xerneas,
+2
+810471086
+Zekrom,Reshiram,Ditto,Lurantis,Tapu Lele,Metagross,
+Kyogre,Eevee,Smeargle,Latios,Solgaleo,Tapu Lele,
+1
+810467625
+Xerneas,Rayquaza,Vanilluxe,Xurkitree,Krookodile,Tapu Bulu,
+Arcanine,Celesteela,Serperior,Swampert,Blissey,Kyogre,
+1
+810460760
+Lilligant,Necrozma-Dusk-Mane,Landorus-Therian,Gengar,Tapu Koko,Groudon,
+Gastrodon-East,Mawile,Necrozma-Dawn-Wings,Staraptor,Kyogre,Togekiss,
+1
+810457833
+Lilligant,Necrozma-Dusk-Mane,Landorus-Therian,Gengar,Tapu Koko,Groudon,
+Hydreigon,Tapu Lele,Gengar,Kyogre,Cresselia,Groudon,
+2
+810455990
+Lilligant,Necrozma-Dusk-Mane,Landorus-Therian,Gengar,Tapu Koko,Groudon,
+Landorus-Therian,Primarina,Gastrodon,Kartana,Salamence,Nidoking,
+2
+810453226
+Rayquaza,Kyogre,Bisharp,Togedemaru,Incineroar,Bronzong,
+Zekrom,Reshiram,Ditto,Lurantis,Tapu Lele,Metagross,
+2
+810449747
+Zekrom,Reshiram,Ditto,Lurantis,Tapu Lele,Metagross,
+Kyogre,Xerneas,Mawile,Incineroar,Gothitelle,Amoonguss,
+1
+810449829
+Primarina,Rotom-Mow,Blaziken,Garchomp,Krookodile,Porygon-Z,
+Marowak-Alola,Ferrothorn,Groudon,Ninetales-Alola,Oranguru,Bisharp,
+2
+810421490
+Salamence,Xerneas,Incineroar,Gastrodon,Bronzong,Groudon,
+Xerneas,Incineroar,Tapu Koko,Amoonguss,Kyogre,Kartana,
+1
+810422544
+Xerneas,Jumpluff,Groudon,Salamence,Tapu Lele,Hitmontop,
+Groudon,Kyogre,Salamence,Tapu Koko,Bronzong,Persian-Alola,
+2
+810420759
+Metagross,Tapu Lele,Amoonguss,Kyogre,Yveltal,Raichu,
+Venusaur,Xerneas,Groudon,Smeargle,Salamence,Tapu Koko,
+2
+810415769
+Xerneas,Bronzong,Amoonguss,Incineroar,Tapu Lele,Yveltal,
+Venusaur,Xerneas,Groudon,Smeargle,Salamence,Tapu Koko,
+2
+810413575
+Rayquaza,Kyogre,Tapu Koko,Tapu Lele,Kartana,Gengar,
+Xerneas,Bronzong,Amoonguss,Incineroar,Tapu Lele,Yveltal,
+1
+810411611
+Xerneas,Tapu Koko,Mawile,Tsareena,Kyogre,Lucario,
+Mewtwo,Nihilego,Tapu Lele,Groudon,Incineroar,Amoonguss,
+1
+810412107
+Salamence,Xerneas,Incineroar,Gastrodon,Bronzong,Groudon,
+Xerneas,Tapu Lele,Rayquaza,Ferrothorn,Gastrodon,Heatran,
+1
+810406846
+Salamence,Xerneas,Incineroar,Gastrodon,Bronzong,Groudon,
+Raichu,Salamence,Amoonguss,Xerneas,Kyogre,Cresselia,
+1
+810404677
+Salamence,Groudon,Xerneas,Smeargle,Talonflame,Amoonguss,
+Groudon,Kyogre,Salamence,Tapu Koko,Bronzong,Persian-Alola,
+2
+810404655
+Xerneas,Whimsicott,Swampert,Incineroar,Kartana,Tapu Lele,
+Xerneas,Tapu Koko,Mawile,Tsareena,Kyogre,Lucario,
+2
+810380620
+Gastrodon,Mawile,Necrozma-Dawn-Wings,Staraptor,Kyogre,Ferrothorn,
+Xerneas,Lunala,Salamence,Crobat,Greninja,Manectric,
+2
+810370129
+Eevee,Clefairy,Smeargle,Espeon,Groudon,Rayquaza,
+Mewtwo,Yveltal,Tapu Lele,Incineroar,Stakataka,Mawile,
+2
+810342135
+Groudon,Necrozma-Dusk-Mane,Tapu Lele,Tapu Koko,Landorus-Therian,Incineroar,
+Groudon,Mandibuzz,Hariyama,Kyurem-White,Gardevoir,Meganium,
+2
+810341020
+Xerneas,Groudon,Sableye,Hitmontop,Bronzong,Kartana,
+Gastrodon,Mawile,Necrozma-Dawn-Wings,Staraptor,Kyogre,Ferrothorn,
+1
+810325131
+Tapu Koko,Incineroar,Gengar,Thundurus,Snorlax,Amoonguss,
+Xerneas,Zygarde,Hitmontop,Tapu Bulu,Lucario,Seismitoad,
+1
+810320762
+Xerneas,Rayquaza,Incineroar,Tapu Fini,Manectric,Ferrothorn,
+Mewtwo,Kyogre,Landorus-Therian,Tapu Lele,Gothitelle,Tapu Koko,
+2
+810320523
+Yveltal,Purugly,Metagross,Groudon,Tapu Koko,Tapu Lele,
+Aerodactyl,Kyogre,Lunala,Landorus-Therian,Tapu Lele,Amoonguss,
+2
+810316269
+Greninja,Nihilego,Tornadus,Mewtwo,Kartana,Thundurus,
+Xerneas,Rayquaza,Incineroar,Tapu Fini,Manectric,Ferrothorn,
+2
+810279554
+Groudon,Necrozma-Dawn-Wings,Salamence,Tapu Koko,Togekiss,Mawile,
+Tapu Koko,Venusaur,Groudon,Salamence,Xerneas,Smeargle,
+2
+810276184
+Groudon,Necrozma-Dawn-Wings,Tapu Koko,Mawile,Togekiss,Salamence,
+Mewtwo,Yveltal,Tapu Lele,Incineroar,Stakataka,Aegislash,
+2
+810251040
+Raichu-Alola,Groudon,Xerneas,Uxie,Serperior,Tapu Koko,
+Necrozma-Dusk-Mane,Ho-Oh,Amoonguss,Tapu Lele,Dugtrio,Gengar,
+2
+810247083
+Dialga,Groudon,Camerupt,Tapu Bulu,Smeargle,Aegislash,
+Mewtwo,Yveltal,Tapu Lele,Incineroar,Stakataka,Paras,
+2
+810245977
+Ludicolo,Primarina,Ninetales-Alola,Kyogre,Tsareena,Porygon2,
+Venusaur,Incineroar,Lickilicky,Tyranitar,Cradily,Cresselia,
+2
+810240306
+Aegislash,Milotic,Gastrodon,Tapu Bulu,Kyogre,Gengar,
+Groudon,Bronzong,Tapu Lele,Gengar,Kyogre,Kangaskhan,
+1
+810234738
+Groudon,Togekiss,Raichu,Ferrothorn,Golduck,Lunala,
+Venusaur,Incineroar,Lickilicky,Tyranitar,Cradily,Cresselia,
+2
+810232700
+Metagross,Persian-Alola,Snorlax,Milotic,Landorus-Therian,Xerneas,
+Malamar,Whimsicott,Xerneas,Kyogre,Tapu Koko,Incineroar,
+1
+810231435
+Incineroar,Charizard,Garchomp,Tapu Fini,Kartana,Aggron,
+Metagross,Persian-Alola,Snorlax,Milotic,Landorus-Therian,Xerneas,
+2
+810215624
+Xerneas,Incineroar,Kyogre,Ferrothorn,Amoonguss,Talonflame,
+Xerneas,Incineroar,Tapu Koko,Amoonguss,Kyogre,Kartana,
+1
+810209227
+Xerneas,Groudon,Amoonguss,Whimsicott,Cresselia,Bronzong,
+Groudon,Tapu Lele,Mawile,Kartana,Xerneas,Amoonguss,
+1
+810201092
+Pelipper,Swampert,Kingdra,Ferrothorn,Tapu Koko,Hawlucha,
+Tapu Lele,Necrozma-Dusk-Mane,Cresselia,Groudon,Salamence,Pheromosa,
+2
+810198230
+Pelipper,Swampert,Kingdra,Ferrothorn,Tapu Koko,Hawlucha,
+Blaziken,Necrozma-Dusk-Mane,Tapu Lele,Groudon,Salamence,Pheromosa,
+2
+810196025
+Groudon,Tapu Lele,Mawile,Kartana,Xerneas,Amoonguss,
+Blaziken,Necrozma-Dusk-Mane,Tapu Lele,Groudon,Salamence,Pheromosa,
+2
+810188537
+Tapu Lele,Accelgor,Salamence,Kyogre,Lunala,Tapu Koko,
+Mewtwo,Yveltal,Tapu Lele,Hitmontop,Stakataka,Paras,
+2
+810188596
+Groudon,Snorlax,Mimikyu,Xerneas,Cresselia,Amoonguss,
+Snorlax,Volcarona,Rayquaza,Mewtwo,Celesteela,Incineroar,
+1
+810184194
+Necrozma-Dawn-Wings,Groudon,Tapu Koko,Incineroar,Ditto,Salamence,
+Scrafty,Necrozma-Dusk-Mane,Groudon,Gastrodon,Lurantis,Chansey,
+2
+810180812
+Xerneas,Incineroar,Tapu Koko,Amoonguss,Kyogre,Kartana,
+Tornadus,Kyogre,Rayquaza,Empoleon,Raikou,Landorus-Therian,
+2
+810180575
+Scrafty,Necrozma-Dusk-Mane,Groudon,Gastrodon,Lurantis,Chansey,
+Salamence,Kyogre,Raichu,Tapu Lele,Groudon,Bronzong,
+1
+810176133
+Scrafty,Necrozma-Dusk-Mane,Groudon,Gastrodon,Lurantis,Chansey,
+Xerneas,Incineroar,Tapu Koko,Amoonguss,Kyogre,Kartana,
+2
+810089412
+Smeargle,Kyogre,Xerneas,Tapu Koko,Marowak-Alola,Porygon2,
+Decidueye,Salamence,Incineroar,Kyogre,Kyurem-White,Raichu,
+1
+810085726
+Kyogre,Rayquaza,Ditto,Ferrothorn,Tapu Koko,Incineroar,
+Groudon,Kyogre,Salamence,Tapu Koko,Bronzong,Persian-Alola,
+2
+810078935
+Venusaur,Incineroar,Lickilicky,Tyranitar,Cradily,Cresselia,
+Kartana,Murkrow,Celesteela,Zygarde,Kyogre,Alakazam,
+1
+810025938
+Yveltal,Gyarados,Zekrom,Golduck,Smeargle,Ludicolo,
+Groudon,Trevenant,Tapu Lele,Metagross,Mewtwo,Blacephalon,
+1
+810024880
+Rayquaza,Necrozma-Dusk-Mane,Tapu Koko,Nidoking,Incineroar,Tapu Fini,
+Blaziken,Zygarde,Togekiss,Venusaur,Xerneas,Mimikyu,
+2
+810004227
+Weavile,Tapu Lele,Groudon,Rayquaza,Kartana,Crobat,
+Audino,Kyogre,Celesteela,Bronzong,Groudon,Amoonguss,
+2
+809996193
+Tapu Koko,Ludicolo,Kyogre,Ferrothorn,Zygarde,Swampert,
+Houndoom,Groudon,Xerneas,Ferrothorn,Tapu Lele,Zapdos,
+2
+809994112
+Houndoom,Groudon,Xerneas,Ferrothorn,Tapu Lele,Zapdos,
+Eevee,Xerneas,Smeargle,Necrozma-Dusk-Mane,Klefki,Krookodile,
+1
+809982350
+Kyogre,Kartana,Necrozma-Dawn-Wings,Landorus-Therian,Manectric,Salamence,
+Necrozma-Dusk-Mane,Rayquaza,Tapu Lele,Ditto,Tyranitar,Araquanid,
+2
+809978224
+Tapu Fini,Necrozma-Dawn-Wings,Incineroar,Kartana,Groudon,Gengar,
+Houndoom,Groudon,Xerneas,Ferrothorn,Tapu Lele,Zapdos,
+2
+809961893
+Xerneas,Bronzong,Amoonguss,Incineroar,Tapu Lele,Yveltal,
+Houndoom,Groudon,Xerneas,Ferrothorn,Tapu Lele,Zapdos,
+2
+809957263
+Kyogre,Tapu Koko,Incineroar,Araquanid,Crobat,Rayquaza,
+Houndoom,Groudon,Xerneas,Ferrothorn,Tapu Lele,Zapdos,
+2
+809942226
+Rayquaza,Kyogre,Gengar,Raichu,Bronzong,Hitmontop,
+Aegislash,Beartic,Necrozma-Dawn-Wings,Swampert,Tentacruel,Kyogre,
+2
+809936233
+Tapu Lele,Kyogre,Yveltal,Landorus-Therian,Metagross,Kingdra,
+Groudon,Yveltal,Tapu Lele,Kartana,Ditto,Gothitelle,
+1
+809937533
+Necrozma-Dusk-Mane,Groudon,Tapu Lele,Ditto,Tyranitar,Araquanid,
+Groudon,Kyogre,Kartana,Ferrothorn,Metagross,Tapu Lele,
+1
+809930110
+Xerneas,Kyogre,Incineroar,Tsareena,Bronzong,Ditto,
+Aegislash,Beartic,Necrozma-Dawn-Wings,Swampert,Tentacruel,Kyogre,
+2
+809923716
+Groudon,Yveltal,Tapu Lele,Kartana,Ditto,Gothitelle,
+Metagross,Persian-Alola,Snorlax,Milotic,Landorus-Therian,Xerneas,
+2
+809896416
+Incineroar,Xerneas,Sableye,Kartana,Groudon,Suicune,
+Xerneas,Rayquaza,Incineroar,Tapu Fini,Manectric,Ferrothorn,
+2
+809892386
+Tapu Lele,Accelgor,Salamence,Kyogre,Lunala,Tapu Koko,
+Groudon,Gengar,Sableye,Solgaleo,Clefairy,Crobat,
+1
+809865434
+Tapu Lele,Necrozma-Dawn-Wings,Xerneas,Salamence,Amoonguss,Hitmontop,
+Kyogre,Rayquaza,Incineroar,Amoonguss,Crobat,Smeargle,
+1
+809800490
+Groudon,Tapu Koko,Salamence,Kartana,Yveltal,Stakataka,
+Groudon,Bronzong,Amoonguss,Incineroar,Tapu Lele,Yveltal,
+1
+809788664
+Groudon,Tapu Koko,Salamence,Kartana,Yveltal,Stakataka,
+Groudon,Stakataka,Tapu Lele,Yveltal,Landorus-Therian,Manectric,
+1
+809777071
+Oranguru,Necrozma-Dusk-Mane,Lopunny,Smeargle,Xerneas,Drifblim,
+Aerodactyl,Kyogre,Lunala,Landorus-Therian,Tapu Lele,Amoonguss,
+2
+809775703
+Tapu Lele,Kyogre,Groudon,Gengar,Bronzong,Hitmontop,
+Aerodactyl,Kyogre,Lunala,Landorus-Therian,Tapu Lele,Amoonguss,
+2
+809752926
+Serperior,Blaziken,Aegislash,Mimikyu,Talonflame,Greninja,
+Venusaur,Incineroar,Lickilicky,Tyranitar,Cradily,Cresselia,
+2
+809748147
+Venusaur,Incineroar,Lickilicky,Tyranitar,Cradily,Cresselia,
+Audino,Kyogre,Celesteela,Bronzong,Groudon,Amoonguss,
+1
+809743868
+Venusaur,Incineroar,Lickilicky,Tyranitar,Cradily,Cresselia,
+Mewtwo,Comfey,Tapu Koko,Groudon,Gyarados,Muk-Alola,
+1
+809715092
+Oranguru,Scrafty,Landorus-Therian,Kyogre,Tapu Lele,Groudon,
+Yveltal,Tapu Lele,Incineroar,Metagross,Lugia,Naganadel,
+2
+809683979
+Espeon,Serperior,Porygon2,Cresselia,Stakataka,Camerupt,
+Kyogre,Tapu Bulu,Thundurus,Rayquaza,Aegislash,Hitmontop,
+2
+809658925
+Gyarados,Ditto,Ferrothorn,Mamoswine,Crobat,Porygon-Z,
+Volcarona,Oricorio-Pom-Pom,Gastrodon,Hawlucha,Scrafty,Nihilego,
+2
+809627961
+Kyogre,Scizor,Dialga,Whimsicott,Tapu Fini,Ludicolo,
+Lopunny,Kyogre,Lunala,Kartana,Tapu Lele,Landorus,
+1
+809594210
+Kyogre,Scizor,Dialga,Whimsicott,Tapu Fini,Ludicolo,
+Jumpluff,Dialga,Groudon,Bronzong,Heracross,Kommo-o,
+1
+809588796
+Kyogre,Scizor,Dialga,Whimsicott,Tapu Fini,Ludicolo,
+Xurkitree,Staraptor,Paras,Garchomp,Xerneas,Giratina-Origin,
+1
+809541661
+Parasect,Kyogre,Stakataka,Incineroar,Rayquaza,Tapu Koko,
+Araquanid,Tapu Lele,Kyurem-White,Aerodactyl,Groudon,Amoonguss,
+2
+809529773
+Groudon,Xerneas,Tapu Fini,Tapu Koko,Kartana,Toxapex,
+Tapu Koko,Garchomp,Gastrodon-East,Celesteela,Arcanine,Muk-Alola,
+2
+809529426
+Venusaur,Incineroar,Lickilicky,Cradily,Tyranitar,Cresselia,
+Eevee,Mewtwo,Togekiss,Komala,Necrozma-Dusk-Mane,Blacephalon,
+1
+809524064
+Aggron,Blacephalon,Rotom-Mow,Rayquaza,Yveltal,Scolipede,
+Venusaur,Incineroar,Lickilicky,Cradily,Tyranitar,Cresselia,
+2
+809523300
+Parasect,Kyogre,Stakataka,Incineroar,Rayquaza,Tapu Koko,
+Yveltal,Gyarados,Zekrom,Golduck,Celesteela,Ludicolo,
+2
+809508870
+Groudon,Gengar,Sableye,Solgaleo,Clefairy,Crobat,
+Zygarde,Lunala,Salamence,Tapu Fini,Incineroar,Tapu Lele,
+2
+809501885
+Vileplume,Azumarill,Ninetales,Gengar,Bisharp,Vikavolt,
+Politoed,Volcarona,Seismitoad,Thundurus,Ludicolo,Kingdra,
+2
+809502088
+Snorlax,Dialga,Porygon2,Gastrodon,Incineroar,Kyogre,
+Araquanid,Tapu Lele,Kyurem-White,Aerodactyl,Groudon,Amoonguss,
+2
+809500996
+Kyogre,Kingdra,Ludicolo,Gastrodon-East,Metagross,Zygarde,
+Kyogre,Necrozma-Dawn-Wings,Gengar,Whimsicott,Incineroar,Araquanid,
+2
+809490794
+Xerneas,Landorus-Therian,Incineroar,Amoonguss,Kyogre,Tapu Koko,
+Venusaur,Klefki,Kyogre,Goodra,Landorus-Therian,Porygon2,
+1
+809484926
+Araquanid,Tapu Lele,Kyurem-White,Aerodactyl,Groudon,Amoonguss,
+Audino,Kyogre,Celesteela,Bronzong,Groudon,Amoonguss,
+1
+809481268
+Zekrom,Reshiram,Ditto,Lurantis,Tapu Lele,Metagross,
+Kyogre,Groudon,Kartana,Incineroar,Manectric,Tapu Lele,
+1
+809480611
+Groudon,Mimikyu,Araquanid,Gallade,Kangaskhan,Kyogre,
+Araquanid,Tapu Lele,Kyurem-White,Aerodactyl,Groudon,Amoonguss,
+2
+809478049
+Incineroar,Raichu-Alola,Tsareena,Mimikyu,Lycanroc,Araquanid,
+Necrozma-Dusk-Mane,Porygon2,Hariyama,Slowking,Groudon,Banette,
+2
+809474331
+Amoonguss,Mewtwo,Groudon,Stakataka,Tapu Lele,Bronzong,
+Necrozma-Dusk-Mane,Porygon2,Hariyama,Slowking,Groudon,Banette,
+2
+809460625
+Zekrom,Reshiram,Ditto,Lurantis,Tapu Lele,Metagross,
+Rayquaza,Kyogre,Porygon2,Kangaskhan,Zapdos,Ferrothorn,
+1
+809461219
+Araquanid,Tapu Lele,Kyurem-White,Aerodactyl,Groudon,Amoonguss,
+Yveltal,Naganadel,Rayquaza,Greninja,Kartana,Tapu Lele,
+1
+809451346
+Araquanid,Tapu Lele,Kyurem-White,Aerodactyl,Groudon,Amoonguss,
+Groudon,Bronzong,Ferrothorn,Incineroar,Crobat,Xerneas,
+1
+809450286
+Rayquaza,Kyogre,Mimikyu,Togedemaru,Incineroar,Bronzong,
+Zekrom,Reshiram,Ditto,Lurantis,Tapu Lele,Metagross,
+2
+809449087
+Xerneas,Lunala,Salamence,Crobat,Greninja,Manectric,
+Necrozma-Dusk-Mane,Kyogre,Tapu Lele,Incineroar,Amoonguss,Salamence,
+1
+809447265
+Rayquaza,Kyogre,Porygon2,Kangaskhan,Zapdos,Ferrothorn,
+Zekrom,Reshiram,Ditto,Lurantis,Tapu Lele,Metagross,
+2
+809447099
+Luxray,Meowstic,Kyurem-White,Salamence,Lugia,Eelektross,
+Aegislash,Yveltal,Groudon,Ludicolo,Persian-Alola,Gengar,
+2
+809441550
+Incineroar,Xerneas,Amoonguss,Kartana,Groudon,Suicune,
+Audino,Tapu Lele,Kyurem-White,Aerodactyl,Groudon,Amoonguss,
+2
+809421371
+Tapu Koko,Zygarde,Stakataka,Incineroar,Salamence,Lunala,
+Pumpkaboo-*,Alakazam,Tapu Lele,Incineroar,Palkia,Necrozma-Dawn-Wings,
+2
+809422091
+Beedrill,Kyogre,Lunala,Incineroar,Amoonguss,Tapu Lele,
+Parasect,Kyogre,Stakataka,Tapu Lele,Rayquaza,Incineroar,
+1
+809389680
+Mimikyu,Meowstic,Xerneas,Snorlax,Rayquaza,Porygon2,
+Incineroar,Xerneas,Amoonguss,Kartana,Groudon,Suicune,
+1
+809386456
+Mimikyu,Meowstic,Xerneas,Snorlax,Rayquaza,Porygon2,
+Necrozma-Dusk-Mane,Incineroar,Nihilego,Whimsicott,Thundurus,Rayquaza,
+2
+809385819
+Aegislash,Beartic,Necrozma-Dawn-Wings,Swampert,Tentacruel,Kyogre,
+Groudon,Necrozma-Dawn-Wings,Salamence,Tapu Koko,Togekiss,Mawile,
+1
+809384374
+Mimikyu,Meowstic,Xerneas,Snorlax,Rayquaza,Porygon2,
+Groudon,Necrozma-Dawn-Wings,Salamence,Tapu Koko,Togekiss,Mawile,
+1
+809382500
+Mimikyu,Meowstic,Xerneas,Snorlax,Rayquaza,Porygon2,
+Incineroar,Groudon,Yveltal,Gengar,Ribombee,Tapu Koko,
+2
+809372900
+Mimikyu,Meowstic,Xerneas,Snorlax,Rayquaza,Porygon2,
+Kyogre,Groudon,Sceptile,Araquanid,Aegislash,Tapu Koko,
+2
+809370086
+Xerneas,Groudon,Kangaskhan,Tapu Koko,Jumpluff,Tsareena,
+Mimikyu,Meowstic,Xerneas,Snorlax,Rayquaza,Porygon2,
+1
+809364799
+Amoonguss,Mewtwo,Groudon,Stakataka,Tapu Lele,Bronzong,
+Tapu Lele,Kyogre,Groudon,Gengar,Bronzong,Hitmontop,
+1
+809362569
+Mimikyu,Meowstic,Xerneas,Snorlax,Rayquaza,Porygon2,
+Aegislash,Greninja,Groudon,Tapu Lele,Venusaur,Zekrom,
+2
+809357371
+Rayquaza,Gengar,Raichu,Bronzong,Hitmontop,Kyogre,
+Metagross,Zapdos,Landorus-Therian,Tapu Lele,Tapu Fini,Porygon2,
+1
+809355623
+Groudon,Solgaleo,Gengar,Talonflame,Tapu Koko,Tapu Fini,
+Rayquaza,Gengar,Raichu,Bronzong,Hitmontop,Kyogre,
+2
+809352308
+Smeargle,Xerneas,Necrozma-Dawn-Wings,Drifblim,Incineroar,Salamence,
+Masquerain,Lucario,Magmortar,Metagross,Breloom,Clefable,
+1
+809341429
+Amoonguss,Mewtwo,Groudon,Stakataka,Tapu Lele,Bronzong,
+Kyogre,Necrozma-Dawn-Wings,Aegislash,Tapu Fini,Manectric,Ferrothorn,
+2
+809341000
+Metagross,Tapu Lele,Amoonguss,Kyogre,Yveltal,Raichu,
+Kyogre,Rayquaza,Hitmontop,Bronzong,Togedemaru,Gengar,
+2
+809333119
+Aegislash,Beartic,Necrozma-Dawn-Wings,Swampert,Tentacruel,Kyogre,
+Kyogre,Rayquaza,Gengar,Snorlax,Cresselia,Tapu Koko,
+2
+809333049
+Xerneas,Landorus-Therian,Incineroar,Amoonguss,Kyogre,Tapu Koko,
+Kyogre,Rayquaza,Gengar,Snorlax,Cresselia,Tapu Koko,
+1
+809331755
+Xerneas,Landorus-Therian,Incineroar,Amoonguss,Kyogre,Tapu Koko,
+Venusaur,Klefki,Kyogre,Goodra,Gyarados,Porygon2,
+1
+809329741
+Groudon,Mimikyu,Araquanid,Zygarde,Gallade,Kangaskhan,
+Mimikyu,Meowstic,Xerneas,Snorlax,Rayquaza,Porygon2,
+1
+809328254
+Aegislash,Beartic,Necrozma-Dawn-Wings,Swampert,Tentacruel,Kyogre,
+Xerneas,Whimsicott,Swampert,Incineroar,Kartana,Tapu Lele,
+1
+809327969
+Mimikyu,Meowstic,Xerneas,Snorlax,Rayquaza,Porygon2,
+Palkia,Ferrothorn,Whimsicott,Toxicroak,Incineroar,Lugia,
+1
+809327053
+Palkia,Ferrothorn,Whimsicott,Toxicroak,Incineroar,Lugia,
+Smeargle,Xerneas,Necrozma-Dawn-Wings,Drifblim,Tapu Lele,Salamence,
+2
+809325631
+Mimikyu,Meowstic,Xerneas,Snorlax,Rayquaza,Porygon2,
+Aegislash,Beartic,Necrozma-Dawn-Wings,Swampert,Tentacruel,Kyogre,
+2
+809324101
+Aegislash,Beartic,Necrozma-Dawn-Wings,Swampert,Tentacruel,Kyogre,
+Mimikyu,Meowstic,Xerneas,Snorlax,Rayquaza,Porygon2,
+2
+809322594
+Mimikyu,Meowstic,Xerneas,Snorlax,Rayquaza,Porygon2,
+Landorus-Therian,Aegislash,Tapu Koko,Cresselia,Kangaskhan,Tapu Fini,
+1
+809293646
+Zekrom,Reshiram,Ditto,Lurantis,Tapu Lele,Metagross,
+Kyogre,Rayquaza,Togedemaru,Incineroar,Bronzong,Togekiss,
+1
+809292796
+Kyogre,Weavile,Scizor,Landorus-Therian,Rayquaza,Meowstic,
+Zekrom,Reshiram,Ditto,Lurantis,Tapu Lele,Metagross,
+2
+809290420
+Kyogre,Rayquaza,Gengar,Hitmontop,Kartana,Thundurus-Therian,
+Zekrom,Reshiram,Ditto,Lurantis,Tapu Lele,Metagross,
+2
+809289895
+Malamar,Whimsicott,Xerneas,Kyogre,Tapu Koko,Incineroar,
+Smeargle,Xerneas,Groudon,Drifblim,Tapu Lele,Salamence,
+2
+809287122
+Lilligant,Mewtwo,Groudon,Stakataka,Tapu Lele,Bronzong,
+Zekrom,Reshiram,Ditto,Lurantis,Tapu Lele,Metagross,
+2
+809286116
+Rayquaza,Kyogre,Bisharp,Togedemaru,Incineroar,Bronzong,
+Zekrom,Reshiram,Ditto,Lurantis,Tapu Lele,Metagross,
+2
+809281007
+Lucario,Xerneas,Lunala,Incineroar,Nidoking,Tapu Lele,
+Zekrom,Reshiram,Ditto,Lurantis,Tapu Lele,Metagross,
+1
+809278021
+Kyogre,Rayquaza,Tapu Koko,Mantine,Tsareena,Celesteela,
+Zekrom,Reshiram,Ditto,Lurantis,Tapu Lele,Metagross,
+2
+809275062
+Zekrom,Reshiram,Ditto,Lurantis,Tapu Lele,Metagross,
+Audino,Kyogre,Celesteela,Bronzong,Groudon,Amoonguss,
+1
+809269197
+Groudon,Necrozma-Dawn-Wings,Salamence,Tapu Koko,Togekiss,Mawile,
+Zekrom,Reshiram,Ditto,Lucario,Lurantis,Tapu Lele,
+2
+809265580
+Tapu Fini,Volcarona,Kartana,Necrozma-Dusk-Mane,Emolga,Lopunny,
+Kyogre,Yveltal,Tapu Lele,Incineroar,Stakataka,Toxicroak,
+1
+809263468
+Blacephalon,Milotic,Incineroar,Tapu Koko,Latios,Necrozma-Dusk-Mane,
+Groudon,Cherrim,Lunala,Persian-Alola,Seviper,Gardevoir,
+2
+809247252
+Snorlax,Mimikyu,Incineroar,Landorus-Therian,Tapu Koko,Salamence,
+Xerneas,Lunala,Tapu Koko,Incineroar,Ferrothorn,Amoonguss,
+1
+809244437
+Pikachu,Charizard,Venusaur,Blastoise,Snorlax,Espeon,
+Xerneas,Lunala,Tapu Koko,Incineroar,Ferrothorn,Amoonguss,
+2
+809244526
+Rayquaza,Kyogre,Whimsicott,Arcanine,Ludicolo,Escavalier,
+Lugia,Tapu Lele,Gastrodon,Rayquaza,Zapdos,Incineroar,
+2
+809240936
+Clefable,Minior-Orange,Landorus-Therian,Gastrodon-East,Masquerain,Arcanine,
+Lugia,Tapu Lele,Gastrodon,Rayquaza,Zapdos,Incineroar,
+2
+809240118
+Kyogre,Rayquaza,Tapu Koko,Incineroar,Suicune,Seismitoad,
+Incineroar,Mewtwo,Groudon,Stakataka,Tapu Lele,Bronzong,
+1
+809238560
+Tapu Koko,Raichu-Alola,Salamence,Tapu Fini,Whimsicott,Yveltal,
+Incineroar,Mewtwo,Groudon,Stakataka,Tapu Lele,Bronzong,
+1
+809238479
+Whimsicott,Necrozma-Dawn-Wings,Buzzwole,Drampa,Xerneas,Gyarados,
+Lugia,Tapu Lele,Gastrodon,Rayquaza,Zapdos,Incineroar,
+2
+809236283
+Aegislash,Greninja,Groudon,Tapu Lele,Venusaur,Zekrom,
+Lugia,Tapu Lele,Gastrodon,Rayquaza,Zapdos,Incineroar,
+2
+809219409
+Xerneas,Kyogre,Milotic,Pheromosa,Tapu Bulu,Lopunny,
+Milotic,Kyogre,Cresselia,Tapu Koko,Lunala,Manectric,
+2
+809217319
+Amoonguss,Snorlax,Incineroar,Heracross,Cresselia,Zygarde,
+Milotic,Kyogre,Cresselia,Tapu Koko,Lunala,Manectric,
+2
+809212345
+Lugia,Tapu Lele,Gastrodon,Amoonguss,Rayquaza,Zapdos,
+Groudon,Kyogre,Blaziken,Sharpedo,Rotom-Wash,Ferrothorn,
+1
+809170298
+Sceptile,Gyarados,Mimikyu,Araquanid,Tapu Koko,Mudsdale,
+Yveltal,Gyarados,Zekrom,Golduck,Celesteela,Ludicolo,
+2
+809164995
+Necrozma-Dawn-Wings,Kyogre,Kartana,Banette,Araquanid,Tapu Lele,
+Zygarde,Lunala,Salamence,Tapu Fini,Incineroar,Tapu Lele,
+2
+809141999
+Zygarde,Lunala,Salamence,Tapu Fini,Incineroar,Tapu Lele,
+Mawile,Yveltal,Gothitelle,Kyogre,Snorlax,Tapu Fini,
+1
+809141534
+Palkia,Kyogre,Ampharos,Incineroar,Beartic,Persian-Alola,
+Mewtwo,Toxapex,Ribombee,Azumarill,Zygarde,Cloyster,
+2
+809126793
+Mewtwo,Toxapex,Lugia,Ribombee,Crustle,Azumarill,
+Landorus-Therian,Latios,Heatran,Ferrothorn,Zapdos,Hariyama,
+2
+809088333
+Zekrom,Reshiram,Ditto,Lucario,Lurantis,Sylveon,
+Sceptile,Tapu Koko,Lugia,Kyogre,Landorus-Therian,Scizor,
+1
+809086150
+Zekrom,Reshiram,Ditto,Lucario,Lurantis,Sylveon,
+Tapu Lele,Necrozma-Dusk-Mane,Cresselia,Groudon,Blaziken,Manectric,
+1
+809084615
+Tapu Lele,Necrozma-Dusk-Mane,Whimsicott,Kyogre,Infernape,Gengar,
+Zekrom,Reshiram,Ditto,Lucario,Lurantis,Sylveon,
+2
+809080304
+Tapu Lele,Necrozma-Dusk-Mane,Cresselia,Salamence,Groudon,Blaziken,
+Aegislash,Eelektross,Necrozma-Dawn-Wings,Swampert,Tentacruel,Kyogre,
+1
+809068458
+Zekrom,Reshiram,Ditto,Lucario,Lurantis,Sylveon,
+Tapu Lele,Necrozma-Dusk-Mane,Cresselia,Salamence,Groudon,Blaziken,
+2
+809074201
+Zekrom,Reshiram,Ditto,Lucario,Lurantis,Sylveon,
+Kyogre,Xerneas,Tapu Lele,Metagross,Salazzle,Amoonguss,
+2
+809072041
+Tapu Lele,Necrozma-Dusk-Mane,Cresselia,Salamence,Groudon,Blaziken,
+Kyogre,Xerneas,Tapu Lele,Metagross,Salazzle,Amoonguss,
+1
+809014894
+Xerneas,Landorus-Therian,Incineroar,Amoonguss,Kyogre,Tapu Koko,
+Incineroar,Mewtwo,Groudon,Stakataka,Tapu Lele,Bronzong,
+1
+809004177
+Garchomp,Pinsir,Gengar,Clawitzer,Muk-Alola,Scrafty,
+Aegislash,Xerneas,Incineroar,Amoonguss,Tapu Fini,Snorlax,
+1
+808995030
+Xerneas,Incineroar,Tapu Koko,Amoonguss,Kyogre,Kartana,
+Xerneas,Landorus-Therian,Incineroar,Amoonguss,Kyogre,Kartana,
+2
+808993352
+Tapu Lele,Necrozma-Dusk-Mane,Cresselia,Salamence,Groudon,Blaziken,
+Landorus-Therian,Zekrom,Tapu Koko,Kyogre,Crobat,Lucario,
+1
+808980571
+Ninetales-Alola,Kyurem-White,Bronzong,Lopunny,Tapu Fini,Yveltal,
+Groudon,Venusaur,Yveltal,Landorus-Therian,Tapu Fini,Tyranitar,
+1
+808978862
+Tapu Lele,Necrozma-Dusk-Mane,Cresselia,Salamence,Groudon,Blaziken,
+Kyogre,Mewtwo,Thundurus,Tapu Lele,Cresselia,Kartana,
+1
+808958330
+Xerneas,Landorus-Therian,Incineroar,Amoonguss,Kyogre,Kartana,
+Yveltal,Kyogre,Nihilego,Ludicolo,Incineroar,Tapu Koko,
+1
+808949634
+Ambipom,Simipour,Xurkitree,Mewtwo,Giratina-Origin,Skuntank,
+Incineroar,Sableye,Raichu,Gengar,Tapu Fini,Shedinja,
+1
+808946384
+Incineroar,Sableye,Raichu,Gengar,Tapu Fini,Shedinja,
+Ninetales-Alola,Cloyster,Articuno,Lapras,Mandibuzz,Abomasnow,
+1
+808944531
+Necrozma-Dusk-Mane,Kyogre,Tapu Lele,Incineroar,Amoonguss,Salamence,
+Palkia,Rayquaza,Gengar,Tapu Koko,Bronzong,Landorus-Therian,
+2
+808942475
+Gastrodon-East,Necrozma-Dusk-Mane,Xerneas,Ludicolo,Incineroar,Salamence,
+Palkia,Rayquaza,Gengar,Tapu Koko,Bronzong,Landorus-Therian,
+2
+808940573
+Necrozma-Dusk-Mane,Hitmontop,Ferrothorn,Yveltal,Salamence,Tapu Lele,
+Palkia,Rayquaza,Gengar,Tapu Koko,Bronzong,Landorus-Therian,
+1
+808935827
+Groudon,Necrozma-Dusk-Mane,Gengar,Tapu Lele,Incineroar,Amoonguss,
+Tapu Fini,Volcarona,Kartana,Necrozma-Dusk-Mane,Emolga,Lopunny,
+2
+808929456
+Necrozma-Dusk-Mane,Kyogre,Salamence,Tapu Lele,Incineroar,Hitmontop,
+Necrozma-Dusk-Mane,Hitmontop,Ferrothorn,Yveltal,Salamence,Tapu Lele,
+2
+808927243
+Salamence,Xerneas,Crobat,Groudon,Cresselia,Incineroar,
+Necrozma-Dawn-Wings,Tapu Lele,Xerneas,Smeargle,Ferrothorn,Salamence,
+2
+808925536
+Salamence,Xerneas,Crobat,Groudon,Cresselia,Incineroar,
+Necrozma-Dawn-Wings,Tapu Lele,Xerneas,Smeargle,Ferrothorn,Salamence,
+2
+808920028
+Ninetales-Alola,Kyurem-White,Bronzong,Lopunny,Tapu Fini,Yveltal,
+Incineroar,Groudon,Giratina-Origin,Oranguru,Tapu Fini,Venusaur,
+1
+808904581
+Necrozma-Dusk-Mane,Yveltal,Tapu Fini,Incineroar,Hitmontop,Ferrothorn,
+Rayquaza,Kyogre,Porygon2,Kangaskhan,Zapdos,Ferrothorn,
+1
+808880427
+Palkia,Rayquaza,Gengar,Tapu Koko,Bronzong,Landorus-Therian,
+Rayquaza,Kyogre,Muk-Alola,Malamar,Crobat,Tapu Koko,
+1
+808876054
+Kyogre,Tapu Fini,Beedrill,Necrozma-Dusk-Mane,Amoonguss,Incineroar,
+Palkia,Rayquaza,Gengar,Tapu Koko,Bronzong,Landorus-Therian,
+2
+808867403
+Metagross,Tapu Lele,Amoonguss,Kyogre,Yveltal,Raichu,
+Kyogre,Necrozma-Dawn-Wings,Aegislash,Tapu Fini,Manectric,Ferrothorn,
+1
+808861701
+Incineroar,Giratina-Origin,Suicune,Groudon,Scizor,Shiftry,
+Kyogre,Tapu Bulu,Celesteela,Raichu,Incineroar,Rayquaza,
+2
+808859361
+Xerneas,Landorus-Therian,Incineroar,Amoonguss,Kyogre,Kartana,
+Tapu Lele,Yveltal,Metagross,Landorus-Therian,Ludicolo,Kyogre,
+1
+808858623
+Tapu Koko,Incineroar,Metagross,Xerneas,Kyogre,Stakataka,
+Xerneas,Landorus-Therian,Incineroar,Amoonguss,Kyogre,Kartana,
+2
+808853373
+Smeargle,Talonflame,Kangaskhan,Salamence,Xerneas,Groudon,
+Necrozma-Dawn-Wings,Groudon,Tapu Lele,Amoonguss,Manectric,Hydreigon,
+2
+808851314
+Yveltal,Tapu Lele,Kyogre,Heatran,Gyarados,Raichu,
+Xerneas,Landorus-Therian,Incineroar,Amoonguss,Kyogre,Kartana,
+2
+808850076
+Xerneas,Landorus-Therian,Incineroar,Amoonguss,Kyogre,Kartana,
+Oranguru,Aggron,Aromatisse,Clawitzer,Drampa,Emboar,
+1
+808846468
+Gardevoir,Swampert,Kyogre,Linoone,Togekiss,Chatot,
+Xerneas,Landorus-Therian,Incineroar,Amoonguss,Kyogre,Kartana,
+2
+808831998
+Smeargle,Kartana,Kyogre,Tapu Koko,Gengar,Xerneas,
+Xerneas,Kyogre,Salamence,Tapu Bulu,Incineroar,Tapu Lele,
+1
+808809639
+Tapu Koko,Incineroar,Cresselia,Groudon,Kyogre,Ferrothorn,
+Ho-Oh,Groudon,Blaziken,Comfey,Ambipom,Gengar,
+1
+808807134
+Incineroar,Xerneas,Groudon,Tapu Lele,Venusaur,Kangaskhan,
+Beedrill,Kyogre,Lunala,Incineroar,Amoonguss,Tapu Lele,
+2
+808804526
+Xerneas,Groudon,Kangaskhan,Tapu Koko,Jumpluff,Tsareena,
+Kyogre,Scizor,Dialga,Whimsicott,Tapu Fini,Ludicolo,
+2
+808802130
+Gothitelle,Xerneas,Groudon,Salamence,Parasect,Incineroar,
+Kyogre,Scizor,Dialga,Whimsicott,Tapu Fini,Ludicolo,
+2
+808784864
+Necrozma-Dusk-Mane,Incineroar,Ferrothorn,Kyogre,Gengar,Tapu Lele,
+Audino,Kyogre,Celesteela,Bronzong,Groudon,Amoonguss,
+1
+808783777
+Necrozma-Dusk-Mane,Hitmontop,Ferrothorn,Yveltal,Salamence,Tapu Lele,
+Lucario,Xerneas,Lunala,Smeargle,Nidoking,Tapu Lele,
+1
+808782785
+Necrozma-Dusk-Mane,Hitmontop,Ferrothorn,Yveltal,Salamence,Tapu Lele,
+Mewtwo,Comfey,Tapu Koko,Groudon,Gyarados,Muk-Alola,
+1
+808771358
+Kyogre,Tapu Bulu,Celesteela,Raichu,Incineroar,Rayquaza,
+Kyogre,Tapu Lele,Ludicolo,Incineroar,Amoonguss,Necrozma-Dusk-Mane,
+1
+808766928
+Lopunny,Kyogre,Lunala,Kartana,Weavile,Landorus,
+Necrozma-Dusk-Mane,Incineroar,Ferrothorn,Kyogre,Salamence,Tapu Lele,
+2
+808759153
+Rayquaza,Kyogre,Mawile,Togedemaru,Incineroar,Bronzong,
+Lopunny,Kyogre,Lunala,Kartana,Weavile,Landorus,
+1
+808752875
+Incineroar,Malamar,Cresselia,Groudon,Yveltal,Aggron,
+Xerneas,Kyogre,Tapu Koko,Celesteela,Hitmontop,Ludicolo,
+2
+808749410
+Oranguru,Aggron,Aromatisse,Clawitzer,Drampa,Emboar,
+Solgaleo,Groudon,Lickilicky,Exeggutor-Alola,Pikachu,Shedinja,
+2
+808746969
+Gengar,Incineroar,Kartana,Zygarde,Kommo-o,Tapu Bulu,
+Groudon,Bronzong,Salamence,Rayquaza,Landorus-Therian,Ribombee,
+1
+808744532
+Beedrill,Kyogre,Lunala,Incineroar,Amoonguss,Tapu Lele,
+Groudon,Cherrim,Lunala,Persian-Alola,Seviper,Gardevoir,
+2
+808740931
+Groudon,Cherrim,Lunala,Persian-Alola,Seviper,Gardevoir,
+Groudon,Bronzong,Salamence,Rayquaza,Landorus-Therian,Ribombee,
+1
+808736289
+Xerneas,Regigigas,Milotic,Aggron,Alakazam,Altaria,
+Tyranitar,Swampert,Dialga,Mimikyu,Infernape,Tornadus-Therian,
+1
+808731125
+Incineroar,Xerneas,Smeargle,Tapu Lele,Groudon,Zapdos,
+Kyogre,Yveltal,Celesteela,Incineroar,Gengar,Tapu Bulu,
+1
+808728534
+Groudon,Victreebel,Tapu Lele,Mewtwo,Pachirisu,Slurpuff,
+Aggron,Blacephalon,Rotom-Mow,Rayquaza,Yveltal,Scolipede,
+1
+808728714
+Incineroar,Xerneas,Smeargle,Tapu Lele,Groudon,Zapdos,
+Xerneas,Incineroar,Kyogre,Ferrothorn,Tapu Lele,Landorus,
+1
+808724443
+Lugia,Tapu Lele,Chandelure,Zapdos,Gastrodon,Mewtwo,
+Reshiram,Mewtwo,Gardevoir,Salazzle,Latias,Aegislash,
+1
+808722140
+Groudon,Bronzong,Salamence,Rayquaza,Landorus-Therian,Ribombee,
+Lugia,Tapu Lele,Chandelure,Zapdos,Gastrodon,Mewtwo,
+2
+808700166
+Kyogre,Yveltal,Celesteela,Incineroar,Gengar,Tapu Bulu,
+Zygarde,Lunala,Salamence,Tapu Fini,Incineroar,Tapu Lele,
+2
+808688949
+Rayquaza,Kyogre,Tapu Koko,Ferrothorn,Hitmontop,Landorus-Therian,
+Rayquaza,Yveltal,Heatran,Tsareena,Raichu,Tapu Lele,
+2
+808680878
+Zygarde,Lunala,Salamence,Tapu Fini,Incineroar,Tapu Lele,
+Smeargle,Xerneas,Togekiss,Lunala,Weavile,Terrakion,
+1
+808678552
+Clawitzer,Kyogre,Florges-Blue,Seismitoad,Pheromosa,Cresselia,
+Clefable,Cresselia,Tapu Fini,Groudon,Landorus-Therian,Mawile,
+1
+808676302
+Chimchar,Pikachu,Vaporeon,Elekid,Charmander,Floatzel,
+Clawitzer,Kyogre,Florges-Blue,Seismitoad,Pheromosa,Cresselia,
+2
+808674652
+Chimchar,Pikachu,Vaporeon,Elekid,Charmander,Floatzel,
+Clawitzer,Kyogre,Florges-Blue,Seismitoad,Pheromosa,Cresselia,
+2
+808671680
+Regigigas,Kyogre,Venusaur,Cresselia,Blaziken,Rayquaza,
+Clawitzer,Kyogre,Florges-Blue,Seismitoad,Pheromosa,Cresselia,
+2
+808668255
+Beedrill,Kyogre,Lunala,Incineroar,Amoonguss,Tapu Lele,
+Crobat,Groudon,Xerneas,Incineroar,Bronzong,Salamence,
+1
+808662152
+Regigigas,Kyogre,Venusaur,Cresselia,Blaziken,Rayquaza,
+Latias,Naganadel,Greninja,Feraligatr,Xurkitree,Mimikyu,
+1
+808651098
+Lunala,Terrakion,Rayquaza,Lapras,Scolipede,Tapu Koko,
+Kyogre,Cresselia,Groudon,Tapu Fini,Gourgeist-*,Audino,
+1
+808647381
+Rayquaza,Incineroar,Xerneas,Tapu Fini,Ferrothorn,Gothitelle,
+Groudon,Togekiss,Raichu,Ferrothorn,Golduck,Necrozma-Dusk-Mane,
+1
+808645193
+Rayquaza,Kyogre,Bronzong,Hitmontop,Raichu,Gengar,
+Incineroar,Mudsdale,Salazzle,Lycanroc-Dusk,Bewear,Toxapex,
+1
+808631634
+Thundurus,Kyogre,Toxicroak,Gothitelle,Jellicent,Mawile,
+Incineroar,Groudon,Metagross,Crobat,Zygarde,Tapu Fini,
+2
+808622250
+Ludicolo,Incineroar,Necrozma-Dusk-Mane,Xerneas,Salamence,Gastrodon,
+Zekrom,Reshiram,Ditto,Lucario,Lurantis,Sylveon,
+2
+808621520
+Kyogre,Incineroar,Ferrothorn,Tapu Koko,Salamence,Lunala,
+Incineroar,Groudon,Metagross,Crobat,Zygarde,Tapu Fini,
+2
+808612640
+Groudon,Cresselia,Yveltal,Gengar,Crobat,Latias,
+Incineroar,Groudon,Metagross,Crobat,Zygarde,Tapu Fini,
+2
+808599671
+Zekrom,Reshiram,Ditto,Lucario,Lurantis,Sylveon,
+Salamence,Xerneas,Incineroar,Ferrothorn,Cresselia,Groudon,
+1
+808593065
+Zekrom,Reshiram,Ditto,Lucario,Lurantis,Sylveon,
+Xerneas,Incineroar,Tapu Koko,Amoonguss,Kyogre,Kartana,
+1
+808584211
+Xerneas,Lunala,Salamence,Crobat,Greninja,Manectric,
+Palkia,Salazzle,Nidoking,Rayquaza,Tapu Koko,Amoonguss,
+1
+808580993
+Xerneas,Incineroar,Kyogre,Ferrothorn,Lickitung,Tapu Lele,
+Xerneas,Lunala,Salamence,Crobat,Greninja,Manectric,
+2
+808561626
+Tornadus,Kyogre,Rayquaza,Empoleon,Raikou,Landorus-Therian,
+Tapu Koko,Incineroar,Stakataka,Ludicolo,Giratina-Origin,Ho-Oh,
+1
+808553616
+Ho-Oh,Blaziken,Lugia,Latios,Zapdos,Togekiss,
+Gengar,Kommo-o,Weavile,Shuckle,Chansey,Groudon,
+1
+808540767
+Kyogre,Altaria,Ferrothorn,Salamence,Necrozma-Dusk-Mane,Lopunny,
+Yveltal,Groudon,Metagross,Venusaur,Naganadel,Tapu Lele,
+1
+808513564
+Kyogre,Rayquaza,Whimsicott,Arcanine,Aegislash,Ludicolo,
+Pheromosa,Tapu Lele,Garchomp,Gyarados,Drifblim,Magnezone,
+2
+808504808
+Groudon,Mewtwo,Cresselia,Incineroar,Tapu Lele,Zapdos,
+Kyogre,Ludicolo,Cresselia,Rayquaza,Aegislash,Salamence,
+2
+808500551
+Giratina-Origin,Yveltal,Kartana,Tapu Lele,Amoonguss,Tyranitar,
+Volcarona,Groudon,Togekiss,Kartana,Zekrom,Nihilego,
+1
+808494704
+Incineroar,Necrozma-Dusk-Mane,Tapu Lele,Thundurus,Mewtwo,Gastrodon,
+Landorus-Therian,Lugia,Tapu Koko,Incineroar,Groudon,Naganadel,
+2
+808496343
+Zekrom,Reshiram,Ditto,Lucario,Lurantis,Sylveon,
+Salamence,Xerneas,Incineroar,Ferrothorn,Cresselia,Groudon,
+2
+808493709
+Kyogre,Raichu,Blastoise,Necrozma-Dusk-Mane,Conkeldurr,Kartana,
+Giratina-Origin,Yveltal,Kartana,Tapu Lele,Amoonguss,Tyranitar,
+2
+808490966
+Zekrom,Reshiram,Ditto,Lucario,Lurantis,Sylveon,
+Kyogre,Bronzong,Amoonguss,Kartana,Incineroar,Xerneas,
+1
+808489584
+Incineroar,Xerneas,Groudon,Tapu Lele,Venusaur,Kangaskhan,
+Zekrom,Reshiram,Ditto,Lucario,Lurantis,Sylveon,
+2
+808485045
+Landorus-Therian,Lugia,Tapu Koko,Incineroar,Groudon,Naganadel,
+Incineroar,Xerneas,Groudon,Tapu Lele,Venusaur,Kangaskhan,
+1
+808482941
+Bellossom,Landorus-Therian,Groudon,Malamar,Lucario,Tapu Lele,
+Zekrom,Reshiram,Ditto,Lucario,Lurantis,Tapu Lele,
+2
+808474661
+Luxray,Metagross,Palkia,Kyogre,Tapu Fini,Incineroar,
+Tapu Lele,Necrozma-Dusk-Mane,Blaziken,Groudon,Latios,Pheromosa,
+2
+808476855
+Smeargle,Talonflame,Kangaskhan,Salamence,Xerneas,Groudon,
+Tapu Lele,Necrozma-Dusk-Mane,Cresselia,Zapdos,Salamence,Groudon,
+2
+808471352
+Smeargle,Talonflame,Kangaskhan,Salamence,Xerneas,Groudon,
+Giratina,Landorus-Therian,Kangaskhan,Lugia,Tapu Koko,Incineroar,
+2
+808471737
+Groudon,Ho-Oh,Blaziken,Salazzle,Charizard,Heatran,
+Zekrom,Reshiram,Ditto,Lucario,Lurantis,Tapu Lele,
+2
+808471065
+Tapu Lele,Necrozma-Dusk-Mane,Blaziken,Groudon,Latios,Pheromosa,
+Necrozma-Dusk-Mane,Kyogre,Tapu Lele,Incineroar,Amoonguss,Salamence,
+1
+808470871
+Ho-Oh,Rayquaza,Aegislash,Mienshao,Gastrodon-East,Staraptor,
+Metagross,Xerneas,Tapu Koko,Whimsicott,Landorus-Therian,Kyogre,
+1
+808468663
+Necrozma-Dusk-Mane,Kyogre,Tapu Lele,Incineroar,Amoonguss,Salamence,
+Tapu Lele,Necrozma-Dusk-Mane,Cresselia,Zapdos,Salamence,Groudon,
+2
+808468299
+Ho-Oh,Rayquaza,Aegislash,Mienshao,Gastrodon-East,Staraptor,
+Rayquaza,Mimikyu-Totem,Raichu-Alola,Garchomp,Palkia,Incineroar,
+1
+808457960
+Groudon,Necrozma-Dusk-Mane,Amoonguss,Incineroar,Tapu Lele,Tapu Koko,
+Giratina,Stakataka,Cresselia,Lugia,Landorus-Therian,Kangaskhan,
+2
+808456934
+Ferrothorn,Milotic,Tapu Koko,Incineroar,Landorus-Therian,Tyranitar,
+Xerneas,Tapu Fini,Altaria,Groudon,Muk-Alola,Lilligant,
+2
+808449810
+Giratina,Stakataka,Cresselia,Lugia,Landorus-Therian,Kangaskhan,
+Kyogre,Rayquaza,Kartana,Tapu Lele,Incineroar,Aegislash,
+1
+808450238
+Luxray,Swoobat,Samurott,Salazzle,Whimsicott,Mamoswine,
+Torkoal,Salamence,Silvally-*,Mimikyu,Toxapex,Amoonguss,
+2
+808447869
+Torkoal,Salamence,Silvally-*,Mimikyu,Toxapex,Amoonguss,
+Munchlax,Eevee,Slowbro,Mimikyu,Whimsicott,Marowak-Alola,
+1
+808443785
+Kyogre,Lugia,Swampert,Ludicolo,Landorus-Therian,Metagross,
+Butterfree,Incineroar,Tapu Lele,Necrozma-Dusk-Mane,Glalie,Kyogre,
+1
+808439529
+Incineroar,Rayquaza,Groudon,Crobat,Cresselia,Tapu Lele,
+Lunala,Terrakion,Rayquaza,Lapras,Scolipede,Tapu Koko,
+1
+808437790
+Cresselia,Yveltal,Groudon,Incineroar,Tapu Fini,Amoonguss,
+Salamence,Groudon,Xerneas,Gothitelle,Amoonguss,Incineroar,
+1
+808433449
+Kangaskhan,Suicune,Palkia,Ferrothorn,Dialga,Incineroar,
+Hariyama,Charizard,Garchomp,Giratina-Origin,Rayquaza,Gyarados,
+1
+808430692
+Incineroar,Rayquaza,Groudon,Crobat,Cresselia,Tapu Lele,
+Cresselia,Yveltal,Groudon,Incineroar,Tapu Fini,Amoonguss,
+1
+808429606
+Tapu Bulu,Marowak-Alola,Pelipper,Toxicroak,Metagross,Tapu Koko,
+Mewtwo,Tapu Lele,Necrozma-Dusk-Mane,Metagross,Raichu-Alola,Alakazam,
+2
+808428345
+Liepard,Xerneas,Mewtwo,Tapu Lele,Crobat,Kartana,
+Salamence,Xerneas,Incineroar,Ferrothorn,Cresselia,Groudon,
+2
+808426105
+Groudon,Salamence,Gastrodon-East,Tapu Bulu,Lugia,Incineroar,
+Mewtwo,Ho-Oh,Tapu Lele,Hydreigon,Ferrothorn,Tapu Koko,
+1
+808422662
+Tapu Koko,Tapu Lele,Kartana,Groudon,Rayquaza,Blaziken,
+Beedrill,Xerneas,Lunala,Incineroar,Landorus-Therian,Amoonguss,
+2
+808417350
+Xerneas,Groudon,Salamence,Talonflame,Kangaskhan,Smeargle,
+Stakataka,Giratina,Incineroar,Groudon,Cresselia,Blacephalon,
+2
+808407876
+Stakataka,Giratina,Incineroar,Groudon,Cresselia,Blacephalon,
+Xerneas,Groudon,Salamence,Talonflame,Kangaskhan,Tapu Koko,
+1
+808402398
+Smeargle,Xerneas,Togekiss,Lunala,Weavile,Terrakion,
+Kyogre,Necrozma-Dawn-Wings,Aegislash,Tapu Fini,Manectric,Ferrothorn,
+1
+808400945
+Stakataka,Giratina,Incineroar,Groudon,Cresselia,Blacephalon,
+Ditto,Kyogre,Rayquaza,Gengar,Smeargle,Raichu,
+1
+808388109
+Kyogre,Rayquaza,Incineroar,Seismitoad,Togedemaru,Amoonguss,
+Gengar,Groudon,Kyogre,Tapu Koko,Cresselia,Weavile,
+1
+808373046
+Kyogre,Rayquaza,Hitmontop,Bronzong,Togedemaru,Gengar,
+Groudon,Kyogre,Salamence,Tapu Koko,Bronzong,Persian-Alola,
+2
+808366171
+Scrafty,Necrozma-Dusk-Mane,Groudon,Gastrodon,Lurantis,Chansey,
+Tapu Koko,Yveltal,Lickilicky,Gengar,Ferrothorn,Necrozma-Dusk-Mane,
+1
+808354476
+Whimsicott,Tapu Fini,Tapu Bulu,Porygon2,Amoonguss,Ampharos,
+Incineroar,Necrozma-Dusk-Mane,Kyogre,Salamence,Tapu Koko,Tapu Bulu,
+1
+808348748
+Salamence,Kartana,Smeargle,Xerneas,Groudon,Cresselia,
+Tapu Lele,Kyogre,Groudon,Gengar,Bronzong,Hitmontop,
+1
+808330682
+Beedrill,Xerneas,Lunala,Incineroar,Landorus-Therian,Amoonguss,
+Ferrothorn,Kyogre,Salamence,Necrozma-Dawn-Wings,Raichu,Cresselia,
+1
+808288694
+Kyogre,Xerneas,Ludicolo,Salamence,Toxicroak,Tapu Koko,
+Tapu Fini,Beedrill,Incineroar,Landorus-Therian,Tsareena,Zapdos,
+2
+808283277
+Kyogre,Groudon,Persian-Alola,Amoonguss,Tapu Fini,Whimsicott,
+Incineroar,Mewtwo,Groudon,Stakataka,Tapu Lele,Bronzong,
+1
+808282878
+Tapu Lele,Necrozma-Dusk-Mane,Rayquaza,Blaziken,Klefki,Zapdos,
+Xerneas,Tsareena,Manectric,Kyogre,Tapu Fini,Porygon2,
+1
+808281630
+Tapu Lele,Necrozma-Dusk-Mane,Rayquaza,Blaziken,Klefki,Zapdos,
+Zekrom,Rayquaza,Tapu Fini,Togekiss,Klefki,Aegislash,
+1
+808279127
+Cresselia,Groudon,Necrozma-Dawn-Wings,Whimsicott,Tapu Lele,Bronzong,
+Tapu Fini,Beedrill,Incineroar,Landorus-Therian,Tsareena,Milotic,
+2
+808268726
+Groudon,Audino,Lurantis,Mantine,Incineroar,Lunala,
+Incineroar,Rayquaza,Groudon,Naganadel,Tapu Lele,Crobat,
+2
+808259422
+Tapu Koko,Rayquaza,Necrozma-Dusk-Mane,Gastrodon,Hitmontop,Ferrothorn,
+Beedrill,Xerneas,Lunala,Incineroar,Landorus-Therian,Amoonguss,
+2
+808243817
+Zygarde,Lunala,Salamence,Tapu Fini,Incineroar,Tapu Lele,
+Incineroar,Rayquaza,Cresselia,Tapu Fini,Zapdos,Groudon,
+1
+808233511
+Incineroar,Rayquaza,Cresselia,Tapu Fini,Zapdos,Groudon,
+Tapu Koko,Raichu-Alola,Salamence,Groudon,Whimsicott,Tapu Fini,
+1
+808232231
+Kyogre,Necrozma-Dawn-Wings,Aegislash,Tapu Fini,Manectric,Ferrothorn,
+Necrozma-Dusk-Mane,Kyogre,Amoonguss,Tapu Lele,Araquanid,Gengar,
+1
+808226942
+Groudon,Victreebel,Tapu Lele,Mewtwo,Kartana,Mimikyu,
+Incineroar,Rayquaza,Cresselia,Tapu Fini,Zapdos,Groudon,
+2
+808226195
+Tyranitar,Swampert,Dialga,Mimikyu,Infernape,Tornadus-Therian,
+Blaziken,Sceptile,Gyarados,Oranguru,Drampa,Florges,
+1
+808211049
+Lunala,Groudon,Tapu Fini,Salamence,Incineroar,Amoonguss,
+Kyogre,Seismitoad,Mimikyu,Kartana,Tapu Lele,Mewtwo,
+1
+808213519
+Incineroar,Groudon,Rayquaza,Cresselia,Stakataka,Tapu Fini,
+Kyogre,Seismitoad,Mimikyu,Kartana,Tapu Lele,Mewtwo,
+1
+808211635
+Incineroar,Groudon,Rayquaza,Cresselia,Stakataka,Tapu Fini,
+Tapu Koko,Yveltal,Lickilicky,Gengar,Ferrothorn,Necrozma-Dusk-Mane,
+1
+808198242
+Incineroar,Amoonguss,Azumarill,Salamence,Metagross,Milotic,
+Yveltal,Gyarados,Zekrom,Golduck,Celesteela,Ludicolo,
+2
+808184856
+Tapu Fini,Beedrill,Incineroar,Landorus-Therian,Tsareena,Golduck,
+Gardevoir,Druddigon,Tapu Koko,Torterra,Araquanid,Aegislash,
+1
+808180120
+Necrozma-Dawn-Wings,Tapu Lele,Araquanid,Kyogre,Banette,Kartana,
+Xerneas,Groudon,Kangaskhan,Tapu Koko,Smeargle,Clefairy,
+1
+808176724
+Necrozma-Dawn-Wings,Tapu Lele,Araquanid,Kyogre,Banette,Kartana,
+Incineroar,Whimsicott,Metagross,Tapu Lele,Groudon,Rayquaza,
+1
+808175610
+Incineroar,Xerneas,Smeargle,Tapu Lele,Groudon,Zapdos,
+Gengar,Hitmontop,Ferrothorn,Necrozma-Dusk-Mane,Kyogre,Tapu Koko,
+1
+808151545
+Lopunny,Celesteela,Rayquaza,Xurkitree,Amoonguss,Lunala,
+Kyurem-White,Yveltal,Landorus-Therian,Breloom,Murkrow,Metagross,
+1
+808148653
+Incineroar,Xerneas,Smeargle,Tapu Lele,Groudon,Zapdos,
+Kyogre,Togedemaru,Rayquaza,Hitmontop,Amoonguss,Slurpuff,
+1
+808146835
+Kyogre,Necrozma-Dawn-Wings,Kartana,Gengar,Hitmontop,Tapu Koko,
+Incineroar,Xerneas,Smeargle,Tapu Lele,Groudon,Zapdos,
+2
+808143249
+Incineroar,Xerneas,Smeargle,Tapu Lele,Groudon,Zapdos,
+Tapu Koko,Tapu Lele,Kartana,Groudon,Kyogre,Blaziken,
+1
+808129260
+Tapu Fini,Beedrill,Incineroar,Landorus-Therian,Whimsicott,Froslass,
+Necrozma-Dawn-Wings,Tapu Lele,Kyogre,Landorus-Therian,Garchomp,Gengar,
+1
+808108555
+Kyogre,Bronzong,Amoonguss,Kartana,Incineroar,Rayquaza,
+Necrozma-Dawn-Wings,Tapu Lele,Kyogre,Landorus-Therian,Garchomp,Gengar,
+2
+808097992
+Kyogre,Hitmontop,Gengar,Raichu,Rayquaza,Bronzong,
+Salamence,Xerneas,Incineroar,Ferrothorn,Cresselia,Groudon,
+2
+808095212
+Kyogre,Hitmontop,Gengar,Raichu,Rayquaza,Bronzong,
+Salamence,Xerneas,Incineroar,Ferrothorn,Cresselia,Groudon,
+2
+808092643
+Salamence,Xerneas,Incineroar,Ferrothorn,Cresselia,Groudon,
+Kyogre,Hitmontop,Gengar,Raichu,Rayquaza,Bronzong,
+2
+808101258
+Milotic,Hitmontop,Tapu Lele,Nihilego,Zygarde,Yveltal,
+Necrozma-Dawn-Wings,Tapu Lele,Gengar,Garchomp,Kyogre,Landorus-Therian,
+2
+808095969
+Amoonguss,Palkia,Smeargle,Solgaleo,Golduck,Wigglytuff,
+Kyogre,Necrozma-Dawn-Wings,Incineroar,Tapu Fini,Manectric,Ferrothorn,
+2
+808092455
+Groudon,Tyranitar,Necrozma-Dawn-Wings,Aegislash,Salamence,Cresselia,
+Porygon2,Mimikyu,Necrozma-Dusk-Mane,Gothitelle,Ludicolo,Aegislash,
+2
+808086750
+Dialga,Kyogre,Oranguru,Tapu Lele,Gengar,Hitmontop,
+Aggron,Blacephalon,Rotom-Mow,Rayquaza,Yveltal,Scolipede,
+1
+808085751
+Salamence,Xerneas,Incineroar,Ferrothorn,Cresselia,Groudon,
+Incineroar,Xerneas,Rayquaza,Naganadel,Crobat,Smeargle,
+2
+808079595
+Lucario,Palkia,Necrozma-Dawn-Wings,Incineroar,Amoonguss,Gardevoir,
+Necrozma-Dawn-Wings,Tapu Lele,Gengar,Salazzle,Garchomp,Groudon,
+2
+808067126
+Salamence,Xerneas,Incineroar,Ferrothorn,Cresselia,Groudon,
+Dialga,Naganadel,Kyogre,Manectric,Snorlax,Braviary,
+1
+808059351
+Tapu Fini,Beedrill,Incineroar,Garchomp,Landorus-Therian,Malamar,
+Xerneas,Smeargle,Talonflame,Groudon,Salamence,Kangaskhan,
+1
+808051305
+Kyogre,Scizor,Yveltal,Luxray,Incineroar,Kartana,
+Rayquaza,Kyogre,Muk-Alola,Malamar,Crobat,Tapu Koko,
+2
+808049341
+Xerneas,Groudon,Kartana,Clefairy,Incineroar,Smeargle,
+Incineroar,Rayquaza,Groudon,Blacephalon,Zapdos,Cresselia,
+2
+808047250
+Zygarde,Altaria,Incineroar,Ferrothorn,Tapu Koko,Kyogre,
+Zekrom,Reshiram,Ditto,Lucario,Lurantis,Tapu Lele,
+2
+808045804
+Yveltal,Groudon,Salamence,Kartana,Raichu,Stakataka,
+Incineroar,Rayquaza,Groudon,Blacephalon,Zapdos,Cresselia,
+2
+808040858
+Zekrom,Reshiram,Ditto,Lucario,Lurantis,Tapu Lele,
+Tapu Lele,Kyogre,Kartana,Amoonguss,Raichu,Yveltal,
+1
+808037055
+Groudon,Salamence,Gastrodon-East,Tapu Bulu,Lugia,Incineroar,
+Sylveon,Gastrodon-East,Incineroar,Porygon2,Jellicent,Kangaskhan,
+1
+808035699
+Incineroar,Rayquaza,Groudon,Blacephalon,Zapdos,Cresselia,
+Xerneas,Groudon,Gothitelle,Hitmontop,Lilligant,Mawile,
+1
+808035734
+Groudon,Salamence,Gastrodon-East,Tapu Bulu,Lugia,Incineroar,
+Araquanid,Blaziken,Aegislash,Xerneas,Bewear,Gengar,
+1
+808032607
+Groudon,Salamence,Gastrodon-East,Tapu Bulu,Lugia,Incineroar,
+Kyogre,Rayquaza,Aegislash,Hitmontop,Thundurus,Tapu Lele,
+1
+808029235
+Yveltal,Groudon,Salamence,Kartana,Raichu,Tapu Koko,
+Groudon,Salamence,Gastrodon-East,Tapu Bulu,Lugia,Incineroar,
+2
+808025575
+Groudon,Salamence,Gastrodon-East,Tapu Bulu,Lugia,Incineroar,
+Kyogre,Groudon,Tornadus,Salamence,Nidoking,Rotom-Wash,
+1
+808022633
+Xerneas,Incineroar,Tapu Koko,Amoonguss,Kyogre,Kartana,
+Zekrom,Reshiram,Ditto,Flygon,Metagross,Porygon-Z,
+2
+808014942
+Necrozma-Dawn-Wings,Groudon,Tapu Lele,Kartana,Smeargle,Manectric,
+Rayquaza,Tapu Lele,Celesteela,Kyogre,Cresselia,Amoonguss,
+2
+808015623
+Xerneas,Incineroar,Tapu Koko,Amoonguss,Kyogre,Kartana,
+Zekrom,Reshiram,Ditto,Flygon,Metagross,Porygon-Z,
+2
+808013868
+Xerneas,Salamence,Amoonguss,Kartana,Incineroar,Groudon,
+Incineroar,Rayquaza,Groudon,Blacephalon,Zapdos,Cresselia,
+2
+808013895
+Thundurus,Kyogre,Bronzong,Ludicolo,Yveltal,Gengar,
+Kyogre,Groudon,Tornadus,Beedrill,Nidoking,Rotom-Wash,
+1
+808005709
+Zekrom,Reshiram,Ditto,Flygon,Metagross,Mandibuzz,
+Sylveon,Gastrodon-East,Incineroar,Porygon2,Jellicent,Kangaskhan,
+2
+808002984
+Zekrom,Reshiram,Ditto,Flygon,Metagross,Mandibuzz,
+Xerneas,Salamence,Amoonguss,Kartana,Incineroar,Groudon,
+1
+807998207
+Rayquaza,Kyogre,Muk-Alola,Malamar,Crobat,Tapu Koko,
+Swadloon,Slowking,Tyranitar,Salamence,Excadrill,Tapu Fini,
+1
+807997308
+Zekrom,Reshiram,Ditto,Flygon,Metagross,Mandibuzz,
+Garchomp,Groudon,Tapu Lele,Lucario,Whimsicott,Rayquaza,
+1
+807982335
+Incineroar,Rayquaza,Groudon,Blacephalon,Zapdos,Cresselia,
+Tapu Lele,Kyogre,Yveltal,Landorus-Therian,Metagross,Kingdra,
+1
+807972695
+Tapu Lele,Ferrothorn,Incineroar,Salamence,Xerneas,Kyogre,
+Incineroar,Rayquaza,Groudon,Blacephalon,Zapdos,Cresselia,
+2
+807968740
+Mewtwo,Ho-Oh,Tapu Lele,Hydreigon,Ferrothorn,Tapu Koko,
+Salamence,Xerneas,Incineroar,Ferrothorn,Cresselia,Groudon,
+2
+807967741
+Incineroar,Rayquaza,Groudon,Blacephalon,Zapdos,Cresselia,
+Mewtwo,Groudon,Nihilego,Tapu Lele,Incineroar,Sceptile,
+1
+807962970
+Salamence,Xerneas,Incineroar,Ferrothorn,Cresselia,Groudon,
+Incineroar,Rayquaza,Groudon,Blacephalon,Zapdos,Cresselia,
+2
+807961823
+Groudon,Xerneas,Gengar,Whimsicott,Kartana,Greninja,
+Kyogre,Xerneas,Kangaskhan,Greninja,Smeargle,Crobat,
+2
+807910091
+Rayquaza,Kyogre,Tapu Koko,Tapu Lele,Kartana,Gengar,
+Tapu Koko,Rayquaza,Kyogre,Zapdos,Cresselia,Ludicolo,
+2
+807906356
+Rayquaza,Kyogre,Muk-Alola,Malamar,Crobat,Tapu Koko,
+Yveltal,Tapu Lele,Kyogre,Heatran,Gyarados,Raichu,
+1
+807895313
+Salamence,Kartana,Smeargle,Xerneas,Groudon,Cresselia,
+Groudon,Necrozma-Dawn-Wings,Salamence,Tapu Koko,Togekiss,Mawile,
+1
+807889336
+Salamence,Kartana,Smeargle,Xerneas,Groudon,Cresselia,
+Xerneas,Gastrodon,Mienshao,Incineroar,Manectric,Groudon,
+1
+807877421
+Xerneas,Salamence,Amoonguss,Kartana,Incineroar,Groudon,
+Salamence,Kartana,Smeargle,Xerneas,Groudon,Cresselia,
+2
+807874192
+Salamence,Kartana,Smeargle,Xerneas,Groudon,Cresselia,
+Groudon,Zekrom,Tapu Koko,Salamence,Crobat,Aegislash,
+1
+807863129
+Xerneas,Kyogre,Salamence,Tapu Bulu,Incineroar,Tapu Lele,
+Yveltal,Groudon,Bronzong,Incineroar,Tapu Fini,Hitmontop,
+1
+807858663
+Rayquaza,Kyogre,Muk-Alola,Malamar,Crobat,Tapu Koko,
+Yveltal,Groudon,Bronzong,Incineroar,Tapu Fini,Hitmontop,
+2
+807855537
+Gastrodon,Naganadel,Incineroar,Manectric,Yveltal,Kyogre,
+Smeargle,Xerneas,Togekiss,Lunala,Whimsicott,Terrakion,
+2
+807852441
+Venusaur,Groudon,Lunala,Sableye,Tapu Lele,Hitmontop,
+Salamence,Incineroar,Kartana,Tapu Koko,Kyogre,Necrozma-Dusk-Mane,
+2
+807845586
+Rayquaza,Lugia,Amoonguss,Tapu Lele,Pheromosa,Tapu Fini,
+Rayquaza,Kyogre,Muk-Alola,Malamar,Crobat,Tapu Koko,
+2
+807832648
+Beedrill,Xerneas,Necrozma-Dawn-Wings,Incineroar,Landorus-Therian,Amoonguss,
+Raichu,Gengar,Groudon,Yveltal,Ferrothorn,Mimikyu,
+1
+807830903
+Rayquaza,Kyogre,Muk-Alola,Malamar,Crobat,Tapu Koko,
+Beedrill,Xerneas,Necrozma-Dawn-Wings,Incineroar,Landorus-Therian,Amoonguss,
+2
+807822010
+Tapu Fini,Beedrill,Gallade,Incineroar,Garchomp,Landorus-Therian,
+Gallade,Aegislash,Hydreigon,Eelektross,Gliscor,Snorlax,
+1
+807820753
+Tapu Lele,Weavile,Cresselia,Kommo-o,Mewtwo,Dialga,
+Tapu Fini,Beedrill,Gallade,Incineroar,Garchomp,Landorus-Therian,
+2
+807818361
+Tapu Fini,Beedrill,Gallade,Incineroar,Garchomp,Landorus-Therian,
+Kyogre,Necrozma-Dawn-Wings,Tapu Lele,Lucario,Gastrodon,Gengar,
+1
+807809910
+Groudon,Rayquaza,Incineroar,Gengar,Ferrothorn,Tapu Koko,
+Kyogre,Groudon,Tapu Lele,Gengar,Togedemaru,Whimsicott,
+1
+807804835
+Xerneas,Bronzong,Salamence,Groudon,Incineroar,Crobat,
+Yveltal,Lunala,Lucario,Tapu Fini,Incineroar,Landorus-Therian,
+2
+807801621
+Tapu Koko,Rayquaza,Kyogre,Zapdos,Cresselia,Ludicolo,
+Necrozma-Dawn-Wings,Zygarde,Celesteela,Bronzong,Tapu Lele,Amoonguss,
+1
+807801824
+Lucario,Aegislash,Zapdos,Groudon,Latios,Suicune,
+Yveltal,Lunala,Lucario,Tapu Fini,Incineroar,Landorus-Therian,
+2
+807795252
+Audino,Kyogre,Celesteela,Bronzong,Groudon,Amoonguss,
+Lunala,Salamence,Amoonguss,Tapu Lele,Incineroar,Xerneas,
+1
+807777281
+Lunala,Salamence,Amoonguss,Tapu Lele,Incineroar,Xerneas,
+Rayquaza,Kyogre,Bronzong,Shedinja,Tapu Lele,Tapu Fini,
+1
+807764554
+Politoed,Swampert,Abomasnow,Hitmontop,Mamoswine,Sandslash-Alola,
+Incineroar,Tapu Koko,Amoonguss,Groudon,Mimikyu,Ferrothorn,
+1
+807748308
+Xerneas,Amoonguss,Groudon,Bronzong,Incineroar,Smeargle,
+Kyogre,Rayquaza,Seismitoad,Togedemaru,Incineroar,Amoonguss,
+1
+807744911
+Kyogre,Tapu Koko,Gothitelle,Xerneas,Smeargle,Hitmontop,
+Manectric,Gengar,Bronzong,Kyogre,Yveltal,Incineroar,
+1
+807740908
+Xerneas,Yveltal,Ludicolo,Incineroar,Amoonguss,Togedemaru,
+Bronzong,Groudon,Kyogre,Kangaskhan,Gengar,Tapu Koko,
+1
+807737024
+Incineroar,Crobat,Naganadel,Rayquaza,Groudon,Tapu Lele,
+Kyogre,Groudon,Tapu Lele,Gengar,Togedemaru,Whimsicott,
+1
+807732903
+Muk-Alola,Necrozma-Dusk-Mane,Xerneas,Swampert,Chesnaught,Oranguru,
+Kyogre,Tapu Lele,Raichu,Yveltal,Lucario,Arcanine,
+1
+807726793
+Tapu Lele,Lunala,Xerneas,Incineroar,Lucario,Amoonguss,
+Lunala,Salamence,Amoonguss,Tapu Lele,Incineroar,Xerneas,
+1
+807719328
+Incineroar,Crobat,Naganadel,Rayquaza,Groudon,Tapu Lele,
+Necrozma-Dusk-Mane,Groudon,Tapu Koko,Incineroar,Ditto,Salamence,
+1
+807714314
+Tapu Lele,Lunala,Xerneas,Incineroar,Lucario,Amoonguss,
+Xerneas,Kyogre,Incineroar,Ludicolo,Landorus-Therian,Tornadus,
+1
+807712856
+Gardevoir,Landorus-Therian,Aegislash,Zapdos,Tapu Fini,Incineroar,
+Ho-Oh,Blaziken,Lugia,Latios,Zapdos,Togekiss,
+1
+807707297
+Incineroar,Crobat,Naganadel,Rayquaza,Groudon,Tapu Lele,
+Necrozma-Dawn-Wings,Groudon,Ferrothorn,Gengar,Tapu Lele,Rotom-Wash,
+1
+807707025
+Gardevoir,Landorus-Therian,Aegislash,Zapdos,Tapu Fini,Incineroar,
+Muk-Alola,Salazzle,Amoonguss,Drapion,Toxapex,Smeargle,
+1
+807699250
+Rayquaza,Kommo-o,Tapu Bulu,Necrozma-Dusk-Mane,Tapu Lele,Ferrothorn,
+Ho-Oh,Sableye,Krookodile,Dedenne,Gyarados,Ninetales-Alola,
+2
+807688874
+Zekrom,Reshiram,Metagross,Togekiss,Garchomp,Ditto,
+Tapu Lele,Lunala,Xerneas,Incineroar,Lucario,Amoonguss,
+2
+807672770
+Yveltal,Groudon,Bronzong,Incineroar,Tapu Fini,Hitmontop,
+Blaziken,Ferrothorn,Kyogre,Tapu Lele,Kyurem-White,Raichu-Alola,
+1
+807670641
+Necrozma-Dusk-Mane,Groudon,Hitmontop,Manectric,Crobat,Greninja,
+Incineroar,Crobat,Naganadel,Rayquaza,Groudon,Tapu Lele,
+2
+807664966
+Tapu Lele,Lunala,Xerneas,Incineroar,Lucario,Amoonguss,
+Lunala,Terrakion,Rayquaza,Lapras,Scolipede,Tapu Koko,
+1
+807661812
+Tapu Lele,Lunala,Xerneas,Incineroar,Lucario,Amoonguss,
+Necrozma-Dawn-Wings,Tapu Lele,Togekiss,Kyogre,Banette,Kartana,
+2
+807659981
+Zekrom,Reshiram,Metagross,Togekiss,Garchomp,Ditto,
+Groudon,Xerneas,Kangaskhan,Naganadel,Tapu Koko,Incineroar,
+1
+807647096
+Zekrom,Reshiram,Metagross,Togekiss,Garchomp,Ditto,
+Mewtwo,Tapu Lele,Kyogre,Ferrothorn,Kartana,Tapu Koko,
+1
+807644932
+Necrozma-Dusk-Mane,Tapu Lele,Tapu Koko,Gothitelle,Xerneas,Smeargle,
+Groudon,Kyogre,Salamence,Tapu Koko,Bronzong,Persian-Alola,
+2
+807645806
+Rayquaza,Kyogre,Porygon2,Kangaskhan,Zapdos,Ferrothorn,
+Incineroar,Crobat,Naganadel,Rayquaza,Groudon,Tapu Lele,
+2
+807645038
+Necrozma-Dusk-Mane,Groudon,Tapu Lele,Ditto,Tyranitar,Cradily,
+Muk-Alola,Necrozma-Dusk-Mane,Xerneas,Swampert,Chesnaught,Oranguru,
+1
+807641074
+Zekrom,Reshiram,Metagross,Togekiss,Garchomp,Ditto,
+Amoonguss,Palkia,Smeargle,Golduck,Primeape,Solgaleo,
+1
+807638805
+Gengar,Incineroar,Tapu Bulu,Groudon,Xerneas,Smeargle,
+Zekrom,Reshiram,Metagross,Togekiss,Garchomp,Ditto,
+2
+807631605
+Beedrill,Lucario,Arcanine,Golduck,Espeon,Roserade,
+Muk-Alola,Necrozma-Dusk-Mane,Xerneas,Swampert,Chesnaught,Oranguru,
+2
+807616056
+Incineroar,Crobat,Naganadel,Rayquaza,Groudon,Tapu Lele,
+Tapu Koko,Salamence,Xerneas,Smeargle,Groudon,Venusaur,
+2
+807599812
+Incineroar,Crobat,Naganadel,Rayquaza,Groudon,Tapu Lele,
+Persian-Alola,Xerneas,Araquanid,Kyogre,Salamence,Tapu Koko,
+1
+807601552
+Xerneas,Lunala,Salamence,Crobat,Greninja,Manectric,
+Kyogre,Necrozma-Dawn-Wings,Incineroar,Tapu Fini,Manectric,Ferrothorn,
+1
+807595759
+Necrozma-Dawn-Wings,Kyogre,Kartana,Banette,Togekiss,Tapu Lele,
+Incineroar,Crobat,Naganadel,Rayquaza,Groudon,Tapu Lele,
+2
+807590357
+Zekrom,Reshiram,Metagross,Togekiss,Garchomp,Ditto,
+Xerneas,Lunala,Salamence,Crobat,Greninja,Manectric,
+1
+807583894
+Lunala,Xerneas,Incineroar,Amoonguss,Tapu Lele,Lucario,
+Rayquaza,Kyogre,Rotom-Wash,Incineroar,Kartana,Hitmontop,
+2
+807577962
+Necrozma-Dusk-Mane,Swampert,Comfey,Scrafty,Kyogre,Crobat,
+Ferrothorn,Raichu,Kyogre,Hitmontop,Yveltal,Gengar,
+2
+807576386
+Necrozma-Dusk-Mane,Swampert,Comfey,Scrafty,Kyogre,Crobat,
+Necrozma-Dusk-Mane,Incineroar,Zygarde,Slowking,Tapu Bulu,Klefki,
+1
+807569102
+Ditto,Kyogre,Rayquaza,Gengar,Smeargle,Raichu,
+Kyogre,Xerneas,Salamence,Raichu,Ferrothorn,Incineroar,
+2
+807564420
+Salamence,Xerneas,Incineroar,Ferrothorn,Cresselia,Groudon,
+Smeargle,Gengar,Tsareena,Bronzong,Kyogre,Rayquaza,
+2
+807554350
+Salamence,Xerneas,Incineroar,Ferrothorn,Cresselia,Groudon,
+Incineroar,Rayquaza,Crobat,Groudon,Tapu Koko,Naganadel,
+2
+807549666
+Zekrom,Reshiram,Metagross,Togekiss,Garchomp,Ditto,
+Mewtwo,Cresselia,Tapu Lele,Groudon,Ferrothorn,Incineroar,
+1
+807539878
+Garchomp,Groudon,Tapu Lele,Lucario,Whimsicott,Rayquaza,
+Incineroar,Mewtwo,Groudon,Stakataka,Tapu Lele,Bronzong,
+2
+807536237
+Necrozma-Dawn-Wings,Yveltal,Gengar,Tapu Bulu,Whimsicott,Terrakion,
+Incineroar,Rayquaza,Crobat,Naganadel,Groudon,Landorus-Therian,
+2
+807520691
+Manectric,Kyogre,Xerneas,Incineroar,Amoonguss,Milotic,
+Kyogre,Swampert,Yveltal,Zapdos,Stakataka,Tapu Fini,
+2
+807519439
+Incineroar,Rayquaza,Crobat,Naganadel,Groudon,Landorus-Therian,
+Tapu Koko,Rayquaza,Necrozma-Dusk-Mane,Gastrodon,Hitmontop,Ferrothorn,
+1
+807511638
+Yveltal,Houndoom,Victreebel,Mr. Mime,Groudon,Guzzlord,
+Kyogre,Tapu Koko,Hypno,Groudon,Hydreigon,Ludicolo,
+2
+807509034
+Rayquaza,Kyogre,Mawile,Togedemaru,Incineroar,Bronzong,
+Kyogre,Cresselia,Groudon,Tapu Fini,Gourgeist-*,Audino,
+1
+807508147
+Groudon,Yveltal,Tapu Lele,Kartana,Ditto,Gothitelle,
+Groudon,Xerneas,Salamence,Incineroar,Amoonguss,Tapu Koko,
+2
+807507676
+Kyogre,Tapu Koko,Hypno,Groudon,Hydreigon,Ludicolo,
+Yveltal,Purugly,Diggersby,Metagross,Groudon,Tapu Koko,
+2
+807502839
+Kyogre,Tapu Koko,Hypno,Groudon,Hydreigon,Ludicolo,
+Rayquaza,Kyogre,Mawile,Togedemaru,Incineroar,Bronzong,
+2
+807501554
+Groudon,Yveltal,Tapu Lele,Kartana,Ditto,Gothitelle,
+Salamence,Xerneas,Incineroar,Ferrothorn,Cresselia,Groudon,
+1
+807497831
+Kyogre,Tapu Koko,Hypno,Groudon,Hydreigon,Ludicolo,
+Necrozma-Dusk-Mane,Tapu Lele,Groudon,Drifblim,Camerupt,Persian-Alola,
+1
+807495365
+Kyogre,Tapu Koko,Hypno,Groudon,Hydreigon,Ludicolo,
+Kyurem-White,Bronzong,Kyogre,Gengar,Poliwrath,Tapu Koko,
+1
+807493306
+Kyogre,Tapu Koko,Hypno,Groudon,Hydreigon,Ludicolo,
+Mewtwo,Cresselia,Tapu Lele,Groudon,Ferrothorn,Incineroar,
+1
+807484107
+Kyogre,Greninja,Sceptile,Kommo-o,Landorus-Therian,Solgaleo,
+Kyogre,Tapu Koko,Groudon,Hydreigon,Bronzong,Tapu Lele,
+2
+807485018
+Kartana,Incineroar,Kyogre,Xerneas,Salamence,Tapu Koko,
+Cresselia,Yveltal,Groudon,Incineroar,Tapu Fini,Kartana,
+2
+807476464
+Groudon,Kyogre,Cofagrigus,Gothitelle,Snorlax,Audino,
+Palkia,Bronzong,Venusaur,Groudon,Incineroar,Tapu Lele,
+2
+807472619
+Kyogre,Necrozma-Dawn-Wings,Incineroar,Tapu Fini,Manectric,Ferrothorn,
+Kyogre,Eevee,Smeargle,Latios,Solgaleo,Tapu Lele,
+1
+807466848
+Incineroar,Tapu Lele,Mewtwo,Necrozma-Dusk-Mane,Crobat,Stakataka,
+Kyogre,Rayquaza,Persian-Alola,Amoonguss,Zapdos,Tapu Fini,
+2
+807467805
+Kyogre,Necrozma-Dawn-Wings,Incineroar,Tapu Fini,Manectric,Ferrothorn,
+Mewtwo,Kyogre,Tapu Koko,Landorus-Therian,Ludicolo,Crobat,
+1
+807464294
+Metagross,Tapu Lele,Raichu,Amoonguss,Kyogre,Yveltal,
+Incineroar,Tapu Lele,Mewtwo,Necrozma-Dusk-Mane,Crobat,Stakataka,
+2
+807452258
+Kyogre,Rayquaza,Persian-Alola,Amoonguss,Zapdos,Tapu Fini,
+Groudon,Necrozma-Dawn-Wings,Audino,Snorlax,Tapu Fini,Dugtrio,
+1
+807451449
+Xerneas,Lunala,Lucario,Tapu Lele,Amoonguss,Incineroar,
+Incineroar,Rayquaza,Crobat,Naganadel,Groudon,Landorus-Therian,
+2
+807450101
+Kyogre,Incineroar,Milotic,Clefable,Amoonguss,Lunala,
+Kyogre,Dialga,Amoonguss,Tapu Koko,Kartana,Incineroar,
+2
+807444604
+Rayquaza,Groudon,Gengar,Ludicolo,Cresselia,Tornadus,
+Incineroar,Rayquaza,Crobat,Naganadel,Groudon,Landorus-Therian,
+2
+807437256
+Ditto,Kyogre,Rayquaza,Gengar,Smeargle,Raichu,
+Metagross,Tapu Lele,Raichu,Amoonguss,Kyogre,Yveltal,
+2
+807437807
+Rayquaza,Kyogre,Porygon2,Kangaskhan,Zapdos,Ferrothorn,
+Kyogre,Rayquaza,Hitmontop,Bronzong,Togedemaru,Gengar,
+2
+807439230
+Groudon,Tapu Fini,Gengar,Necrozma-Dawn-Wings,Bronzong,Incineroar,
+Yveltal,Groudon,Espeon,Crobat,Gengar,Mawile,
+1
+807435989
+Ditto,Kyogre,Rayquaza,Gengar,Smeargle,Raichu,
+Tapu Lele,Mewtwo,Groudon,Weavile,Tapu Fini,Salamence,
+2
+807434559
+Kyogre,Yveltal,Landorus-Therian,Togedemaru,Cresselia,Lucario,
+Tapu Lele,Mewtwo,Groudon,Weavile,Tapu Fini,Salamence,
+1
+807424026
+Reshiram,Zekrom,Salamence,Landorus-Therian,Crobat,Aegislash,
+Tapu Lele,Mewtwo,Groudon,Weavile,Tapu Fini,Salamence,
+1
+807433117
+Cinccino,Golduck,Incineroar,Rayquaza,Porygon-Z,Kyogre,
+Incineroar,Rayquaza,Crobat,Naganadel,Groudon,Landorus-Therian,
+2
+807410272
+Xerneas,Groudon,Tapu Koko,Incineroar,Kartana,Crobat,
+Lugia,Kyogre,Umbreon,Arcanine,Altaria,Ferrothorn,
+2
+807405473
+Lugia,Kyogre,Umbreon,Arcanine,Altaria,Ferrothorn,
+Kyogre,Yveltal,Landorus-Therian,Ferrothorn,Klefki,Tapu Koko,
+1
+807404986
+Tapu Lele,Mewtwo,Groudon,Weavile,Tapu Fini,Salamence,
+Incineroar,Mewtwo,Groudon,Stakataka,Tapu Lele,Bronzong,
+2
+807395762
+Kyogre,Yveltal,Gengar,Tsareena,Celesteela,Raichu,
+Groudon,Gengar,Sableye,Solgaleo,Clefairy,Exeggutor,
+1
+807386245
+Metagross,Tapu Lele,Raichu,Amoonguss,Kyogre,Yveltal,
+Tapu Lele,Lunala,Xerneas,Incineroar,Lucario,Amoonguss,
+1
+807383718
+Lunala,Salamence,Amoonguss,Tapu Lele,Incineroar,Xerneas,
+Groudon,Salamence,Tapu Koko,Cresselia,Xerneas,Muk-Alola,
+1
+807375924
+Kyogre,Swampert,Zapdos,Froslass,Tapu Lele,Tyranitar,
+Kangaskhan,Yveltal,Groudon,Landorus-Therian,Tapu Fini,Stakataka,
+2
+807374894
+Gothitelle,Tapu Koko,Mawile,Rayquaza,Kyogre,Scrafty,
+Kyogre,Swampert,Zapdos,Froslass,Tapu Lele,Tyranitar,
+1
+807372124
+Incineroar,Mewtwo,Groudon,Stakataka,Tapu Lele,Bronzong,
+Kyogre,Rayquaza,Tapu Bulu,Whimsicott,Incineroar,Gengar,
+1
+807371540
+Incineroar,Lopunny,Xerneas,Groudon,Crobat,Terrakion,
+Groudon,Lunala,Salamence,Mimikyu,Tapu Lele,Alakazam,
+2
+807357766
+Groudon,Lunala,Salamence,Mimikyu,Tapu Lele,Alakazam,
+Rayquaza,Gengar,Necrozma-Dusk-Mane,Incineroar,Kartana,Tapu Koko,
+1
+807353471
+Beedrill,Terrakion,Venomoth,Golduck,Espeon,Lucario,
+Mewtwo,Ho-Oh,Tapu Lele,Umbreon,Ferrothorn,Tapu Koko,
+1
+807351536
+Altaria,Incineroar,Muk-Alola,Porygon2,Tapu Fini,Marowak-Alola,
+Beedrill,Terrakion,Venomoth,Weavile,Golduck,Espeon,
+2
+807349922
+Beedrill,Terrakion,Venomoth,Weavile,Golduck,Espeon,
+Metagross,Amoonguss,Tapu Fini,Porygon2,Incineroar,Garchomp,
+1
+807348848
+Malamar,Whimsicott,Xerneas,Kyogre,Tapu Koko,Incineroar,
+Beedrill,Terrakion,Venomoth,Weavile,Golduck,Espeon,
+2
+807347436
+Mewtwo,Ho-Oh,Tapu Lele,Umbreon,Ferrothorn,Raichu,
+Beedrill,Terrakion,Venomoth,Weavile,Golduck,Espeon,
+1
+807344636
+Naganadel,Kommo-o,Groudon,Xerneas,Incineroar,Houndoom,
+Lopunny,Kyogre,Lunala,Kartana,Primarina,Landorus,
+1
+807343843
+Kyogre,Ludicolo,Bronzong,Groudon,Hydreigon,Tapu Koko,
+Lopunny,Kyogre,Lunala,Kartana,Primarina,Landorus,
+2
+807342489
+Lunala,Groudon,Tapu Fini,Salamence,Incineroar,Amoonguss,
+Kyogre,Ludicolo,Bronzong,Groudon,Hydreigon,Tapu Koko,
+2
+807311276
+Groudon,Necrozma-Dusk-Mane,Mimikyu,Rotom-Mow,Tapu Fini,Salamence,
+Gengar,Mewtwo,Crobat,Groudon,Kartana,Sableye,
+2
+807307006
+Groudon,Lunala,Salamence,Mimikyu,Tapu Lele,Alakazam,
+Kyogre,Rayquaza,Persian-Alola,Amoonguss,Zapdos,Tapu Fini,
+1
+807299175
+Zygarde,Lunala,Salamence,Tapu Fini,Incineroar,Tapu Lele,
+Kyogre,Groudon,Tapu Lele,Gengar,Bronzong,Incineroar,
+1
+807291560
+Mewtwo,Kyogre,Tapu Lele,Snorlax,Kartana,Incineroar,
+Groudon,Bronzong,Kyogre,Incineroar,Tapu Lele,Gengar,
+2
+807286409
+Groudon,Incineroar,Tapu Koko,Cherrim,Rayquaza,Lucario,
+Incineroar,Rayquaza,Groudon,Crobat,Ferrothorn,Naganadel,
+2
+807284622
+Incineroar,Rayquaza,Groudon,Crobat,Ferrothorn,Naganadel,
+Groudon,Cresselia,Rayquaza,Liepard,Zapdos,Gengar,
+1
+807267292
+Incineroar,Rayquaza,Groudon,Crobat,Ferrothorn,Naganadel,
+Groudon,Xerneas,Salamence,Kartana,Incineroar,Amoonguss,
+1
+807258889
+Groudon,Xerneas,Salamence,Kartana,Incineroar,Amoonguss,
+Zygarde,Lunala,Salamence,Tapu Fini,Incineroar,Tapu Lele,
+2
+807248718
+Lucario,Kyogre,Xerneas,Smeargle,Talonflame,Tapu Lele,
+Incineroar,Rayquaza,Groudon,Crobat,Ferrothorn,Cresselia,
+2
+807230272
+Crobat,Groudon,Xerneas,Incineroar,Bronzong,Salamence,
+Kangaskhan,Lunala,Kyogre,Tapu Koko,Landorus-Therian,Ferrothorn,
+1
+807222069
+Incineroar,Rayquaza,Groudon,Crobat,Ferrothorn,Cresselia,
+Tapu Lele,Tapu Fini,Cresselia,Kyogre,Groudon,Ferrothorn,
+1
+807218119
+Amoonguss,Kyogre,Rayquaza,Mawile,Cresselia,Landorus-Therian,
+Incineroar,Rayquaza,Groudon,Crobat,Ferrothorn,Cresselia,
+2
+807217284
+Rayquaza,Kyogre,Porygon2,Kangaskhan,Zapdos,Ferrothorn,
+Incineroar,Rayquaza,Groudon,Crobat,Ferrothorn,Cresselia,
+2
+807213020
+Incineroar,Rayquaza,Groudon,Crobat,Ferrothorn,Cresselia,
+Xerneas,Groudon,Gothitelle,Hitmontop,Lilligant,Mawile,
+1
+807199363
+Incineroar,Groudon,Yveltal,Metagross,Naganadel,Tapu Fini,
+Xerneas,Groudon,Kartana,Clefairy,Incineroar,Smeargle,
+1
+807185025
+Necrozma-Dusk-Mane,Tapu Lele,Groudon,Drifblim,Camerupt,Persian-Alola,
+Incineroar,Groudon,Yveltal,Metagross,Naganadel,Tapu Fini,
+2
+807183972
+Garchomp,Togekiss,Snorlax,Groudon,Charizard,Kartana,
+Kyogre,Ludicolo,Bronzong,Tapu Lele,Groudon,Hydreigon,
+1
+807178894
+Solgaleo,Kyogre,Salamence,Gengar,Raichu,Tapu Lele,
+Mewtwo,Tapu Lele,Kyogre,Ferrothorn,Kartana,Ludicolo,
+1
+807177517
+Gengar,Groudon,Tapu Lele,Kyogre,Amoonguss,Bronzong,
+Kyogre,Ludicolo,Bronzong,Tapu Lele,Groudon,Hydreigon,
+2
+807170342
+Incineroar,Groudon,Yveltal,Metagross,Naganadel,Tapu Fini,
+Gengar,Groudon,Tapu Lele,Kyogre,Amoonguss,Bronzong,
+1
+807161593
+Kyogre,Togedemaru,Rayquaza,Comfey,Hitmontop,Amoonguss,
+Rayquaza,Gengar,Necrozma-Dusk-Mane,Incineroar,Kartana,Tapu Koko,
+1
+807160808
+Mawile,Yveltal,Gothitelle,Kyogre,Snorlax,Tapu Fini,
+Incineroar,Groudon,Yveltal,Metagross,Naganadel,Tapu Fini,
+2
+807153893
+Audino,Whimsicott,Shuckle,Blissey,Necrozma-Dusk-Mane,Pheromosa,
+Incineroar,Groudon,Yveltal,Metagross,Naganadel,Tapu Lele,
+2
+807137789
+Tapu Koko,Xerneas,Groudon,Smeargle,Salamence,Incineroar,
+Kyogre,Ludicolo,Bronzong,Tapu Lele,Groudon,Hydreigon,
+2
+807128863
+Groudon,Gothitelle,Lunala,Incineroar,Stakataka,Tapu Fini,
+Tapu Lele,Incineroar,Groudon,Yveltal,Metagross,Naganadel,
+2
+807114341
+Salamence,Groudon,Aegislash,Persian-Alola,Xerneas,Amoonguss,
+Zekrom,Reshiram,Metagross,Togekiss,Garchomp,Ditto,
+2
+807111282
+Tapu Lele,Incineroar,Groudon,Yveltal,Metagross,Naganadel,
+Xerneas,Yveltal,Incineroar,Amoonguss,Tapu Koko,Smeargle,
+1
+807111860
+Yveltal,Tapu Lele,Kyogre,Heatran,Gyarados,Raichu,
+Zekrom,Reshiram,Metagross,Togekiss,Garchomp,Ditto,
+2
+807108095
+Zekrom,Reshiram,Ludicolo,Metagross,Togekiss,Garchomp,
+Tapu Lele,Incineroar,Groudon,Yveltal,Metagross,Naganadel,
+2
+807096770
+Rayquaza,Kyogre,Porygon2,Kangaskhan,Zapdos,Ferrothorn,
+Tapu Lele,Incineroar,Groudon,Yveltal,Metagross,Blacephalon,
+2
+807059380
+Landorus-Therian,Rayquaza,Tapu Koko,Incineroar,Metagross,Xerneas,
+Necrozma-Dawn-Wings,Tapu Lele,Togekiss,Kyogre,Banette,Kartana,
+2
+807062369
+Metagross,Tapu Lele,Raichu,Amoonguss,Kyogre,Yveltal,
+Zekrom,Reshiram,Ludicolo,Metagross,Togekiss,Garchomp,
+2
+807060866
+Zekrom,Reshiram,Ludicolo,Metagross,Togekiss,Garchomp,
+Metagross,Tapu Lele,Raichu,Amoonguss,Kyogre,Yveltal,
+1
+807058156
+Zekrom,Reshiram,Ludicolo,Metagross,Togekiss,Garchomp,
+Metagross,Tapu Lele,Raichu,Amoonguss,Kyogre,Yveltal,
+2
+807048779
+Zekrom,Reshiram,Ludicolo,Metagross,Togekiss,Garchomp,
+Metagross,Tapu Lele,Raichu,Amoonguss,Kyogre,Yveltal,
+1
+807048825
+Tapu Koko,Kyogre,Raichu-Alola,Groudon,Tyranitar,Ninetales-Alola,
+Rayquaza,Kartana,Tapu Lele,Zygarde,Aegislash,Gastrodon-East,
+2
+807043388
+Zekrom,Reshiram,Ludicolo,Metagross,Togekiss,Garchomp,
+Rayquaza,Kyogre,Porygon2,Kangaskhan,Zapdos,Ferrothorn,
+1
+807032103
+Tapu Lele,Necrozma-Dawn-Wings,Crobat,Incineroar,Metagross,Groudon,
+Whimsicott,Volcarona,Gastrodon-East,Heatran,Tentacruel,Kartana,
+2
+807029035
+Lilligant,Groudon,Necrozma-Dusk-Mane,Landorus-Therian,Gengar,Tapu Koko,
+Kyogre,Hitmontop,Gengar,Landorus-Therian,Rayquaza,Aegislash,
+2
+807026354
+Rayquaza,Kyogre,Porygon2,Kangaskhan,Zapdos,Ferrothorn,
+Lilligant,Groudon,Necrozma-Dusk-Mane,Landorus-Therian,Gengar,Tapu Koko,
+2
+807019905
+Lilligant,Groudon,Necrozma-Dusk-Mane,Landorus-Therian,Gengar,Tapu Koko,
+Groudon,Hitmontop,Gengar,Landorus-Therian,Rayquaza,Aegislash,
+2
+807016888
+Politoed,Ludicolo,Metagross,Tapu Lele,Landorus-Therian,Zapdos,
+Lilligant,Groudon,Necrozma-Dusk-Mane,Landorus-Therian,Gengar,Tapu Koko,
+2
+807007307
+Kyogre,Blaziken,Groudon,Meowstic,Cloyster,Volcarona,
+Tapu Bulu,Marowak-Alola,Pelipper,Toxicroak,Metagross,Tapu Koko,
+1
+807001881
+Lucario,Tapu Koko,Greninja,Rayquaza,Gengar,Kartana,
+Celesteela,Kyogre,Necrozma-Dawn-Wings,Incineroar,Amoonguss,Milotic,
+2
+806999666
+Kyogre,Necrozma-Dawn-Wings,Incineroar,Tapu Fini,Manectric,Ferrothorn,
+Blaziken,Ferrothorn,Kyogre,Tapu Lele,Kyurem-White,Raichu-Alola,
+1
+806995237
+Kyogre,Aegislash,Dialga,Swampert,Bisharp,Landorus-Therian,
+Whimsicott,Volcarona,Gastrodon-East,Heatran,Tentacruel,Kartana,
+2
+806987221
+Aegislash,Gengar,Gastrodon-East,Lurantis,Tyranitar,Porygon2,
+Kyogre,Gengar,Rayquaza,Raichu,Hitmontop,Volcarona,
+2
+806978158
+Marowak-Alola,Reuniclus,Slowbro,Pyukumuku,Raichu-Alola,Celesteela,
+Scrafty,Necrozma-Dusk-Mane,Groudon,Gastrodon,Lurantis,Chansey,
+2
+806969252
+Gengar,Hitmontop,Ferrothorn,Necrozma-Dusk-Mane,Kyogre,Tapu Koko,
+Kyogre,Cresselia,Groudon,Mawile,Gourgeist-*,Audino,
+1
+806967366
+Groudon,Yveltal,Zoroark,Amoonguss,Metagross,Togekiss,
+Kyogre,Cresselia,Groudon,Mawile,Gourgeist-*,Audino,
+1
+806962642
+Kyogre,Floatzel,Tapu Koko,Kartana,Lunala,Venusaur,
+Exeggutor,Dialga,Groudon,Incineroar,Manectric,Muk-Alola,
+2
+806958959
+Blaziken,Toxicroak,Rayquaza,Dialga,Maractus,Krookodile,
+Milotic,Landorus-Therian,Banette,Medicham,Necrozma-Dusk-Mane,Yveltal,
+2
+806959972
+Lucario,Toxicroak,Kommo-o,Machamp,Hawlucha,Heracross,
+Pelipper,Politoed,Toxapex,Swampert,Greninja,Rotom-Wash,
+2
+806943192
+Swampert,Seismitoad,Aerodactyl,Carracosta,Lycanroc-Midnight,Gyarados,
+Dialga,Kyogre,Oranguru,Tapu Lele,Gengar,Hitmontop,
+2
+806938989
+Amoonguss,Kyogre,Rayquaza,Mawile,Cresselia,Landorus-Therian,
+Groudon,Kyogre,Salamence,Tapu Koko,Bronzong,Persian-Alola,
+2
+806939036
+Naganadel,Tapu Lele,Kartana,Xerneas,Kyogre,Gengar,
+Palkia,Kyogre,Celesteela,Tapu Lele,Beedrill,Landorus-Therian,
+1
+806938297
+Kyogre,Arcanine,Togekiss,Torterra,Mewtwo,Tapu Fini,
+Rayquaza,Kyogre,Incineroar,Tapu Koko,Tapu Lele,Whimsicott,
+2
+806937362
+Kyogre,Tapu Koko,Sceptile,Necrozma-Dusk-Mane,Whimsicott,Incineroar,
+Scrafty,Necrozma-Dusk-Mane,Groudon,Gastrodon,Lurantis,Chansey,
+2
+806932939
+Swanna,Swampert,Naganadel,Tapu Lele,Virizion,Celesteela,
+Espeon,Unfezant,Gastrodon,Reshiram,Krookodile,Solgaleo,
+1
+806930301
+Swanna,Swampert,Naganadel,Tapu Lele,Virizion,Celesteela,
+Espeon,Unfezant,Gastrodon,Reshiram,Krookodile,Solgaleo,
+1
+806927453
+Tapu Lele,Metagross,Necrozma-Dusk-Mane,Incineroar,Pheromosa,Kyogre,
+Tapu Koko,Xerneas,Groudon,Smeargle,Salamence,Incineroar,
+1
+806926686
+Blaziken,Staraptor,Toxicroak,Rayquaza,Dialga,Maractus,
+Charizard,Aerodactyl,Florges-White,Raichu,Flygon,Abomasnow,
+1
+806925740
+Tapu Lele,Metagross,Necrozma-Dusk-Mane,Incineroar,Pheromosa,Kyogre,
+Blaziken,Staraptor,Toxicroak,Rayquaza,Dialga,Maractus,
+2
+806922928
+Blaziken,Staraptor,Toxicroak,Rayquaza,Dialga,Maractus,
+Kyogre,Swampert,Reshiram,Crobat,Tapu Koko,Amoonguss,
+1
+806913647
+Groudon,Cresselia,Xerneas,Salamence,Incineroar,Tapu Koko,
+Salamence,Kartana,Smeargle,Xerneas,Groudon,Cresselia,
+2
+806910531
+Salamence,Xerneas,Groudon,Cresselia,Smeargle,Kartana,
+Groudon,Xerneas,Smeargle,Tapu Koko,Salamence,Incineroar,
+1
+806909005
+Groudon,Cresselia,Xerneas,Salamence,Incineroar,Tapu Koko,
+Salamence,Xerneas,Groudon,Cresselia,Smeargle,Talonflame,
+2
+806908283
+Salamence,Yveltal,Tapu Lele,Groudon,Amoonguss,Gastrodon-East,
+Tapu Koko,Venusaur,Groudon,Salamence,Xerneas,Smeargle,
+2
+806903516
+Reshiram,Zekrom,Salamence,Tapu Koko,Mimikyu,Cresselia,
+Yveltal,Groudon,Blacephalon,Tapu Koko,Crobat,Metagross,
+2
+806895215
+Yveltal,Lopunny,Groudon,Blacephalon,Tapu Koko,Kartana,
+Necrozma-Dusk-Mane,Kyogre,Incineroar,Amoonguss,Tapu Fini,Salamence,
+1
+806879251
+Mewtwo,Tapu Lele,Solgaleo,Whimsicott,Persian-Alola,Mimikyu,
+Kyogre,Crobat,Solgaleo,Drampa,Swampert,Incineroar,
+1
+806865063
+Tapu Lele,Mewtwo,Groudon,Zapdos,Weavile,Tapu Fini,
+Groudon,Yveltal,Kartana,Manectric,Tapu Fini,Incineroar,
+1
+806872594
+Rayquaza,Bronzong,Groudon,Togedemaru,Tapu Fini,Gengar,
+Groudon,Bronzong,Tapu Lele,Ludicolo,Hydreigon,Kyogre,
+2
+806871601
+Groudon,Blacephalon,Incineroar,Kartana,Rayquaza,Tapu Lele,
+Xerneas,Groudon,Salamence,Kangaskhan,Talonflame,Amoonguss,
+1
+806866102
+Crobat,Groudon,Xerneas,Incineroar,Bronzong,Salamence,
+Groudon,Yveltal,Blacephalon,Tapu Fini,Incineroar,Metagross,
+2
+806859811
+Gengar,Tapu Koko,Yveltal,Groudon,Bronzong,Hitmontop,
+Groudon,Yveltal,Blacephalon,Tapu Fini,Incineroar,Metagross,
+2
+806859126
+Kyogre,Solgaleo,Persian-Alola,Amoonguss,Gengar,Tapu Koko,
+Gengar,Yveltal,Groudon,Whimsicott,Bronzong,Snorlax,
+1
+806842950
+Reshiram,Zekrom,Salamence,Tapu Koko,Mimikyu,Cresselia,
+Groudon,Yveltal,Tapu Fini,Cresselia,Lopunny,Blacephalon,
+2
+806816650
+Reshiram,Zekrom,Tapu Koko,Salamence,Aegislash,Hitmontop,
+Necrozma-Dusk-Mane,Salamence,Groudon,Celesteela,Incineroar,Tapu Lele,
+2
+806819322
+Celesteela,Kyogre,Xerneas,Amoonguss,Kartana,Tapu Lele,
+Xerneas,Incineroar,Kartana,Smeargle,Groudon,Kangaskhan,
+2
+806808977
+Groudon,Yveltal,Tapu Fini,Cresselia,Lopunny,Blacephalon,
+Groudon,Mimikyu,Mawile,Tapu Lele,Yveltal,Kartana,
+1
+806806249
+Groudon,Yveltal,Tapu Fini,Cresselia,Lopunny,Blacephalon,
+Incineroar,Groudon,Oranguru,Ferrothorn,Golduck,Giratina-Origin,
+1
+806804155
+Groudon,Yveltal,Tapu Fini,Cresselia,Lopunny,Blacephalon,
+Weavile,Celesteela,Tapu Koko,Salamence,Groudon,Xerneas,
+1
+806800329
+Incineroar,Groudon,Oranguru,Ferrothorn,Golduck,Mewtwo,
+Muk-Alola,Necrozma-Dusk-Mane,Xerneas,Swampert,Chesnaught,Xurkitree,
+1
+806793102
+Mimikyu,Tapu Koko,Celesteela,Kyogre,Blaziken,Porygon-Z,
+Groudon,Bronzong,Tapu Lele,Ludicolo,Hydreigon,Kyogre,
+2
+806789732
+Tapu Lele,Mewtwo,Groudon,Incineroar,Zapdos,Weavile,
+Groudon,Yveltal,Tapu Fini,Cresselia,Lopunny,Blacephalon,
+2
+806789043
+Groudon,Bronzong,Tapu Lele,Ludicolo,Hydreigon,Kyogre,
+Salamence,Necrozma-Dusk-Mane,Kyogre,Tapu Lele,Ferrothorn,Incineroar,
+1
+806785201
+Groudon,Yveltal,Tapu Fini,Cresselia,Lopunny,Blacephalon,
+Tapu Lele,Mewtwo,Groudon,Incineroar,Zapdos,Weavile,
+1
+806784593
+Groudon,Bronzong,Tapu Lele,Ludicolo,Hydreigon,Kyogre,
+Kyogre,Rayquaza,Tapu Koko,Incineroar,Amoonguss,Seismitoad,
+1
+806783360
+Alakazam,Mewtwo,Latios,Zekrom,Ferrothorn,Charizard,
+Necrozma-Dawn-Wings,Xerneas,Venusaur,Incineroar,Crobat,Golduck,
+2
+806781209
+Incineroar,Zygarde,Gardevoir,Lunala,Serperior,Tapu Fini,
+Necrozma-Dawn-Wings,Xerneas,Venusaur,Incineroar,Crobat,Golduck,
+1
+806767008
+Kyogre,Necrozma-Dusk-Mane,Tapu Lele,Ludicolo,Togekiss,Incineroar,
+Groudon,Tapu Koko,Mawile,Tapu Lele,Kyogre,Whimsicott,
+1
+806763622
+Weavile,Celesteela,Tapu Koko,Salamence,Groudon,Xerneas,
+Kyogre,Xerneas,Persian-Alola,Metagross,Gengar,Tapu Koko,
+2
+806765269
+Dialga,Groudon,Tapu Koko,Hitmontop,Muk-Alola,Kartana,
+Kyogre,Necrozma-Dusk-Mane,Tapu Lele,Ludicolo,Togekiss,Incineroar,
+2
+806756498
+Tapu Lele,Mewtwo,Groudon,Incineroar,Zapdos,Ferrothorn,
+Groudon,Incineroar,Cresselia,Rayquaza,Stakataka,Tapu Koko,
+2
+806745854
+Tapu Lele,Mewtwo,Groudon,Incineroar,Zapdos,Ferrothorn,
+Salamence,Cresselia,Groudon,Kyogre,Tapu Koko,Gengar,
+2
+806736794
+Kyogre,Incineroar,Tapu Koko,Ludicolo,Groudon,Garchomp,
+Incineroar,Groudon,Oranguru,Ferrothorn,Golduck,Mewtwo,
+2
+806730573
+Kyogre,Necrozma-Dawn-Wings,Incineroar,Tapu Fini,Manectric,Ferrothorn,
+Charizard,Groudon,Heatran,Chandelure,Typhlosion,Silvally-*,
+1
+806725337
+Incineroar,Groudon,Oranguru,Ferrothorn,Golduck,Mewtwo,
+Incineroar,Suicune,Landorus-Therian,Xerneas,Necrozma-Dusk-Mane,Salamence,
+1
+806711547
+Kyogre,Yveltal,Landorus-Therian,Togedemaru,Cresselia,Lucario,
+Necrozma-Dusk-Mane,Salamence,Groudon,Celesteela,Incineroar,Tapu Lele,
+1
+806714526
+Alakazam,Blastoise,Blacephalon,Salamence,Ambipom,Kartana,
+Incineroar,Groudon,Oranguru,Ferrothorn,Golduck,Mewtwo,
+2
+806712720
+Incineroar,Groudon,Oranguru,Ferrothorn,Golduck,Mewtwo,
+Zekrom,Reshiram,Incineroar,Stakataka,Gastrodon-East,Tapu Bulu,
+1
+806697813
+Incineroar,Rayquaza,Crobat,Tapu Lele,Blacephalon,Groudon,
+Kyogre,Cresselia,Mawile,Groudon,Gourgeist-*,Tapu Fini,
+1
+806682307
+Kyogre,Rayquaza,Ditto,Gengar,Tapu Koko,Ferrothorn,
+Dialga,Kyogre,Oranguru,Tapu Lele,Gengar,Hitmontop,
+2
+806679652
+Kyogre,Rayquaza,Ditto,Gengar,Tapu Koko,Ferrothorn,
+Incineroar,Rayquaza,Crobat,Tapu Lele,Blacephalon,Groudon,
+2
+806680150
+Metagross,Tapu Lele,Raichu,Amoonguss,Kyogre,Yveltal,
+Dialga,Kyogre,Oranguru,Tapu Lele,Gengar,Hitmontop,
+2
+806677592
+Necrozma-Dusk-Mane,Salamence,Groudon,Celesteela,Incineroar,Tapu Lele,
+Incineroar,Rayquaza,Crobat,Tapu Lele,Blacephalon,Groudon,
+2
+806673942
+Incineroar,Rayquaza,Crobat,Tapu Lele,Blacephalon,Groudon,
+Kyogre,Incineroar,Tapu Koko,Ludicolo,Groudon,Scizor,
+1
+806656458
+Blaziken,Aegislash,Toxapex,Thundurus,Dugtrio,Cloyster,
+Bisharp,Nidoking,Torkoal,Lucario,Lanturn,Seismitoad,
+2
+806656640
+Necrozma-Dusk-Mane,Kyogre,Salamence,Tapu Koko,Incineroar,Amoonguss,
+Amoonguss,Snorlax,Incineroar,Heracross,Cresselia,Zygarde,
+1
+806646929
+Tapu Koko,Salamence,Xerneas,Smeargle,Groudon,Venusaur,
+Necrozma-Dusk-Mane,Kyogre,Salamence,Tapu Koko,Incineroar,Amoonguss,
+1
+806643347
+Abomasnow,Sandslash-Alola,Vivillon,Typhlosion,Beartic,Giratina-Origin,
+Necrozma-Dusk-Mane,Kyogre,Salamence,Tapu Koko,Incineroar,Amoonguss,
+2
+806639704
+Kyogre,Rayquaza,Ditto,Ferrothorn,Incineroar,Tapu Koko,
+Incineroar,Rayquaza,Crobat,Tapu Lele,Xerneas,Blacephalon,
+2
+806620866
+Tapu Koko,Venusaur,Groudon,Salamence,Xerneas,Smeargle,
+Necrozma-Dawn-Wings,Tapu Lele,Charizard,Landorus-Therian,Groudon,Muk-Alola,
+1
+806602326
+Kyogre,Amoonguss,Tapu Koko,Incineroar,Oranguru,Rayquaza,
+Gengar,Hitmontop,Ferrothorn,Necrozma-Dusk-Mane,Kyogre,Tapu Koko,
+1
+806579928
+Charizard,Venusaur,Lugia,Kyogre,Snorlax,Blastoise,
+Salamence,Togekiss,Torkoal,Camerupt,Oranguru,Lurantis,
+1
+806568901
+Tapu Bulu,Zekrom,Landorus-Therian,Milotic,Necrozma-Dusk-Mane,Ninetales-Alola,
+Rayquaza,Toxicroak,Scolipede,Gastrodon-East,Heliolisk,Necrozma-Dusk-Mane,
+2
+806565549
+Tapu Bulu,Zekrom,Landorus-Therian,Milotic,Necrozma-Dusk-Mane,Ninetales-Alola,
+Rayquaza,Toxicroak,Scolipede,Gastrodon-East,Heliolisk,Necrozma-Dusk-Mane,
+1
+806524692
+Salamence,Groudon,Xerneas,Gothitelle,Amoonguss,Incineroar,
+Purugly,Togekiss,Diggersby,Groudon,Yveltal,Metagross,
+1
+806550396
+Necrozma-Dusk-Mane,Amoonguss,Palkia,Smeargle,Golduck,Primeape,
+Kyogre,Necrozma-Dawn-Wings,Incineroar,Tapu Fini,Manectric,Ferrothorn,
+2
+806543942
+Kyogre,Necrozma-Dawn-Wings,Incineroar,Tapu Fini,Manectric,Ferrothorn,
+Kyogre,Rayquaza,Gengar,Hitmontop,Bronzong,Raichu,
+1
+806540460
+Salamence,Groudon,Xerneas,Gothitelle,Amoonguss,Incineroar,
+Necrozma-Dusk-Mane,Kyogre,Incineroar,Amoonguss,Tapu Fini,Salamence,
+1
+806536431
+Kyogre,Necrozma-Dusk-Mane,Incineroar,Amoonguss,Tapu Fini,Salamence,
+Giratina,Gallade,Gengar,Krookodile,Medicham,Musharna,
+1
+806531273
+Salamence,Groudon,Xerneas,Gothitelle,Amoonguss,Incineroar,
+Incineroar,Rayquaza,Groudon,Blacephalon,Zapdos,Stakataka,
+2
+806528160
+Incineroar,Rayquaza,Groudon,Blacephalon,Zapdos,Stakataka,
+Groudon,Yveltal,Kartana,Manectric,Tapu Fini,Incineroar,
+1
+806522145
+Spinda,Rayquaza,Wormadam-Sandy,Machamp,Mimikyu,Groudon,
+Hariyama,Charizard,Garchomp,Mewtwo,Aegislash,Gyarados,
+1
+806518897
+Incineroar,Rayquaza,Groudon,Blacephalon,Zapdos,Stakataka,
+Metagross,Tapu Lele,Raichu,Amoonguss,Kyogre,Yveltal,
+1
+806485465
+Xerneas,Groudon,Salamence,Weavile,Bronzong,Tapu Koko,
+Incineroar,Rayquaza,Groudon,Blacephalon,Zapdos,Stakataka,
+2
+806476345
+Ferrothorn,Kyogre,Incineroar,Tapu Koko,Whimsicott,Rayquaza,
+Gardevoir,Xerneas,Blissey,Lopunny,Vespiquen,Kyogre,
+1
+806474636
+Groudon,Salamence,Reshiram,Crobat,Sableye,Ludicolo,
+Groudon,Greninja,Togedemaru,Murkrow,Rayquaza,Salamence,
+2
+806473635
+Scrafty,Necrozma-Dusk-Mane,Groudon,Gastrodon,Lurantis,Chansey,
+Blaziken,Marowak-Alola,Kyogre,Togekiss,Venusaur,Xerneas,
+2
+806468628
+Zekrom,Reshiram,Ludicolo,Gengar,Ditto,Landorus,
+Xerneas,Smeargle,Groudon,Hitmontop,Salamence,Aegislash,
+1
+806459037
+Necrozma-Dusk-Mane,Kyogre,Salazzle,Amoonguss,Landorus-Therian,Salamence,
+Butterfree,Incineroar,Tapu Lele,Necrozma-Dusk-Mane,Smeargle,Kyogre,
+2
+806447426
+Reshiram,Zekrom,Tapu Koko,Salamence,Aegislash,Hitmontop,
+Zekrom,Reshiram,Ludicolo,Gengar,Landorus-Therian,Ditto,
+1
+806445508
+Salamence,Yveltal,Tapu Lele,Groudon,Amoonguss,Gastrodon-East,
+Kyogre,Xerneas,Tapu Lele,Landorus-Therian,Salamence,Ferrothorn,
+1
+806444556
+Whimsicott,Giratina,Kyogre,Tapu Lele,Gengar,Kartana,
+Salamence,Yveltal,Tapu Lele,Groudon,Amoonguss,Gastrodon-East,
+2
+806438209
+Dialga,Kyogre,Oranguru,Tapu Lele,Gengar,Hitmontop,
+Rayquaza,Lugia,Amoonguss,Tapu Lele,Pheromosa,Celesteela,
+1
+806431218
+Zekrom,Reshiram,Ludicolo,Gengar,Landorus-Therian,Ditto,
+Kyogre,Cresselia,Mawile,Necrozma-Dusk-Mane,Gourgeist-*,Tapu Fini,
+1
+806419773
+Salamence,Yveltal,Tapu Lele,Groudon,Amoonguss,Gastrodon-East,
+Rayquaza,Gengar,Necrozma-Dusk-Mane,Tapu Lele,Incineroar,Kartana,
+1
+806417544
+Zekrom,Reshiram,Ludicolo,Gengar,Landorus-Therian,Ditto,
+Sceptile,Tapu Koko,Lugia,Kyogre,Landorus-Therian,Scizor,
+1
+806415851
+Salamence,Yveltal,Tapu Lele,Groudon,Amoonguss,Gastrodon-East,
+Salamence,Aegislash,Kyogre,Xerneas,Smeargle,Kangaskhan,
+1
+806415972
+Smeargle,Xerneas,Incineroar,Kartana,Tapu Koko,Milotic,
+Zekrom,Reshiram,Ludicolo,Gengar,Landorus-Therian,Ditto,
+2
+806408527
+Lunala,Tapu Lele,Kyogre,Oranguru,Ludicolo,Mawile,
+Kangaskhan,Kyogre,Necrozma-Dawn-Wings,Incineroar,Amoonguss,Tapu Lele,
+2
+806402278
+Rayquaza,Kyogre,Tapu Koko,Landorus-Therian,Incineroar,Bronzong,
+Necrozma-Dusk-Mane,Kyogre,Salamence,Gengar,Raichu,Tapu Lele,
+2
+806400137
+Kyogre,Necrozma-Dawn-Wings,Incineroar,Metagross,Clefairy,Eevee,
+Kyogre,Xerneas,Persian-Alola,Metagross,Zapdos,Gengar,
+2
+806396693
+Groudon,Crobat,Tapu Lele,Amoonguss,Landorus-Therian,Zygarde,
+Gengar,Necrozma-Dusk-Mane,Kyogre,Raichu,Tapu Lele,Salamence,
+2
+806394586
+Groudon,Lunala,Kangaskhan,Ferrothorn,Salamence,Tapu Koko,
+Rayquaza,Kyogre,Crobat,Weavile,Aegislash,Ferrothorn,
+2
+806390860
+Charizard,Venusaur,Kyogre,Eevee,Togekiss,Mewtwo,
+Amoonguss,Necrozma-Dusk-Mane,Xerneas,Incineroar,Tapu Lele,Salamence,
+2
+806392221
+Kyogre,Xerneas,Persian-Alola,Metagross,Zapdos,Gengar,
+Rayquaza,Kyogre,Crobat,Weavile,Aegislash,Ferrothorn,
+2
+806388214
+Mr. Mime,Alomomola,Swampert,Pelipper,Uxie,Togedemaru,
+Muk-Alola,Necrozma-Dusk-Mane,Xerneas,Kartana,Sableye,Araquanid,
+2
+806382902
+Rayquaza,Gengar,Raichu,Bronzong,Hitmontop,Kyogre,
+Oranguru,Necrozma-Dusk-Mane,Kyogre,Bronzong,Xurkitree,Cresselia,
+2
+806379628
+Rayquaza,Kyogre,Crobat,Weavile,Aegislash,Ferrothorn,
+Landorus-Therian,Rayquaza,Tapu Koko,Incineroar,Metagross,Xerneas,
+1
+806377709
+Spinda,Rayquaza,Wormadam-Sandy,Machamp,Mimikyu,Groudon,
+Rayquaza,Toxapex,Whimsicott,Ho-Oh,Landorus-Therian,Blissey,
+1
+806365806
+Rayquaza,Kyogre,Incineroar,Tapu Koko,Tapu Lele,Whimsicott,
+Kyogre,Xerneas,Persian-Alola,Metagross,Zapdos,Gengar,
+2
+806347632
+Lunala,Xerneas,Tapu Lele,Smeargle,Nidoking,Salamence,
+Zekrom,Reshiram,Ludicolo,Gengar,Landorus-Therian,Ditto,
+2
+806343160
+Kyogre,Rayquaza,Gengar,Hitmontop,Kartana,Thundurus-Therian,
+Kyogre,Persian-Alola,Tapu Koko,Sceptile,Necrozma-Dusk-Mane,Whimsicott,
+2
+806334444
+Incineroar,Groudon,Necrozma-Dawn-Wings,Sceptile,Tapu Koko,Bronzong,
+Kyogre,Rayquaza,Gengar,Hitmontop,Kartana,Thundurus-Therian,
+1
+806340516
+Groudon,Metagross,Amoonguss,Kyogre,Sableye,Tapu Koko,
+Incineroar,Groudon,Oranguru,Ferrothorn,Golduck,Mewtwo,
+2
+806337992
+Slaking,Oranguru,Tapu Bulu,Snorlax,Haunter,Kangaskhan,
+Kyogre,Xerneas,Persian-Alola,Metagross,Zapdos,Gengar,
+2
+806336363
+Palkia,Kyogre,Celesteela,Tapu Lele,Beedrill,Landorus-Therian,
+Kyogre,Xerneas,Persian-Alola,Metagross,Zapdos,Gengar,
+2
+806334392
+Kyogre,Xerneas,Persian-Alola,Metagross,Zapdos,Gengar,
+Latias,Naganadel,Greninja,Tapu Lele,Hawlucha,Mimikyu,
+1
+806331645
+Kyogre,Xerneas,Persian-Alola,Metagross,Zapdos,Gengar,
+Garchomp,Gengar,Snorlax,Kartana,Dialga,Electivire,
+1
+806328433
+Lapras,Necrozma-Dusk-Mane,Drampa,Oranguru,Yveltal,Incineroar,
+Incineroar,Whimsicott,Metagross,Tapu Lele,Groudon,Rayquaza,
+1
+806313680
+Lapras,Necrozma-Dusk-Mane,Drampa,Oranguru,Yveltal,Incineroar,
+Kyogre,Raichu,Xerneas,Kartana,Incineroar,Whimsicott,
+1
+806310257
+Kyogre,Xerneas,Persian-Alola,Metagross,Zapdos,Gengar,
+Amoonguss,Necrozma-Dusk-Mane,Xerneas,Incineroar,Tapu Lele,Salamence,
+1
+806295645
+Lunala,Xerneas,Tapu Lele,Smeargle,Landorus,Lucario,
+Zekrom,Reshiram,Ludicolo,Gengar,Landorus-Therian,Ditto,
+2
+806279780
+Incineroar,Groudon,Oranguru,Ferrothorn,Golduck,Mewtwo,
+Groudon,Gastrodon,Xerneas,Scolipede,Raichu,Incineroar,
+1
+806276160
+Lunala,Xerneas,Tapu Lele,Smeargle,Landorus,Lucario,
+Incineroar,Groudon,Oranguru,Ferrothorn,Golduck,Mewtwo,
+2
+806274607
+Metagross,Magnezone,Stakataka,Dialga,Heatran,Necrozma-Dusk-Mane,
+Incineroar,Groudon,Oranguru,Ferrothorn,Golduck,Mewtwo,
+2
+806271825
+Incineroar,Groudon,Oranguru,Ferrothorn,Golduck,Mewtwo,
+Rayquaza,Groudon,Togekiss,Raichu,Ferrothorn,Golduck,
+1
+806267531
+Luxray,Swoobat,Samurott,Salazzle,Whimsicott,Mamoswine,
+Incineroar,Groudon,Oranguru,Ferrothorn,Golduck,Mewtwo,
+2
+806258453
+Kyogre,Yveltal,Tapu Lele,Thundurus-Therian,Gastrodon,Metagross,
+Smeargle,Kyogre,Xerneas,Tapu Bulu,Marowak-Alola,Porygon2,
+2
+806256023
+Smeargle,Kyogre,Xerneas,Tapu Bulu,Marowak-Alola,Porygon2,
+Kartana,Tapu Bulu,Volcarona,Suicune,Lucario,Xerneas,
+1
+806240726
+Kyogre,Yveltal,Tapu Lele,Thundurus-Therian,Uxie,Metagross,
+Rayquaza,Groudon,Ferrothorn,Kartana,Tapu Koko,Azumarill,
+2
+806238141
+Groudon,Yveltal,Incineroar,Gengar,Clefairy,Bronzong,
+Snorlax,Dusknoir,Sceptile,Politoed,Tapu Bulu,Groudon,
+1
+806230479
+Tsareena,Kyogre,Toxicroak,Persian-Alola,Kartana,Xerneas,
+Necrozma-Dawn-Wings,Tapu Lele,Rayquaza,Amoonguss,Suicune,Ludicolo,
+2
+806225900
+Kyogre,Necrozma-Dawn-Wings,Incineroar,Metagross,Clefairy,Eevee,
+Kyogre,Yveltal,Tapu Bulu,Magnezone,Scrafty,Aegislash,
+2
+806220529
+Xerneas,Groudon,Ferrothorn,Gengar,Thundurus,Tapu Lele,
+Xerneas,Sylveon,Crobat,Incineroar,Giratina-Origin,Aerodactyl,
+2
+806207846
+Volcarona,Oricorio-Pom-Pom,Gastrodon,Hawlucha,Scrafty,Nihilego,
+Xerneas,Sylveon,Crobat,Incineroar,Giratina-Origin,Gardevoir,
+1
+806172558
+Groudon,Salamence,Smeargle,Incineroar,Xerneas,Kangaskhan,
+Kyogre,Solgaleo,Gengar,Kartana,Incineroar,Tapu Lele,
+2
+806165078
+Gengar,Raichu,Kyogre,Groudon,Aegislash,Dragonite,
+Groudon,Lunala,Salamence,Incineroar,Tapu Koko,Amoonguss,
+1
+806162433
+Kyogre,Rayquaza,Gengar,Snorlax,Cresselia,Tapu Koko,
+Milotic,Salamence,Ferrothorn,Jolteon,Togekiss,Metagross,
+2
+806152955
+Kyogre,Electivire,Groudon,Porygon2,Tapu Koko,Kommo-o,
+Lucario,Raichu-Alola,Hitmontop,Steelix,Greninja,Ninetales-Alola,
+2
+806147018
+Kartana,Xurkitree,Tapu Bulu,Kyogre,Flygon,Groudon,
+Yveltal,Gyarados,Zekrom,Golduck,Celesteela,Ludicolo,
+2
+806143610
+Necrozma-Dawn-Wings,Xerneas,Persian-Alola,Tapu Koko,Salamence,Amoonguss,
+Gengar,Raichu,Kyogre,Groudon,Aegislash,Dragonite,
+2
+806141600
+Xerneas,Incineroar,Amoonguss,Kyogre,Zapdos,Cresselia,
+Groudon,Incineroar,Gastrodon,Xerneas,Scolipede,Raichu,
+1
+806138073
+Smeargle,Amoonguss,Incineroar,Zygarde,Necrozma-Dusk-Mane,Snorlax,
+Scrafty,Necrozma-Dusk-Mane,Groudon,Gastrodon,Lurantis,Chansey,
+2
+806123230
+Zekrom,Kyogre,Ludicolo,Lickitung,Gengar,Landorus-Therian,
+Incineroar,Necrozma-Dusk-Mane,Tapu Lele,Thundurus,Mewtwo,Gastrodon,
+2
+806121012
+Kyogre,Rayquaza,Ditto,Ferrothorn,Incineroar,Tapu Koko,
+Zekrom,Kyogre,Ludicolo,Lickitung,Gengar,Landorus-Therian,
+2
+806113921
+Zekrom,Kyogre,Ludicolo,Lickitung,Gengar,Landorus-Therian,
+Hitmontop,Kyogre,Cresselia,Landorus-Therian,Escavalier,Necrozma-Dusk-Mane,
+1
+806112577
+Kyogre,Rayquaza,Gengar,Hitmontop,Thundurus-Therian,Kartana,
+Thundurus-Therian,Kyogre,Seismitoad,Incineroar,Whimsicott,Rayquaza,
+2
+806108893
+Thundurus-Therian,Kyogre,Seismitoad,Incineroar,Whimsicott,Rayquaza,
+Xerneas,Lunala,Salamence,Crobat,Greninja,Manectric,
+2
+806098655
+Zekrom,Groudon,Nihilego,Kangaskhan,Togekiss,Lurantis,
+Chandelure,Hitmontop,Tapu Bulu,Gastrodon,Rayquaza,Cresselia,
+1
+806090548
+Xerneas,Incineroar,Amoonguss,Kyogre,Zapdos,Cresselia,
+Kyogre,Seismitoad,Tapu Lele,Incineroar,Whimsicott,Rayquaza,
+1
+806082981
+Necrozma-Dusk-Mane,Amoonguss,Sharpedo,Chandelure,Crustle,Kyurem-Black,
+Xerneas,Incineroar,Tapu Lele,Amoonguss,Kyogre,Aegislash,
+2
+806083029
+Zekrom,Groudon,Greninja,Nihilego,Venusaur,Togekiss,
+Lunala,Terrakion,Rayquaza,Lapras,Scolipede,Tapu Koko,
+1
+806066635
+Rayquaza,Kartana,Tapu Lele,Zygarde,Aegislash,Gastrodon-East,
+Kyogre,Solgaleo,Gengar,Kartana,Incineroar,Tapu Lele,
+2
+806063114
+Kyogre,Groudon,Raichu,Incineroar,Amoonguss,Salamence,
+Kyogre,Solgaleo,Gengar,Kartana,Incineroar,Tapu Lele,
+2
+806060646
+Volcarona,Oricorio-Pom-Pom,Gastrodon,Hawlucha,Scrafty,Nihilego,
+Tapu Fini,Muk-Alola,Rayquaza,Porygon2,Tapu Lele,Groudon,
+1
+806058523
+Groudon,Kyogre,Salamence,Bronzong,Persian-Alola,Tapu Koko,
+Groudon,Kyogre,Salamence,Tapu Koko,Bronzong,Persian-Alola,
+2
+806054488
+Groudon,Kyogre,Salamence,Tapu Koko,Bronzong,Persian-Alola,
+Groudon,Kyogre,Salamence,Tapu Koko,Bronzong,Persian-Alola,
+2
+806043987
+Necrozma-Dawn-Wings,Groudon,Kangaskhan,Tapu Koko,Porygon2,Ferrothorn,
+Ferrothorn,Kyogre,Incineroar,Tapu Koko,Whimsicott,Rayquaza,
+2
+806036031
+Milotic,Salamence,Ferrothorn,Jolteon,Togekiss,Metagross,
+Kyogre,Seismitoad,Blastoise,Clawitzer,Florges,Pheromosa,
+1
+806032870
+Kyogre,Pheromosa,Durant,Naganadel,Gengar,Tapu Lele,
+Dialga,Kyogre,Oranguru,Tapu Lele,Gengar,Hitmontop,
+2
+806028502
+Solgaleo,Steelix,Turtonator,Incineroar,Decidueye,Primarina,
+Lunala,Kyogre,Tapu Koko,Lucario,Landorus-Therian,Amoonguss,
+2
+806009906
+Gengar,Pheromosa,Durant,Naganadel,Kyogre,Tapu Lele,
+Kyogre,Incineroar,Kommo-o,Landorus-Therian,Beedrill,Celesteela,
+1
+806005507
+Necrozma-Dusk-Mane,Mawile,Kyogre,Amoonguss,Hitmontop,Gengar,
+Gengar,Pheromosa,Durant,Naganadel,Kyogre,Tapu Lele,
+1
+806000821
+Rayquaza,Kyogre,Crobat,Weavile,Aegislash,Ferrothorn,
+Kyogre,Tapu Koko,Rayquaza,Naganadel,Snorlax,Aerodactyl,
+1
+805998541
+Rayquaza,Kyogre,Crobat,Weavile,Aegislash,Ferrothorn,
+Gengar,Dugtrio,Pheromosa,Mewtwo,Durant,Blacephalon,
+1
+805979281
+Dialga,Kyogre,Toxicroak,Tapu Bulu,Heatran,Tapu Fini,
+Incineroar,Xerneas,Stakataka,Amoonguss,Ludicolo,Yveltal,
+2
+805977890
+Groudon,Kyurem-Black,Salamence,Persian-Alola,Tapu Koko,Crobat,
+Xerneas,Groudon,Salamence,Tapu Lele,Stakataka,Amoonguss,
+2
+805968361
+Groudon,Xerneas,Charizard,Swampert,Latios,Exploud,
+Mewtwo,Tapu Lele,Incineroar,Necrozma-Dusk-Mane,Gastrodon,Suicune,
+2
+805963237
+Yveltal,Groudon,Salamence,Tapu Koko,Aegislash,Bronzong,
+Groudon,Kangaskhan,Tapu Koko,Malamar,Lunala,Tapu Lele,
+1
+805962993
+Gothitelle,Scrafty,Politoed,Gengar,Kingdra,Swampert,
+Groudon,Gothitelle,Incineroar,Xerneas,Muk-Alola,Audino,
+2
+805955748
+Araquanid,Xerneas,Raichu,Tapu Koko,Kyogre,Incineroar,
+Kyurem-White,Xerneas,Crobat,Incineroar,Absol,Excadrill,
+1
+805944198
+Dialga,Kyogre,Salamence,Tapu Koko,Incineroar,Bronzong,
+Sceptile,Tapu Koko,Lugia,Kyogre,Landorus-Therian,Scizor,
+2
+805920332
+Rayquaza,Blaziken,Jolteon,Kyogre,Togekiss,Venusaur,
+Lucario,Raichu-Alola,Hitmontop,Steelix,Greninja,Ninetales-Alola,
+2
+805897414
+Lugia,Ditto,Raichu,Kyogre,Clefairy,Ludicolo,
+Lucario,Raichu-Alola,Hitmontop,Steelix,Greninja,Ninetales-Alola,
+2
+805884308
+Tapu Fini,Charizard,Incineroar,Gallade,Cloyster,Amoonguss,
+Kyogre,Necrozma-Dusk-Mane,Salamence,Tapu Lele,Raichu,Ferrothorn,
+2
+805864997
+Kyogre,Necrozma-Dusk-Mane,Ludicolo,Tapu Lele,Mienshao,Seismitoad,
+Kyogre,Dialga,Salamence,Tapu Lele,Incineroar,Amoonguss,
+1
+805850893
+Rayquaza,Kartana,Tapu Lele,Zygarde,Aegislash,Gastrodon-East,
+Groudon,Blaziken,Kyogre,Pheromosa,Weavile,Tapu Koko,
+1
+805845770
+Rayquaza,Kartana,Tapu Lele,Zygarde,Aegislash,Gastrodon-East,
+Dialga,Kyogre,Oranguru,Tapu Lele,Gengar,Hitmontop,
+2
+805835217
+Aegislash,Terrakion,Kyogre,Groudon,Salamence,Exeggutor,
+Kangaskhan,Yveltal,Groudon,Landorus-Therian,Tapu Fini,Stakataka,
+2
+805824233
+Rayquaza,Kartana,Tapu Lele,Zygarde,Aegislash,Gastrodon-East,
+Beedrill,Tapu Lele,Naganadel,Kartana,Tapu Fini,Kyogre,
+1
+805824191
+Necrozma-Dawn-Wings,Kyogre,Ludicolo,Cresselia,Ferrothorn,Incineroar,
+Groudon,Yveltal,Salamence,Bronzong,Kartana,Tapu Koko,
+2
+805818714
+Yveltal,Gyarados,Tyranitar,Rayquaza,Celesteela,Ludicolo,
+Beedrill,Tapu Lele,Naganadel,Scrafty,Kartana,Tapu Fini,
+1
+805810050
+Rayquaza,Kartana,Tapu Lele,Zygarde,Aegislash,Gastrodon-East,
+Togedemaru,Whimsicott,Kyogre,Azumarill,Tapu Fini,Mawile,
+1
+805807230
+Rayquaza,Necrozma-Dawn-Wings,Hitmontop,Tapu Koko,Ferrothorn,Clefairy,
+Rayquaza,Kartana,Tapu Lele,Zygarde,Aegislash,Gastrodon-East,
+2
+805806776
+Xerneas,Xatu,Smeargle,Exploud,Kyogre,Swampert,
+Ludicolo,Cresselia,Gengar,Kartana,Kyogre,Groudon,
+2
+805803844
+Kyogre,Tapu Bulu,Thundurus,Rayquaza,Aegislash,Hitmontop,
+Rayquaza,Kartana,Tapu Lele,Zygarde,Aegislash,Gastrodon-East,
+2
+805791100
+Gengar,Groudon,Tapu Fini,Ampharos,Leafeon,Rayquaza,
+Mewtwo,Tapu Lele,Necrozma-Dusk-Mane,Metagross,Raichu-Alola,Alakazam,
+2
+805782324
+Yveltal,Gyarados,Tyranitar,Rayquaza,Sableye,Ludicolo,
+Mewtwo,Landorus-Therian,Serperior,Xerneas,Gliscor,Machamp,
+1
+805771714
+Xerneas,Volcarona,Mimikyu,Naganadel,Dragonite,Arbok,
+Reshiram,Accelgor,Bruxish,Gallade,Ambipom,Whimsicott,
+2
+805766056
+Sylveon,Muk-Alola,Tyranitar,Gengar,Swampert,Incineroar,
+Mewtwo,Staraptor,Lycanroc-Dusk,Zygarde,Garchomp,Greninja,
+1
+805762337
+Groudon,Tapu Koko,Mawile,Tapu Lele,Kyogre,Whimsicott,
+Decidueye,Primarina,Groudon,Xerneas,Gengar,Tapu Koko,
+2
+805747505
+Groudon,Pheromosa,Snorlax,Xerneas,Salamence,Bronzong,
+Necrozma-Dusk-Mane,Lopunny,Golduck,Tapu Koko,Giratina-Origin,Cresselia,
+1
+805744165
+Aurorus,Weavile,Abomasnow,Glaceon,Froslass,Sandslash-Alola,
+Cresselia,Groudon,Kyogre,Tapu Koko,Kartana,Metagross,
+2
+805743170
+Necrozma-Dusk-Mane,Rayquaza,Blaziken,Aegislash,Amoonguss,Gastrodon,
+Groudon,Cresselia,Pheromosa,Snorlax,Xerneas,Salamence,
+2
+805738580
+Incineroar,Zekrom,Reshiram,Gastrodon-East,Stakataka,Tapu Bulu,
+Zekrom,Groudon,Gyarados,Lickilicky,Ferrothorn,Nihilego,
+2
+805735847
+Salamence,Xerneas,Incineroar,Ferrothorn,Cresselia,Groudon,
+Groudon,Bronzong,Gengar,Mimikyu,Kyogre,Incineroar,
+1
+805716673
+Groudon,Blaziken,Haxorus,Rotom-Frost,Cradily,Ludicolo,
+Tentacruel,Whimsicott,Volcarona,Gastrodon-East,Linoone,Eevee,
+2
+805706713
+Kangaskhan,Yveltal,Groudon,Landorus-Therian,Tapu Fini,Stakataka,
+Incineroar,Groudon,Metagross,Amoonguss,Kyogre,Whimsicott,
+1
+805705171
+Xerneas,Tapu Fini,Muk-Alola,Groudon,Latias,Porygon2,
+Rayquaza,Tapu Koko,Kyogre,Incineroar,Ferrothorn,Whimsicott,
+2
+805704068
+Incineroar,Groudon,Metagross,Amoonguss,Kyogre,Whimsicott,
+Kyurem-White,Yveltal,Landorus-Therian,Breloom,Murkrow,Metagross,
+2
+805696671
+Gengar,Kyogre,Ludicolo,Yveltal,Gothitelle,Mawile,
+Kangaskhan,Palkia,Rayquaza,Talonflame,Crobat,Tapu Koko,
+1
+805691076
+Kyogre,Tapu Fini,Pinsir,Bisharp,Araquanid,Groudon,
+Greninja,Ninetales-Alola,Toucannon,Scizor,Charizard,Breloom,
+2
+805689290
+Incineroar,Groudon,Lugia,Oranguru,Tapu Fini,Ferrothorn,
+Snorlax,Ditto,Blissey,Lopunny,Porygon-Z,Lickilicky,
+1
+805689511
+Lunala,Whimsicott,Porygon2,Hitmontop,Lurantis,Kyogre,
+Mawile,Whimsicott,Kyogre,Oranguru,Azumarill,Tapu Fini,
+1
+805676463
+Rayquaza,Kartana,Tapu Lele,Zygarde,Aegislash,Gastrodon-East,
+Lunala,Whimsicott,Porygon2,Hitmontop,Lurantis,Kyogre,
+1
+805665662
+Maractus,Groudon,Celesteela,Rayquaza,Landorus-Therian,Gengar,
+Charjabug,Zekrom,Necrozma-Dawn-Wings,Salamence,Kartana,Gastrodon,
+2
+805665093
+Toxapex,Greninja,Gliscor,Torchic,Magnezone,Kyurem-Black,
+Xerneas,Kyogre,Amoonguss,Tapu Lele,Registeel,Scizor,
+2
+805661104
+Smeargle,Amoonguss,Xerneas,Kyogre,Tapu Fini,Sableye,
+Mewtwo,Tapu Lele,Incineroar,Necrozma-Dusk-Mane,Gastrodon,Entei,
+2
+805660088
+Rayquaza,Kartana,Tapu Lele,Zygarde,Aegislash,Gastrodon-East,
+Dialga,Stakataka,Groudon,Landorus-Therian,Incineroar,Amoonguss,
+1
+805640257
+Tapu Koko,Necrozma-Dusk-Mane,Kyogre,Ludicolo,Braviary,Ferrothorn,
+Groudon,Blaziken,Lanturn,Abomasnow,Raichu-Alola,Mimikyu,
+2
+805633571
+Gastrodon-East,Whimsicott,Giratina-Origin,Kangaskhan,Kyogre,Machamp,
+Necrozma-Dawn-Wings,Kyogre,Ludicolo,Cresselia,Ferrothorn,Incineroar,
+1
+805628927
+Groudon,Mimikyu,Tapu Bulu,Yveltal,Amoonguss,Tapu Lele,
+Necrozma-Dusk-Mane,Tapu Lele,Incineroar,Heracross,Xerneas,Ferrothorn,
+1
+805620566
+Xerneas,Groudon,Salamence,Tapu Lele,Stakataka,Amoonguss,
+Necrozma-Dawn-Wings,Yveltal,Salamence,Tapu Lele,Ferrothorn,Kartana,
+1
+805618987
+Kyurem-White,Xerneas,Incineroar,Toxicroak,Ferrothorn,Tapu Koko,
+Tapu Lele,Kyogre,Gengar,Bronzong,Amoonguss,Groudon,
+2
+805593932
+Malamar,Whimsicott,Xerneas,Kyogre,Tapu Koko,Incineroar,
+Metagross,Pelipper,Gengar,Infernape,Luxray,Krookodile,
+1
+805593349
+Kyogre,Rayquaza,Hitmontop,Bronzong,Gengar,Togedemaru,
+Groudon,Mimikyu,Tapu Fini,Tapu Bulu,Yveltal,Amoonguss,
+2
+805593667
+Weavile,Tapu Lele,Groudon,Rayquaza,Ferrothorn,Cresselia,
+Kyogre,Necrozma-Dusk-Mane,Hitmontop,Tapu Lele,Ludicolo,Togekiss,
+1
+805587116
+Whimsicott,Regigigas,Xerneas,Groudon,Salamence,Bronzong,
+Kyogre,Necrozma-Dusk-Mane,Hitmontop,Tapu Lele,Ludicolo,Togekiss,
+1
+805580678
+Rayquaza,Kyogre,Tapu Koko,Tapu Lele,Kartana,Gengar,
+Whimsicott,Regigigas,Xerneas,Groudon,Salamence,Bronzong,
+2
+805573247
+Dragonite,Salamence,Goodra,Garchomp,Kommo-o,Hydreigon,
+Kyogre,Necrozma-Dusk-Mane,Hitmontop,Tapu Lele,Ludicolo,Togekiss,
+2
+805570963
+Kyogre,Necrozma-Dusk-Mane,Hitmontop,Tapu Lele,Ludicolo,Togekiss,
+Groudon,Kyogre,Beedrill,Incineroar,Tapu Koko,Kartana,
+1
+805535244
+Rayquaza,Chansey,Kommo-o,Celesteela,Landorus-Therian,Kyogre,
+Salamence,Incineroar,Kartana,Tapu Koko,Kyogre,Necrozma-Dusk-Mane,
+2
+805529106
+Kyogre,Incineroar,Xerneas,Kartana,Hitmontop,Smeargle,
+Mr. Mime,Incineroar,Xerneas,Musharna,Azumarill,Toxapex,
+1
+805525581
+Aromatisse,Kyogre,Groudon,Banette,Smeargle,Persian-Alola,
+Tapu Lele,Kyogre,Groudon,Gengar,Bronzong,Hitmontop,
+1
+805521444
+Weavile,Tapu Lele,Groudon,Rayquaza,Ferrothorn,Cresselia,
+Salamence,Incineroar,Kartana,Tapu Koko,Kyogre,Necrozma-Dusk-Mane,
+2
+805521318
+Kyogre,Tapu Lele,Smeargle,Xerneas,Aegislash,Kingdra,
+Kyogre,Mewtwo,Tapu Koko,Latias,Incineroar,Kangaskhan,
+1
+805513769
+Kyogre,Ludicolo,Yveltal,Metagross,Stakataka,Aegislash,
+Gallade,Kangaskhan,Lunala,Xerneas,Incineroar,Tapu Lele,
+2
+805513418
+Scrafty,Necrozma-Dusk-Mane,Kyurem-White,Gastrodon,Lurantis,Tapu Koko,
+Araquanid,Xerneas,Raichu,Tapu Koko,Kyogre,Incineroar,
+2
+805511214
+Scrafty,Necrozma-Dusk-Mane,Kyurem-White,Gastrodon,Lurantis,Tapu Koko,
+Lugia,Kyogre,Garchomp,Tapu Lele,Beedrill,Manectric,
+1
+805509748
+Rayquaza,Incineroar,Ninetales-Alola,Necrozma-Dusk-Mane,Altaria,Tapu Koko,
+Rayquaza,Honchkrow,Infernape,Xerneas,Serperior,Tapu Koko,
+2
+805497582
+Groudon,Blaziken,Haxorus,Rotom-Frost,Cradily,Ludicolo,
+Rayquaza,Kartana,Tapu Lele,Zygarde,Aegislash,Seadra,
+2
+805493067
+Lunala,Stakataka,Parasect,Landorus-Therian,Rayquaza,Weavile,
+Groudon,Tapu Koko,Crobat,Incineroar,Xerneas,Kartana,
+1
+805492076
+Xerneas,Ribombee,Eelektross,Tyranitar,Salazzle,Salamence,
+Togekiss,Garchomp,Tyranitar,Bronzong,Snorlax,Aerodactyl,
+2
+805479375
+Groudon,Tapu Fini,Salamence,Tapu Koko,Necrozma-Dusk-Mane,Incineroar,
+Gengar,Hitmontop,Groudon,Kyogre,Bronzong,Tapu Koko,
+2
+805448665
+Rayquaza,Lugia,Tapu Koko,Whimsicott,Ferrothorn,Incineroar,
+Tapu Fini,Groudon,Ludicolo,Necrozma-Dawn-Wings,Clefairy,Mawile,
+2
+805447054
+Butterfree,Incineroar,Tapu Lele,Necrozma-Dusk-Mane,Clefairy,Rayquaza,
+Ferrothorn,Kyogre,Groudon,Tapu Fini,Incineroar,Cresselia,
+2
+805421935
+Kyogre,Bronzong,Incineroar,Gengar,Groudon,Tapu Koko,
+Lucario,Banette,Groudon,Yveltal,Landorus-Therian,Tapu Koko,
+2
+805421016
+Lucario,Banette,Groudon,Yveltal,Landorus-Therian,Tapu Koko,
+Charjabug,Kyogre,Seismitoad,Tornadus,Bisharp,Sceptile,
+1
+805419927
+Kyogre,Rayquaza,Bronzong,Gengar,Togedemaru,Tapu Lele,
+Lucario,Banette,Groudon,Yveltal,Landorus-Therian,Tapu Koko,
+1
+805417878
+Lucario,Banette,Groudon,Yveltal,Landorus-Therian,Tapu Koko,
+Groudon,Xerneas,Bronzong,Crobat,Salamence,Amoonguss,
+2
+805417233
+Lucario,Banette,Groudon,Yveltal,Landorus-Therian,Tapu Koko,
+Tapu Lele,Mewtwo,Snorlax,Ferrothorn,Groudon,Salamence,
+1
+805414822
+Rayquaza,Kyogre,Raichu,Smeargle,Aegislash,Cresselia,
+Lucario,Banette,Groudon,Yveltal,Milotic,Tapu Koko,
+1
+805413068
+Groudon,Xerneas,Salamence,Kartana,Scrafty,Amoonguss,
+Lucario,Banette,Groudon,Yveltal,Milotic,Tapu Koko,
+2
+805411898
+Xerneas,Lunala,Salamence,Amoonguss,Incineroar,Togedemaru,
+Groudon,Xerneas,Lilligant,Aegislash,Incineroar,Lopunny,
+1
+805406715
+Lopunny,Celesteela,Rayquaza,Xurkitree,Amoonguss,Lunala,
+Xerneas,Smeargle,Groudon,Salamence,Bronzong,Tapu Lele,
+1
+805392391
+Dialga,Ho-Oh,Tapu Lele,Kartana,Mamoswine,Tapu Fini,
+Incineroar,Groudon,Metagross,Amoonguss,Kyogre,Whimsicott,
+2
+805374664
+Amoonguss,Stakataka,Smeargle,Rayquaza,Mimikyu,Groudon,
+Rayquaza,Kyurem-White,Incineroar,Gyarados,Ferrothorn,Flygon,
+1
+805372218
+Groudon,Kyurem-White,Gengar,Thundurus-Therian,Tapu Lele,Whimsicott,
+Rayquaza,Kyurem-White,Incineroar,Gyarados,Ferrothorn,Flygon,
+1
+805364949
+Groudon,Pheromosa,Snorlax,Xerneas,Salamence,Bronzong,
+Ludicolo,Necrozma-Dusk-Mane,Raichu,Kyogre,Amoonguss,Incineroar,
+1
+805355284
+Heliolisk,Umbreon,Giratina-Origin,Porygon2,Espeon,Mawile,
+Gengar,Whimsicott,Celesteela,Landorus-Therian,Tapu Fini,Volcarona,
+2
+805352575
+Gastrodon-East,Whimsicott,Giratina-Origin,Kangaskhan,Kyogre,Machamp,
+Kyogre,Xerneas,Ferrothorn,Incineroar,Salamence,Tapu Koko,
+2
+805349089
+Smeargle,Xerneas,Togekiss,Lunala,Kangaskhan,Tapu Koko,
+Kyogre,Necrozma-Dusk-Mane,Tapu Lele,Ludicolo,Togekiss,Hitmontop,
+2
+805346401
+Necrozma-Dusk-Mane,Giratina-Origin,Stakataka,Incineroar,Amoonguss,Tapu Lele,
+Toxapex,Banette,Claydol,Incineroar,Clefairy,Lopunny,
+1
+805332888
+Kyogre,Rayquaza,Incineroar,Naganadel,Bronzong,Amoonguss,
+Kyogre,Necrozma-Dusk-Mane,Hitmontop,Ludicolo,Tapu Lele,Ferrothorn,
+2
+805317311
+Kangaskhan,Salamence,Groudon,Xerneas,Smeargle,Amoonguss,
+Tapu Lele,Lunala,Xerneas,Incineroar,Lucario,Amoonguss,
+2
+805319658
+Salamence,Tapu Koko,Gastrodon,Groudon,Yveltal,Kartana,
+Kyogre,Rayquaza,Raichu,Gengar,Bronzong,Hitmontop,
+2
+805316082
+Kyogre,Necrozma-Dusk-Mane,Hitmontop,Ludicolo,Tapu Lele,Ferrothorn,
+Groudon,Bronzong,Xerneas,Salamence,Tapu Koko,Persian-Alola,
+2
+805299479
+Incineroar,Xerneas,Kyogre,Amoonguss,Salamence,Bronzong,
+Kyogre,Rayquaza,Raichu,Gengar,Bronzong,Hitmontop,
+2
+805289481
+Kyogre,Spritzee,Rayquaza,Snorlax,Cresselia,Lickilicky,
+Groudon,Bronzong,Xerneas,Salamence,Tapu Koko,Persian-Alola,
+2
+805280676
+Rayquaza,Kartana,Tapu Lele,Zygarde,Aegislash,Octillery,
+Ninetales-Alola,Togekiss,Mudsdale,Milotic,Xerneas,Kyogre,
+2
+805271019
+Salamence,Xerneas,Incineroar,Ferrothorn,Cresselia,Groudon,
+Ludicolo,Bronzong,Tapu Lele,Kartana,Kyogre,Groudon,
+1
+805266989
+Ludicolo,Bronzong,Tapu Lele,Kartana,Kyogre,Groudon,
+Zygarde,Mewtwo,Tapu Lele,Landorus-Therian,Crobat,Smeargle,
+1
+805265400
+Kyogre,Necrozma-Dusk-Mane,Hitmontop,Tapu Lele,Ludicolo,Togekiss,
+Rayquaza,Blaziken,Greninja,Tapu Koko,Groudon,Ditto,
+1
+805263109
+Ferrothorn,Kyogre,Salamence,Necrozma-Dawn-Wings,Raichu,Cresselia,
+Kyogre,Necrozma-Dusk-Mane,Ditto,Kartana,Gengar,Incineroar,
+1
+805262834
+Seismitoad,Metagross,Latias,Rayquaza,Yveltal,Tapu Koko,
+Sceptile,Tapu Koko,Lugia,Kyogre,Landorus-Therian,Scizor,
+2
+805247629
+Rayquaza,Kartana,Tapu Lele,Zygarde,Aegislash,Octillery,
+Salamence,Incineroar,Kartana,Tapu Koko,Kyogre,Necrozma-Dusk-Mane,
+2
+805247133
+Xerneas,Metagross,Kyogre,Ludicolo,Raichu,Landorus-Therian,
+Salamence,Xerneas,Incineroar,Ferrothorn,Cresselia,Groudon,
+2
+805238496
+Kyogre,Necrozma-Dusk-Mane,Hitmontop,Tapu Lele,Ludicolo,Tapu Koko,
+Kyogre,Rayquaza,Bronzong,Raichu,Incineroar,Gengar,
+1
+805236686
+Rayquaza,Starmie,Zekrom,Tapu Koko,Murkrow,Nidoking,
+Kyogre,Necrozma-Dusk-Mane,Hitmontop,Tapu Lele,Ludicolo,Tapu Koko,
+2
+805234766
+Luxray,Swoobat,Samurott,Salazzle,Whimsicott,Mamoswine,
+Kyogre,Necrozma-Dusk-Mane,Hitmontop,Tapu Lele,Ludicolo,Tapu Koko,
+2
+805232423
+Rayquaza,Kartana,Tapu Lele,Zygarde,Aegislash,Octillery,
+Shuckle,Gothitelle,Excadrill,Tyranitar,Rotom-Wash,Dialga,
+1
+805233124
+Kyogre,Swampert,Zapdos,Milotic,Amoonguss,Necrozma-Dusk-Mane,
+Kyogre,Necrozma-Dusk-Mane,Hitmontop,Tapu Lele,Ludicolo,Tapu Koko,
+2
+805228483
+Kyogre,Rayquaza,Kartana,Tapu Lele,Incineroar,Aegislash,
+Groudon,Mimikyu,Tapu Fini,Tapu Bulu,Yveltal,Amoonguss,
+2
+805225260
+Kyogre,Swampert,Zapdos,Milotic,Amoonguss,Kartana,
+Groudon,Lunala,Gastrodon-East,Salamence,Lucario,Tapu Lele,
+2
+805209314
+Incineroar,Groudon,Giratina-Origin,Oranguru,Tapu Fini,Ferrothorn,
+Gengar,Infernape,Giratina,Tapu Lele,Xerneas,Tapu Koko,
+1
+805196852
+Tapu Lele,Groudon,Xerneas,Golduck,Metagross,Ferrothorn,
+Xerneas,Incineroar,Landorus-Therian,Kyogre,Ludicolo,Clefairy,
+1
+805190168
+Groudon,Kyurem-Black,Salamence,Persian-Alola,Tapu Koko,Crobat,
+Rayquaza,Kyogre,Tapu Koko,Tapu Lele,Kartana,Gengar,
+1
+805178952
+Kyogre,Rayquaza,Tapu Koko,Incineroar,Bronzong,Pheromosa,
+Salamence,Xerneas,Incineroar,Ferrothorn,Cresselia,Groudon,
+2
+805170352
+Kyogre,Yveltal,Mawile,Raichu,Gothitelle,Mantine,
+Xerneas,Kartana,Kyogre,Incineroar,Tapu Koko,Salamence,
+1
+805167960
+Rayquaza,Groudon,Arbok,Garchomp,Blissey,Ferrothorn,
+Groudon,Lunala,Gastrodon-East,Salamence,Lucario,Tapu Lele,
+2
+805168313
+Milotic,Chesnaught,Groudon,Salamence,Solgaleo,Incineroar,
+Kyurem,Tapu Lele,Metagross,Krookodile,Groudon,Zapdos,
+1
+805165070
+Groudon,Lunala,Gastrodon-East,Salamence,Lucario,Tapu Lele,
+Salamence,Dialga,Incineroar,Kyogre,Tapu Koko,Bronzong,
+2
+805153621
+Kyogre,Eevee,Smeargle,Latios,Solgaleo,Tapu Lele,
+Audino,Whimsicott,Shuckle,Blissey,Necrozma-Dusk-Mane,Pheromosa,
+1
+805146424
+Whimsicott,Volcarona,Tentacruel,Gastrodon-East,Palkia,Tapu Fini,
+Tapu Fini,Ninetales-Alola,Necrozma-Dusk-Mane,Zekrom,Garchomp,Arcanine,
+1
+805138350
+Xerneas,Smeargle,Groudon,Salamence,Bronzong,Tapu Lele,
+Groudon,Incineroar,Kyogre,Ludicolo,Gengar,Whimsicott,
+1
+805132514
+Xerneas,Smeargle,Groudon,Salamence,Bronzong,Tapu Lele,
+Groudon,Manectric,Ferrothorn,Kyogre,Muk-Alola,Bronzong,
+1
+805128423
+Salamence,Kyogre,Necrozma-Dusk-Mane,Tapu Bulu,Tapu Lele,Incineroar,
+Xerneas,Smeargle,Groudon,Salamence,Bronzong,Tapu Lele,
+2
+805139606
+Xerneas,Yveltal,Mawile,Gothitelle,Tapu Fini,Altaria,
+Lunala,Gengar,Tapu Koko,Groudon,Liepard,Landorus-Therian,
+2
+805138633
+Gengar,Hitmontop,Groudon,Kyogre,Bronzong,Tapu Koko,
+Dialga,Groudon,Cresselia,Kangaskhan,Whimsicott,Incineroar,
+1
+805137303
+Xerneas,Yveltal,Mawile,Gothitelle,Tapu Fini,Altaria,
+Kyogre,Landorus-Therian,Rayquaza,Amoonguss,Tapu Lele,Gengar,
+1
+805137516
+Whimsicott,Volcarona,Tentacruel,Gastrodon-East,Palkia,Tapu Fini,
+Necrozma-Dusk-Mane,Kyogre,Tapu Lele,Swampert,Hitmontop,Zapdos,
+1
+805134662
+Xerneas,Yveltal,Mawile,Gothitelle,Tapu Fini,Altaria,
+Milotic,Chesnaught,Groudon,Salamence,Solgaleo,Incineroar,
+1
+805132053
+Xerneas,Yveltal,Mawile,Gothitelle,Tapu Fini,Altaria,
+Amoonguss,Tapu Koko,Incineroar,Necrozma-Dusk-Mane,Ferrothorn,Kyogre,
+1
+805117264
+Weavile,Tapu Lele,Rayquaza,Groudon,Ferrothorn,Kartana,
+Gengar,Hitmontop,Groudon,Kyogre,Bronzong,Tapu Koko,
+2
+805114254
+Thundurus-Therian,Manectric,Jolteon,Electivire,Tapu Koko,Kyogre,
+Whimsicott,Volcarona,Tentacruel,Gastrodon-East,Palkia,Mimikyu,
+2
+805100730
+Araquanid,Xerneas,Raichu,Hitmontop,Tapu Koko,Kyogre,
+Tapu Lele,Lunala,Groudon,Lilligant,Ferrothorn,Incineroar,
+2
+805098159
+Salamence,Tapu Lele,Groudon,Incineroar,Kyogre,Celesteela,
+Rayquaza,Kyogre,Incineroar,Tapu Koko,Kartana,Bronzong,
+1
+805097318
+Ferrothorn,Kyogre,Incineroar,Tapu Koko,Whimsicott,Rayquaza,
+Tapu Lele,Lunala,Groudon,Lilligant,Ferrothorn,Metagross,
+1
+805094910
+Smeargle,Xerneas,Togekiss,Lunala,Kangaskhan,Tapu Koko,
+Ferrothorn,Kyogre,Incineroar,Tapu Koko,Whimsicott,Rayquaza,
+1
+805092425
+Beedrill,Tangrowth,Xerneas,Yveltal,Tapu Lele,Incineroar,
+Landorus-Therian,Zekrom,Tapu Koko,Kyogre,Crobat,Lucario,
+1
+805091062
+Groudon,Incineroar,Tapu Koko,Xerneas,Ferrothorn,Braviary,
+Ferrothorn,Kyogre,Incineroar,Tapu Koko,Whimsicott,Rayquaza,
+2
+805087492
+Gengar,Hitmontop,Groudon,Kyogre,Bronzong,Tapu Koko,
+Lunala,Xerneas,Incineroar,Vivillon-Marine,Smeargle,Clefairy,
+2
+805091946
+Incineroar,Tapu Bulu,Manectric,Toxapex,Landorus-Therian,Oranguru,
+Palkia,Whimsicott,Tentacruel,Volcarona,Aegislash,Scrafty,
+2
+805088849
+Palkia,Whimsicott,Tentacruel,Volcarona,Aegislash,Scrafty,
+Lucario,Kyogre,Landorus-Therian,Turtonator,Celesteela,Gastrodon-East,
+1
+805088658
+Banette,Oranguru,Kyogre,Rayquaza,Tapu Fini,Sharpedo,
+Ferrothorn,Kyogre,Incineroar,Tapu Koko,Whimsicott,Rayquaza,
+1
+805087953
+Kyogre,Rayquaza,Hitmontop,Bronzong,Gengar,Togedemaru,
+Lopunny,Celesteela,Thundurus,Kyogre,Incineroar,Necrozma-Dawn-Wings,
+1
+805083770
+Rayquaza,Necrozma-Dusk-Mane,Tapu Koko,Nidoking,Incineroar,Braviary,
+Gothitelle,Tapu Koko,Mawile,Rayquaza,Kyogre,Scrafty,
+2
+805079630
+Rayquaza,Tapu Lele,Kyogre,Ferrothorn,Tapu Koko,Incineroar,
+Salamence,Tapu Lele,Groudon,Incineroar,Kyogre,Celesteela,
+2
+805066017
+Groudon,Giratina,Metagross,Persian-Alola,Gastrodon,Toxicroak,
+Kyogre,Mewtwo,Hydreigon,Diggersby,Heliolisk,Gardevoir,
+2
+805053761
+Groudon,Necrozma-Dawn-Wings,Landorus-Therian,Tapu Koko,Smeargle,Mawile,
+Aromatisse,Kyogre,Groudon,Banette,Incineroar,Amoonguss,
+2
+805042471
+Kyogre,Cresselia,Swampert,Tapu Koko,Snorlax,Landorus-Therian,
+Groudon,Bronzong,Xerneas,Salamence,Tapu Koko,Persian-Alola,
+2
+805042640
+Smeargle,Xerneas,Togekiss,Lunala,Kangaskhan,Tapu Koko,
+Tapu Lele,Groudon,Xerneas,Golduck,Metagross,Ferrothorn,
+2
+805037642
+Groudon,Bronzong,Xerneas,Salamence,Tapu Koko,Persian-Alola,
+Kyogre,Cresselia,Swampert,Tapu Koko,Snorlax,Landorus-Therian,
+2
+805034652
+Groudon,Rayquaza,Cresselia,Tapu Koko,Kommo-o,Tapu Lele,
+Tapu Lele,Yveltal,Kyogre,Salamence,Bronzong,Tapu Koko,
+2
+805034192
+Aromatisse,Kyogre,Groudon,Banette,Incineroar,Tapu Koko,
+Manectric,Thundurus-Therian,Landorus-Therian,Blacephalon,Clefairy,Incineroar,
+1
+805015748
+Kyogre,Necrozma-Dusk-Mane,Swampert,Amoonguss,Drifblim,Tapu Lele,
+Kangaskhan,Xerneas,Groudon,Cresselia,Incineroar,Tapu Koko,
+1
+804996543
+Tapu Lele,Kyogre,Yveltal,Landorus-Therian,Metagross,Kingdra,
+Lunala,Xerneas,Salamence,Crobat,Greninja,Manectric,
+2
+804994945
+Lunala,Xerneas,Salamence,Crobat,Greninja,Manectric,
+Rayquaza,Kyogre,Incineroar,Tapu Koko,Kartana,Bronzong,
+1
+804992501
+Lunala,Xerneas,Salamence,Crobat,Greninja,Manectric,
+Groudon,Necrozma-Dawn-Wings,Incineroar,Amoonguss,Zapdos,Mawile,
+1
+804989117
+Lunala,Xerneas,Salamence,Crobat,Greninja,Manectric,
+Groudon,Salamence,Bronzong,Tapu Lele,Smeargle,Xerneas,
+1
+804976677
+Groudon,Kartana,Xerneas,Crobat,Tapu Koko,Incineroar,
+Rayquaza,Raichu-Alola,Tapu Koko,Kyogre,Whimsicott,Metagross,
+2
+804972714
+Mewtwo,Tapu Lele,Necrozma-Dusk-Mane,Togekiss,Alakazam,Greninja,
+Ninetales-Alola,Snorlax,Tapu Koko,Arcanine,Metagross,Mimikyu,
+1
+804955709
+Weavile,Cresselia,Rayquaza,Groudon,Ferrothorn,Talonflame,
+Meowstic,Groudon,Kyurem-White,Bronzong,Ferrothorn,Clefairy,
+2
+804931130
+Solgaleo,Minior,Slowbro,Type: Null,Kartana,Kyogre,
+Tapu Fini,Lopunny,Mudsdale,Alakazam,Pheromosa,Naganadel,
+1
+804926592
+Gengar,Kyogre,Bronzong,Groudon,Manectric,Talonflame,
+Kyogre,Lurantis,Necrozma-Dusk-Mane,Salamence,Tapu Lele,Hitmontop,
+1
+804927178
+Landorus-Therian,Amoonguss,Snorlax,Incineroar,Heracross,Cresselia,
+Landorus-Therian,Zekrom,Tapu Koko,Kyogre,Crobat,Lucario,
+2
+804917570
+Meowstic,Groudon,Kyurem-White,Bronzong,Tapu Lele,Scizor,
+Raichu,Kyogre,Necrozma-Dusk-Mane,Ludicolo,Incineroar,Gengar,
+2
+804908561
+Meowstic,Groudon,Kyurem-White,Bronzong,Lilligant,Togedemaru,
+Zapdos,Kyogre,Groudon,Cradily,Gastrodon,Tornadus,
+1
+804908883
+Raichu,Gengar,Groudon,Yveltal,Ferrothorn,Mimikyu,
+Necrozma-Dawn-Wings,Kyogre,Salamence,Slaking,Wishiwashi,Cresselia,
+2
+804907311
+Rayquaza,Kyogre,Whimsicott,Arcanine,Ludicolo,Aegislash,
+Necrozma-Dawn-Wings,Kyogre,Salamence,Slaking,Wishiwashi,Cresselia,
+2
+804905890
+Tapu Koko,Kyogre,Lunala,Salamence,Kangaskhan,Ferrothorn,
+Necrozma-Dawn-Wings,Kyogre,Salamence,Slaking,Wishiwashi,Cresselia,
+2
+804903539
+Landorus-Therian,Zekrom,Tapu Koko,Kyogre,Crobat,Lucario,
+Tapu Lele,Mewtwo,Ferrothorn,Groudon,Meowstic,Lilligant,
+2
+804867017
+Groudon,Giratina,Metagross,Persian-Alola,Nihilego,Tapu Lele,
+Necrozma-Dawn-Wings,Kyogre,Kartana,Banette,Togekiss,Tapu Lele,
+2
+804865850
+Xerneas,Kyogre,Metagross,Incineroar,Xurkitree,Cresselia,
+Gigalith,Heliolisk,Stoutland,Probopass,Maractus,Klinklang,
+2
+804848445
+Palkia,Kyogre,Cresselia,Lucario,Tornadus-Therian,Amoonguss,
+Groudon,Necrozma-Dawn-Wings,Incineroar,Amoonguss,Zapdos,Mawile,
+2
+804842096
+Rayquaza,Scrafty,Smeargle,Thundurus,Volcarona,Xerneas,
+Aegislash,Hydreigon,Venusaur,Salamence,Tyranitar,Excadrill,
+1
+804840831
+Rayquaza,Scrafty,Smeargle,Thundurus,Volcarona,Xerneas,
+Xerneas,Kyogre,Metagross,Incineroar,Xurkitree,Cresselia,
+1
+804829599
+Groudon,Xerneas,Salamence,Kartana,Hitmontop,Amoonguss,
+Dialga,Groudon,Cresselia,Kangaskhan,Whimsicott,Incineroar,
+1
+804823140
+Tapu Lele,Necrozma-Dusk-Mane,Blaziken,Groudon,Audino,Pheromosa,
+Kyogre,Yveltal,Landorus-Therian,Ferrothorn,Ludicolo,Tapu Fini,
+1
+804821223
+Tapu Lele,Necrozma-Dusk-Mane,Blaziken,Groudon,Audino,Pheromosa,
+Beedrill,Garchomp,Politoed,Kingdra,Smeargle,Infernape,
+1
+804813660
+Dialga,Groudon,Cresselia,Kangaskhan,Whimsicott,Incineroar,
+Rayquaza,Gastrodon,Zapdos,Kartana,Ludicolo,Xerneas,
+1
+804805619
+Kyogre,Yveltal,Landorus-Therian,Ferrothorn,Tapu Lele,Incineroar,
+Gastrodon-East,Whimsicott,Giratina-Origin,Kangaskhan,Kyogre,Machamp,
+2
+804784753
+Kyogre,Yveltal,Landorus-Therian,Raichu,Gengar,Hitmontop,
+Audino,Kyogre,Celesteela,Bronzong,Groudon,Persian-Alola,
+2
+804778020
+Groudon,Xerneas,Gothitelle,Incineroar,Salamence,Tapu Fini,
+Kyogre,Ferrothorn,Tapu Lele,Aegislash,Groudon,Kartana,
+1
+804755808
+Gastrodon-East,Whimsicott,Giratina-Origin,Kangaskhan,Kyogre,Machamp,
+Mewtwo,Tapu Lele,Gallade,Aegislash,Crobat,Dialga,
+1
+804721954
+Xerneas,Kartana,Kyogre,Incineroar,Tapu Koko,Salamence,
+Ferrothorn,Kyogre,Yveltal,Manectric,Landorus-Therian,Whimsicott,
+2
+804719453
+Xerneas,Kartana,Kyogre,Incineroar,Tapu Koko,Salamence,
+Necrozma-Dusk-Mane,Yveltal,Salamence,Landorus-Therian,Incineroar,Crobat,
+2
+804707226
+Heliolisk,Umbreon,Giratina-Origin,Porygon2,Espeon,Mawile,
+Tapu Koko,Sceptile,Garchomp,Aerodactyl,Scizor,Incineroar,
+1
+804711850
+Camerupt,Porygon2,Tapu Koko,Kyogre,Volcarona,Toxicroak,
+Kingdra,Whimsicott,Tentacruel,Volcarona,Gastrodon-East,Gallade,
+2
+804702439
+Swampert,Aegislash,Charizard,Groudon,Aerodactyl,Metagross,
+Kingdra,Whimsicott,Tentacruel,Volcarona,Gallade,Gastrodon-East,
+2
+804698669
+Kyogre,Tapu Koko,Landorus-Therian,Xerneas,Metagross,Drifblim,
+Tapu Koko,Incineroar,Necrozma-Dusk-Mane,Swampert,Kartana,Kyogre,
+1
+804684814
+Kyogre,Rayquaza,Incineroar,Togedemaru,Gengar,Toxapex,
+Necrozma-Dusk-Mane,Yveltal,Salamence,Incineroar,Landorus-Therian,Crobat,
+2
+804682994
+Kyogre,Tapu Fini,Lugia,Porygon-Z,Talonflame,Garchomp,
+Necrozma-Dusk-Mane,Yveltal,Salamence,Incineroar,Landorus-Therian,Crobat,
+2
+804677288
+Tapu Koko,Incineroar,Necrozma-Dusk-Mane,Swampert,Kartana,Kyogre,
+Tapu Lele,Kyogre,Xerneas,Arcanine,Metagross,Ferrothorn,
+1
+804673357
+Necrozma-Dawn-Wings,Kyogre,Kangaskhan,Amoonguss,Tapu Koko,Incineroar,
+Latias,Lopunny,Butterfree,Sandslash-Alola,Primarina,Tapu Koko,
+1
+804671800
+Palkia,Whimsicott,Volcarona,Tentacruel,Blaziken,Muk-Alola,
+Kyogre,Tapu Fini,Swellow,Kommo-o,Lugia,Porygon-Z,
+1
+804669684
+Tapu Koko,Incineroar,Necrozma-Dusk-Mane,Swampert,Kartana,Kyogre,
+Kyogre,Rhydon,Swampert,Tapu Lele,Salazzle,Maractus,
+1
+804657990
+Tapu Koko,Groudon,Xerneas,Jumpluff,Kangaskhan,Tapu Lele,
+Greninja,Bisharp,Xerneas,Torracat,Malamar,Rayquaza,
+1
+804654645
+Landorus-Therian,Gyarados,Milotic,Tapu Koko,Lugia,Hydreigon,
+Tapu Koko,Gastrodon,Garchomp,Gigalith,Arcanine,Celesteela,
+2
+804637502
+Palkia,Whimsicott,Volcarona,Tentacruel,Blaziken,Scrafty,
+Hydreigon,Dragalge,Salamence,Kommo-o,Garchomp,Altaria,
+1
+804625722
+Tapu Koko,Groudon,Xerneas,Jumpluff,Kangaskhan,Tapu Lele,
+Tapu Koko,Incineroar,Necrozma-Dusk-Mane,Swampert,Kartana,Kyogre,
+2
+804615465
+Mewtwo,Tapu Lele,Gallade,Aegislash,Crobat,Dialga,
+Rayquaza,Groudon,Gengar,Ludicolo,Cresselia,Tornadus,
+2
+804613503
+Jolteon,Incineroar,Kyogre,Ludicolo,Lunala,Alakazam,
+Mawile,Tapu Bulu,Hitmontop,Porygon-Z,Togekiss,Torkoal,
+2
+804612354
+Mawile,Tapu Bulu,Hitmontop,Porygon-Z,Togekiss,Torkoal,
+Mewtwo,Tapu Lele,Gallade,Aegislash,Crobat,Dialga,
+1
+804610934
+Kartana,Tapu Fini,Gliscor,Zapdos,Volcarona,Chandelure,
+Mawile,Tapu Bulu,Hitmontop,Porygon-Z,Togekiss,Torkoal,
+2
+804607945
+Oranguru,Incineroar,Dusclops,Golduck,Heracross,Celesteela,
+Mawile,Tapu Bulu,Hitmontop,Porygon-Z,Togekiss,Torkoal,
+2
+804604110
+Tapu Koko,Incineroar,Necrozma-Dusk-Mane,Swampert,Kartana,Kyogre,
+Oranguru,Incineroar,Dusclops,Golduck,Heracross,Celesteela,
+1
+804599648
+Lunala,Xerneas,Incineroar,Vivillon-Marine,Smeargle,Clefairy,
+Tapu Koko,Incineroar,Necrozma-Dusk-Mane,Swampert,Kartana,Kyogre,
+2
+804598848
+Kyogre,Groudon,Cresselia,Salamence,Incineroar,Lilligant,
+Tapu Koko,Kyogre,Gengar,Haxorus,Infernape,Yanmega,
+1
+804591775
+Kyogre,Tapu Lele,Palkia,Amoonguss,Hawlucha,Incineroar,
+Gothitelle,Tapu Bulu,Mawile,Groudon,Kyogre,Scrafty,
+2
+804584050
+Mewtwo,Tapu Lele,Necrozma-Dusk-Mane,Metagross,Raichu-Alola,Alakazam,
+Shuckle,Gothitelle,Excadrill,Tyranitar,Rotom-Wash,Dialga,
+1
+804582461
+Mewtwo,Tapu Lele,Necrozma-Dusk-Mane,Metagross,Raichu-Alola,Alakazam,
+Groudon,Xerneas,Sceptile,Incineroar,Ditto,Hitmontop,
+1
+804581928
+Tapu Koko,Incineroar,Necrozma-Dusk-Mane,Swampert,Kartana,Kyogre,
+Groudon,Necrozma-Dawn-Wings,Landorus-Therian,Tapu Koko,Smeargle,Mawile,
+1
+804580648
+Lurantis,Dialga,Xerneas,Kangaskhan,Incineroar,Blacephalon,
+Shuckle,Gothitelle,Excadrill,Tyranitar,Rotom-Wash,Dialga,
+2
+804581431
+Mewtwo,Tapu Lele,Necrozma-Dusk-Mane,Metagross,Raichu-Alola,Alakazam,
+Rayquaza,Milotic,Landorus-Therian,Kyurem-White,Masquerain,Incineroar,
+1
+804578569
+Groudon,Xerneas,Sceptile,Celesteela,Incineroar,Ditto,
+Kyogre,Xerneas,Mawile,Incineroar,Gothitelle,Amoonguss,
+1
+804570987
+Lurantis,Dialga,Xerneas,Kangaskhan,Incineroar,Amoonguss,
+Kyogre,Yveltal,Gengar,Landorus-Therian,Hitmontop,Amoonguss,
+2
+804561140
+Groudon,Kyogre,Salamence,Tapu Koko,Bronzong,Persian-Alola,
+Yveltal,Groudon,Gengar,Lilligant,Hitmontop,Bronzong,
+1
+804543429
+Groudon,Yveltal,Manectric,Gengar,Landorus-Therian,Jumpluff,
+Yveltal,Banette,Zygarde,Tapu Lele,Stakataka,Incineroar,
+1
+804531430
+Froslass,Honchkrow,Probopass,Persian,Sharpedo,Hitmontop,
+Abomasnow,Bastiodon,Salamence,Charizard,Groudon,Rayquaza,
+2
+804530539
+Abomasnow,Bastiodon,Salamence,Charizard,Groudon,Rayquaza,
+Dialga,Scizor,Raichu,Kyogre,Hitmontop,Tapu Bulu,
+1
+804485260
+Rayquaza,Chansey,Kommo-o,Celesteela,Landorus-Therian,Kyogre,
+Groudon,Necrozma-Dusk-Mane,Tapu Koko,Toxapex,Persian-Alola,Gengar,
+2
+804476633
+Necrozma-Dawn-Wings,Tapu Lele,Togekiss,Kyogre,Banette,Kartana,
+Kyogre,Necrozma-Dusk-Mane,Gengar,Tapu Lele,Zapdos,Ludicolo,
+2
+804466585
+Necrozma-Dawn-Wings,Tapu Lele,Togekiss,Kyogre,Banette,Kartana,
+Groudon,Yveltal,Jumpluff,Salamence,Tapu Lele,Amoonguss,
+1
+804447136
+Feraligatr,Incineroar,Galvantula,Sharpedo,Comfey,Gardevoir,
+Rayquaza,Aegislash,Landorus-Therian,Tapu Lele,Greninja,Jolteon,
+1
+804440671
+Lopunny,Kyogre,Lunala,Kartana,Zapdos,Landorus,
+Rayquaza,Reshiram,Tapu Koko,Incineroar,Ludicolo,Ferrothorn,
+2
+804430026
+Zapdos,Incineroar,Sceptile,Landorus-Therian,Gastrodon-East,Rotom-Heat,
+Silvally-*,Tapu Lele,Zygarde,Latias,Rayquaza,Porygon-Z,
+2
+804427606
+Silvally-*,Tapu Lele,Zygarde,Latias,Rayquaza,Porygon-Z,
+Metagross,Tapu Lele,Reshiram,Zapdos,Landorus-Therian,Groudon,
+1
+804425864
+Salamence,Groudon,Xerneas,Metagross,Gyarados,Smeargle,
+Salamence,Tyranitar,Excadrill,Porygon2,Tapu Koko,Gengar,
+1
+804413395
+Swampert,Solgaleo,Cresselia,Heatran,Whimsicott,Yveltal,
+Blaziken,Necrozma-Dusk-Mane,Tapu Lele,Groudon,Audino,Pheromosa,
+2
+804402915
+Groudon,Xerneas,Gengar,Snorlax,Tapu Koko,Cresselia,
+Porygon-Z,Togekiss,Mawile,Tapu Bulu,Hitmontop,Torkoal,
+2
+804401797
+Groudon,Xerneas,Gengar,Snorlax,Tapu Koko,Cresselia,
+Cradily,Politoed,Tapu Koko,Venusaur,Pheromosa,Luxray,
+1
+804400053
+Porygon-Z,Togekiss,Mawile,Tapu Bulu,Hitmontop,Torkoal,
+Cradily,Politoed,Tapu Koko,Venusaur,Pheromosa,Luxray,
+1
+804395543
+Porygon-Z,Togekiss,Mawile,Tapu Bulu,Hitmontop,Torkoal,
+Incineroar,Landorus-Therian,Moltres,Pelipper,Kyogre,Manectric,
+1
+804394653
+Necrozma-Dawn-Wings,Murkrow,Lilligant,Rayquaza,Kingdra,Tapu Koko,
+Blaziken,Necrozma-Dusk-Mane,Tapu Lele,Groudon,Kangaskhan,Pheromosa,
+2
+804392883
+Porygon-Z,Togekiss,Mawile,Tapu Bulu,Hitmontop,Torkoal,
+Togetic,Shuckle,Smeargle,Gengar,Ribombee,Rapidash,
+1
+804389207
+Blaziken,Necrozma-Dusk-Mane,Tapu Lele,Groudon,Kangaskhan,Pheromosa,
+Alakazam,Delphox,Smeargle,Musharna,Camerupt,Xurkitree,
+1
+804386638
+Necrozma-Dusk-Mane,Blaziken,Kyurem-White,Greninja,Buzzwole,Bisharp,
+Mawile,Tapu Bulu,Hitmontop,Porygon-Z,Togekiss,Torkoal,
+2
+804383597
+Incineroar,Landorus-Therian,Tapu Koko,Xerneas,Pheromosa,Salamence,
+Mawile,Tapu Bulu,Hitmontop,Porygon-Z,Togekiss,Torkoal,
+2
+804383050
+Mewtwo,Ludicolo,Landorus-Therian,Tapu Koko,Kyogre,Scizor,
+Blaziken,Necrozma-Dusk-Mane,Tapu Lele,Groudon,Kangaskhan,Pheromosa,
+2
+804381300
+Stantler,Milotic,Gengar,Amoonguss,Persian-Alola,Primeape,
+Mawile,Tapu Bulu,Hitmontop,Porygon-Z,Togekiss,Torkoal,
+2
+804380578
+Kyogre,Rayquaza,Tapu Koko,Incineroar,Bronzong,Pheromosa,
+Necrozma-Dusk-Mane,Swampert,Incineroar,Tapu Lele,Zapdos,Kyogre,
+1
+804378776
+Kyogre,Groudon,Bronzong,Gengar,Incineroar,Tapu Koko,
+Rayquaza,Kyogre,Tapu Lele,Drifblim,Hitmontop,Aegislash,
+2
+804375355
+Blaziken,Necrozma-Dusk-Mane,Tapu Lele,Groudon,Kangaskhan,Pheromosa,
+Necrozma-Dawn-Wings,Whimsicott,Xurkitree,Empoleon,Mewtwo,Muk-Alola,
+1
+804351610
+Groudon,Incineroar,Xerneas,Scizor,Hitmontop,Ditto,
+Tapu Lele,Necrozma-Dusk-Mane,Blaziken,Groudon,Kangaskhan,Cresselia,
+2
+804344542
+Necrozma-Dusk-Mane,Tapu Lele,Groudon,Bronzong,Salamence,Smeargle,
+Bellossom,Groudon,Tapu Lele,Drifblim,Metagross,Yveltal,
+2
+804344988
+Mewtwo,Tapu Lele,Gallade,Aegislash,Crobat,Dialga,
+Ferrothorn,Kyogre,Incineroar,Tapu Koko,Whimsicott,Rayquaza,
+2
+804304523
+Kyogre,Rhydon,Swampert,Tapu Lele,Salazzle,Maractus,
+Smeargle,Greninja,Xerneas,Klefki,Clefable,Togekiss,
+2
+804283444
+Salamence,Toxicroak,Xerneas,Kartana,Gastrodon,Groudon,
+Kyogre,Tapu Lele,Necrozma-Dusk-Mane,Snorlax,Salazzle,Clefable,
+1
+804277470
+Xerneas,Lunala,Salamence,Crobat,Greninja,Manectric,
+Whimsicott,Medicham,Krookodile,Kyurem-White,Tapu Koko,Solgaleo,
+1
+804274027
+Tapu Koko,Incineroar,Necrozma-Dusk-Mane,Swampert,Kartana,Kyogre,
+Dusclops,Necrozma-Dawn-Wings,Drampa,Groudon,Camerupt,Amoonguss,
+1
+804265347
+Groudon,Necrozma-Dawn-Wings,Meowstic,Jumpluff,Typhlosion,Tapu Bulu,
+Tapu Koko,Incineroar,Necrozma-Dusk-Mane,Swampert,Kartana,Kyogre,
+2
+804257908
+Kyogre,Groudon,Bronzong,Gengar,Incineroar,Tapu Koko,
+Gastrodon-East,Whimsicott,Giratina-Origin,Kangaskhan,Kyogre,Machamp,
+2
+804256206
+Kyogre,Groudon,Kartana,Incineroar,Manectric,Tapu Lele,
+Salamence,Xerneas,Incineroar,Ferrothorn,Bronzong,Groudon,
+2
+804252874
+Gastrodon-East,Whimsicott,Giratina-Origin,Kangaskhan,Kyogre,Machamp,
+Kyogre,Gastrodon,Incineroar,Lunala,Salamence,Garchomp,
+1
+804206224
+Tapu Koko,Incineroar,Necrozma-Dusk-Mane,Swampert,Kartana,Kyogre,
+Aerodactyl,Golduck,Arcanine,Marowak-Alola,Togedemaru,Flygon,
+1
+804202091
+Kyogre,Amoonguss,Tapu Koko,Incineroar,Oranguru,Rayquaza,
+Tapu Koko,Incineroar,Necrozma-Dusk-Mane,Swampert,Kartana,Kyogre,
+2
+804198446
+Kyurem-Black,Ninetales-Alola,Celesteela,Empoleon,Weavile,Articuno,
+Palkia,Tapu Koko,Araquanid,Linoone,Delphox,Golurk,
+1
+804176705
+Gengar,Tapu Koko,Yveltal,Groudon,Bronzong,Hitmontop,
+Yveltal,Mawile,Gothitelle,Tapu Fini,Kartana,Rayquaza,
+2
+804144831
+Kyogre,Tapu Lele,Incineroar,Ferrothorn,Nidoking,Xurkitree,
+Ferrothorn,Incineroar,Tyranitar,Landorus-Therian,Tapu Koko,Milotic,
+2
+804136302
+Butterfree,Incineroar,Tapu Lele,Necrozma-Dusk-Mane,Azumarill,Rayquaza,
+Salamence,Xerneas,Incineroar,Ferrothorn,Cresselia,Groudon,
+1
+804118063
+Venusaur,Groudon,Landorus-Therian,Tapu Koko,Lunala,Kartana,
+Amoonguss,Xerneas,Incineroar,Tapu Koko,Aegislash,Kyogre,
+1
+804099690
+Tapu Lele,Kyogre,Amoonguss,Rayquaza,Cresselia,Salamence,
+Incineroar,Necrozma-Dusk-Mane,Kyogre,Salamence,Tapu Koko,Tapu Bulu,
+2
+804098296
+Kyogre,Raichu,Ferrothorn,Rayquaza,Hitmontop,Cresselia,
+Kyogre,Yveltal,Salamence,Tapu Koko,Aegislash,Amoonguss,
+2
+804093762
+Beedrill,Giratina-Origin,Tapu Koko,Golduck,Necrozma-Dawn-Wings,Snorlax,
+Kyogre,Ferrothorn,Necrozma-Dusk-Mane,Incineroar,Gigalith,Tapu Fini,
+2
+804090558
+Mewtwo,Tapu Fini,Salazzle,Nihilego,Reshiram,Kartana,
+Kyogre,Yveltal,Salamence,Tapu Koko,Aegislash,Amoonguss,
+2
+804083805
+Kyogre,Yveltal,Salamence,Tapu Koko,Aegislash,Amoonguss,
+Groudon,Necrozma-Dawn-Wings,Incineroar,Amoonguss,Zapdos,Mawile,
+1
+804081386
+Kyogre,Ferrothorn,Necrozma-Dusk-Mane,Incineroar,Gigalith,Tapu Fini,
+Naganadel,Mewtwo,Necrozma-Dawn-Wings,Kartana,Landorus-Therian,Scrafty,
+1
+804079793
+Groudon,Necrozma-Dawn-Wings,Incineroar,Amoonguss,Zapdos,Mawile,
+Incineroar,Mewtwo,Groudon,Stakataka,Tapu Lele,Bronzong,
+2
+804079950
+Kyogre,Ferrothorn,Necrozma-Dusk-Mane,Incineroar,Gigalith,Tapu Fini,
+Kyogre,Tsareena,Yveltal,Tapu Koko,Toxicroak,Hitmontop,
+1
+804070618
+Incineroar,Mewtwo,Groudon,Stakataka,Tapu Lele,Bronzong,
+Cresselia,Groudon,Kyogre,Gigalith,Tapu Bulu,Scrafty,
+2
+804064763
+Cresselia,Groudon,Kyogre,Gigalith,Tapu Bulu,Scrafty,
+Kyogre,Ferrothorn,Necrozma-Dusk-Mane,Incineroar,Gigalith,Tapu Fini,
+1
+804064072
+Kyogre,Ferrothorn,Necrozma-Dusk-Mane,Incineroar,Gigalith,Tapu Fini,
+Yveltal,Lunala,Crobat,Incineroar,Kartana,Tapu Lele,
+1
+804063086
+Heliolisk,Umbreon,Giratina-Origin,Porygon2,Espeon,Mawile,
+Kyogre,Ferrothorn,Necrozma-Dusk-Mane,Incineroar,Gigalith,Tapu Fini,
+2
+804062478
+Linoone,Clefairy,Landorus-Therian,Kyogre,Swampert,Araquanid,
+Kyogre,Ferrothorn,Necrozma-Dusk-Mane,Incineroar,Gigalith,Tapu Fini,
+2
+804046759
+Xerneas,Necrozma-Dusk-Mane,Gastrodon,Tapu Bulu,Incineroar,Manectric,
+Groudon,Houndoom,Cherrim,Drifblim,Tapu Lele,Reshiram,
+2
+804031301
+Audino,Kyogre,Hitmontop,Celesteela,Tapu Lele,Xerneas,
+Yveltal,Mawile,Xerneas,Gothitelle,Tapu Fini,Altaria,
+1
+804024625
+Heliolisk,Umbreon,Giratina-Origin,Porygon2,Espeon,Mawile,
+Kyogre,Bronzong,Gengar,Ferrothorn,Persian-Alola,Palkia,
+1
+804029024
+Incineroar,Mewtwo,Groudon,Stakataka,Tapu Lele,Bronzong,
+Rayquaza,Kyogre,Tapu Lele,Drifblim,Hitmontop,Aegislash,
+2
+804019247
+Groudon,Lugia,Incineroar,Tapu Fini,Togedemaru,Cresselia,
+Mewtwo,Comfey,Tapu Koko,Groudon,Gyarados,Muk-Alola,
+1
+804017649
+Groudon,Lugia,Incineroar,Tapu Fini,Togedemaru,Cresselia,
+Heliolisk,Umbreon,Giratina-Origin,Porygon2,Espeon,Mawile,
+1
+804017374
+Groudon,Giratina,Garchomp,Tapu Koko,Hitmontop,Milotic,
+Kyogre,Necrozma-Dusk-Mane,Incineroar,Gengar,Landorus-Therian,Kartana,
+1
+804014296
+Heliolisk,Umbreon,Giratina-Origin,Porygon2,Espeon,Mawile,
+Xerneas,Amoonguss,Gengar,Incineroar,Kyogre,Landorus-Therian,
+1
+803979626
+Lopunny,Kyogre,Lunala,Incineroar,Zapdos,Landorus,
+Kangaskhan,Lunala,Kyogre,Tapu Koko,Landorus-Therian,Ferrothorn,
+2
+803977254
+Rayquaza,Zapdos,Aegislash,Persian-Alola,Groudon,Tapu Fini,
+Groudon,Xerneas,Salamence,Kartana,Hitmontop,Amoonguss,
+2
+803977261
+Kangaskhan,Lunala,Kyogre,Tapu Koko,Landorus-Therian,Ferrothorn,
+Alakazam,Kartana,Kyogre,Incineroar,Rayquaza,Kommo-o-Totem,
+1
+803948658
+Yveltal,Mawile,Gothitelle,Tapu Fini,Kartana,Rayquaza,
+Xerneas,Persian-Alola,Groudon,Venusaur,Celesteela,Hydreigon,
+1
+803942911
+Kyogre,Groudon,Cresselia,Salamence,Incineroar,Lilligant,
+Alakazam,Kartana,Kyogre,Incineroar,Rayquaza,Kommo-o-Totem,
+1
+803943150
+Xerneas,Yveltal,Mawile,Gothitelle,Tapu Fini,Altaria,
+Groudon,Mewtwo,Raikou,Whimsicott,Landorus-Therian,Tapu Lele,
+1
+803939890
+Exeggutor,Groudon,Mawile,Persian-Alola,Bronzong,Palkia,
+Xerneas,Yveltal,Mawile,Gothitelle,Tapu Fini,Altaria,
+2
+803939675
+Kyogre,Groudon,Cresselia,Salamence,Incineroar,Lilligant,
+Mawile,Toxapex,Landorus-Therian,Vikavolt,Kommo-o,Blissey,
+1
+803936596
+Tapu Lele,Yveltal,Kartana,Hawlucha,Tapu Koko,Charizard,
+Kyogre,Swampert,Tapu Lele,Goodra,Kartana,Lugia,
+1
+803925584
+Groudon,Xerneas,Salamence,Kartana,Hitmontop,Amoonguss,
+Groudon,Mewtwo,Raikou,Whimsicott,Landorus-Therian,Tapu Lele,
+2
+803925573
+Kyogre,Incineroar,Xerneas,Tapu Koko,Ferrothorn,Ludicolo,
+Muk-Alola,Serperior,Lycanroc-Dusk,Tapu Lele,Blacephalon,Gastrodon-East,
+1
+803907811
+Kyogre,Tapu Lele,Incineroar,Ferrothorn,Nidoking,Xurkitree,
+Groudon,Giratina,Garchomp,Tapu Koko,Hitmontop,Milotic,
+2
+803903145
+Tapu Koko,Ferrothorn,Kyurem-Black,Kartana,Rayquaza,Blaziken,
+Mewtwo,Tapu Lele,Necrozma-Dawn-Wings,Alakazam,Metagross,Latios,
+2
+803884571
+Staraptor,Silvally-*,Smeargle,Gengar,Hitmontop,Persian-Alola,
+Lunala,Terrakion,Rayquaza,Lapras,Scolipede,Tapu Koko,
+2
+803884502
+Xerneas,Raichu,Kyogre,Crobat,Salamence,Ferrothorn,
+Groudon,Necrozma-Dusk-Mane,Salamence,Amoonguss,Gothitelle,Tapu Koko,
+1
+803873629
+Gardevoir,Tapu Lele,Kyogre,Groudon,Bronzong,Scrafty,
+Rayquaza,Kyogre,Tapu Lele,Drifblim,Hitmontop,Aegislash,
+2
+803864751
+Xerneas,Raichu,Kyogre,Crobat,Salamence,Ferrothorn,
+Shuckle,Mimikyu,Tsareena,Gastrodon,Camerupt,Scizor,
+1
+803864042
+Incineroar,Mewtwo,Groudon,Hydreigon,Tapu Lele,Bronzong,
+Tapu Koko,Incineroar,Necrozma-Dusk-Mane,Swampert,Kartana,Kyogre,
+2
+803842419
+Incineroar,Mewtwo,Groudon,Landorus-Therian,Tapu Lele,Bronzong,
+Xerneas,Raichu,Kyogre,Crobat,Salamence,Ferrothorn,
+2
+803839625
+Xerneas,Raichu,Kyogre,Crobat,Salamence,Ferrothorn,
+Xerneas,Yveltal,Mawile,Gothitelle,Tapu Fini,Altaria,
+2
+803837338
+Xerneas,Raichu,Kyogre,Crobat,Salamence,Ferrothorn,
+Gengar,Groudon,Mewtwo,Raikou,Whimsicott,Landorus-Therian,
+1
+803831886
+Kyogre,Incineroar,Rayquaza,Smeargle,Pheromosa,Silvally-*,
+Rayquaza,Tapu Koko,Zapdos,Kyurem-White,Incineroar,Ludicolo,
+1
+803830067
+Xerneas,Raichu,Kyogre,Crobat,Salamence,Ferrothorn,
+Yveltal,Xerneas,Landorus-Therian,Ferrothorn,Tapu Koko,Politoed,
+1
+803826000
+Groudon,Xerneas,Blaziken,Whimsicott,Tapu Koko,Landorus-Therian,
+Manectric,Incineroar,Landorus-Therian,Staraptor,Luxray,Hitmontop,
+2
+803793898
+Salamence,Xerneas,Incineroar,Ferrothorn,Cresselia,Groudon,
+Dusclops,Araquanid,Camerupt,Groudon,Kyogre,Jynx,
+1
+803780559
+Shedinja,Kyogre,Xerneas,Primeape,Jynx,Archeops,
+Suicune,Tapu Koko,Volcarona,Landorus-Therian,Ferrothorn,Kangaskhan,
+2
+803775382
+Lunala,Xerneas,Salamence,Amoonguss,Incineroar,Tapu Koko,
+Incineroar,Mewtwo,Groudon,Landorus-Therian,Tapu Lele,Bronzong,
+2
+803753929
+Rayquaza,Kyogre,Tapu Koko,Tapu Lele,Kartana,Gengar,
+Incineroar,Mewtwo,Groudon,Landorus-Therian,Tapu Lele,Bronzong,
+2
+803753950
+Snorlax,Lunala,Salamence,Tapu Koko,Groudon,Liepard,
+Mewtwo,Tapu Lele,Necrozma-Dawn-Wings,Alakazam,Metagross,Latios,
+2
+803749957
+Rayquaza,Chansey,Kommo-o,Celesteela,Landorus-Therian,Kyogre,
+Mewtwo,Tapu Lele,Necrozma-Dawn-Wings,Alakazam,Metagross,Latios,
+2
+803746215
+Gengar,Groudon,Mewtwo,Raikou,Whimsicott,Landorus-Therian,
+Incineroar,Mewtwo,Groudon,Landorus-Therian,Tapu Lele,Bronzong,
+2
+803744690
+Gengar,Groudon,Mewtwo,Raikou,Whimsicott,Landorus-Therian,
+Gastrodon-East,Whimsicott,Giratina-Origin,Kangaskhan,Kyogre,Machamp,
+2
+803742760
+Gastrodon-East,Whimsicott,Giratina-Origin,Kangaskhan,Kyogre,Machamp,
+Snorlax,Lunala,Salamence,Tapu Koko,Groudon,Liepard,
+1
+803742100
+Gastrodon-East,Whimsicott,Giratina-Origin,Kangaskhan,Kyogre,Machamp,
+Avalugg,Oranguru,Tapu Fini,Incineroar,Porygon2,Landorus-Therian,
+1
+803739811
+Gastrodon-East,Whimsicott,Giratina-Origin,Kangaskhan,Kyogre,Machamp,
+Rayquaza,Kyogre,Ferrothorn,Incineroar,Togekiss,Tapu Koko,
+1
+803719408
+Groudon,Incineroar,Necrozma-Dusk-Mane,Milotic,Gastrodon,Ferrothorn,
+Rayquaza,Blaziken,Wobbuffet,Rattata,Mimikyu,Mewtwo,
+1
+803700224
+Groudon,Xerneas,Salamence,Bronzong,Incineroar,Smeargle,
+Yveltal,Mawile,Xerneas,Gothitelle,Tapu Fini,Altaria,
+2
+803700410
+Tapu Koko,Incineroar,Necrozma-Dusk-Mane,Swampert,Kartana,Kyogre,
+Xerneas,Amoonguss,Gengar,Incineroar,Kyogre,Landorus-Therian,
+1
+803696767
+Yveltal,Groudon,Kangaskhan,Mawile,Cresselia,Landorus-Therian,
+Tapu Koko,Incineroar,Necrozma-Dusk-Mane,Swampert,Kartana,Kyogre,
+2
+803690850
+Tapu Koko,Yveltal,Incineroar,Kyogre,Toxicroak,Tsareena,
+Terrakion,Whimsicott,Vaporeon,Camerupt,Vikavolt,Oranguru,
+2
+803674519
+Xerneas,Groudon,Lucario,Manectric,Incineroar,Tapu Bulu,
+Tapu Koko,Groudon,Metagross,Whimsicott,Amoonguss,Necrozma-Dusk-Mane,
+2
+803668048
+Kyogre,Heliolisk,Toxicroak,Staraptor,Serperior,Ho-Oh,
+Ferrothorn,Raichu,Xerneas,Lopunny,Groudon,Bronzong,
+1
+803657177
+Ampharos,Kyogre,Necrozma-Dawn-Wings,Lurantis,Dusclops,Araquanid,
+Kyogre,Swampert,Ferrothorn,Crobat,Tapu Lele,Goodra,
+2
+803644527
+Necrozma-Dawn-Wings,Ditto,Groudon,Tapu Lele,Stantler,Sceptile,
+Kyogre,Lunala,Tapu Lele,Incineroar,Salamence,Amoonguss,
+1
+803639565
+Necrozma-Dusk-Mane,Tapu Lele,Groudon,Bronzong,Tapu Koko,Alakazam,
+Tapu Lele,Kyogre,Gengar,Bronzong,Amoonguss,Groudon,
+2
+803631735
+Kartana,Crobat,Lunala,Necrozma-Dawn-Wings,Tapu Lele,Incineroar,
+Tapu Lele,Kyogre,Gengar,Bronzong,Groudon,Cresselia,
+2
+803624571
+Smeargle,Kartana,Kyogre,Tapu Koko,Gengar,Xerneas,
+Groudon,Yveltal,Jumpluff,Salamence,Tapu Lele,Amoonguss,
+2
+803624900
+Snorlax,Vigoroth,Blissey,Lopunny,Porygon-Z,Lickilicky,
+Tapu Koko,Gardevoir,Groudon,Meowstic,Kartana,Kyurem-Black,
+2
+803622488
+Groudon,Salamence,Raichu,Necrozma-Dusk-Mane,Tapu Fini,Incineroar,
+Kyogre,Xerneas,Landorus-Therian,Tapu Lele,Togedemaru,Milotic,
+2
+803617139
+Greninja,Bisharp,Xerneas,Torracat,Malamar,Rayquaza,
+Xerneas,Groudon,Kartana,Clefairy,Incineroar,Smeargle,
+1
+803547757
+Lunala,Kyogre,Landorus,Incineroar,Zapdos,Lopunny,
+Xerneas,Raichu,Kyogre,Crobat,Salamence,Ferrothorn,
+2
+803544421
+Feraligatr,Ferrothorn,Marowak-Alola,Diggersby,Absol,Tapu Lele,
+Rayquaza,Chansey,Kommo-o,Celesteela,Landorus-Therian,Kyogre,
+1
+803544468
+Xerneas,Raichu,Kyogre,Crobat,Salamence,Ferrothorn,
+Xerneas,Lunala,Salamence,Amoonguss,Incineroar,Togedemaru,
+1
+803538042
+Kyogre,Toxicroak,Tapu Fini,Landorus-Therian,Abomasnow,Cresselia,
+Groudon,Giratina-Origin,Garchomp,Tapu Koko,Hitmontop,Milotic,
+2
+803536512
+Groudon,Giratina-Origin,Garchomp,Tapu Koko,Hitmontop,Milotic,
+Pelipper,Swampert,Kingdra,Ludicolo,Politoed,Ferrothorn,
+1
+803531447
+Kyogre,Drampa,Dialga,Tapu Lele,Incineroar,Mawile,
+Kyogre,Groudon,Bronzong,Tapu Lele,Gengar,Amoonguss,
+1
+803530021
+Groudon,Giratina-Origin,Garchomp,Tapu Koko,Hitmontop,Milotic,
+Gengar,Smeargle,Incineroar,Landorus-Therian,Kartana,Tapu Koko,
+1
+803523669
+Yveltal,Mawile,Xerneas,Gothitelle,Tapu Fini,Altaria,
+Cresselia,Landorus-Therian,Ferrothorn,Kyogre,Groudon,Tapu Lele,
+1
+803522178
+Yveltal,Mawile,Xerneas,Gothitelle,Tapu Fini,Altaria,
+Camerupt,Stakataka,Cresselia,Tapu Bulu,Hitmontop,Tyranitar,
+1
+803519607
+Yveltal,Mawile,Xerneas,Gothitelle,Tapu Fini,Altaria,
+Groudon,Kyurem-White,Cresselia,Jumpluff,Gengar,Gardevoir,
+1
+803516062
+Yveltal,Mawile,Xerneas,Gothitelle,Tapu Fini,Altaria,
+Kyogre,Drampa,Dialga,Bronzong,Incineroar,Kangaskhan,
+1
+803504231
+Yveltal,Mawile,Xerneas,Gothitelle,Tapu Fini,Altaria,
+Kangaskhan,Yveltal,Groudon,Tapu Koko,Kartana,Clefairy,
+1
+803505291
+Rayquaza,Kyogre,Tapu Lele,Drifblim,Tapu Koko,Aegislash,
+Dialga,Groudon,Ferrothorn,Salamence,Kangaskhan,Tapu Lele,
+2
+803500136
+Lopunny,Xerneas,Kartana,Tapu Bulu,Kyogre,Naganadel,
+Yveltal,Mawile,Xerneas,Gothitelle,Tapu Fini,Altaria,
+2
+803497804
+Rayquaza,Kyogre,Tapu Lele,Drifblim,Tapu Koko,Aegislash,
+Cresselia,Landorus-Therian,Ferrothorn,Kyogre,Groudon,Manectric,
+1
+803494588
+Mismagius,Togekiss,Incineroar,Necrozma-Dusk-Mane,Kyogre,Noivern,
+Crobat,Kyogre,Gengar,Rayquaza,Kommo-o,Incineroar,
+2
+803487914
+Lucario,Whimsicott,Kyogre,Xerneas,Arcanine,Jolteon,
+Venusaur,Aerodactyl,Incineroar,Gastrodon-East,Aegislash,Gliscor,
+1
+803487515
+Kangaskhan,Yveltal,Groudon,Tapu Koko,Clefairy,Kartana,
+Rayquaza,Kyogre,Tapu Lele,Drifblim,Tapu Koko,Aegislash,
+2
+803483549
+Rayquaza,Kyogre,Tapu Lele,Drifblim,Tapu Koko,Aegislash,
+Cresselia,Landorus-Therian,Ferrothorn,Kyogre,Groudon,Manectric,
+1
+803471860
+Incineroar,Salamence,Bronzong,Groudon,Tapu Lele,Kyogre,
+Kangaskhan,Yveltal,Groudon,Tapu Koko,Clefairy,Kartana,
+2
+803465813
+Audino,Whimsicott,Shuckle,Blissey,Necrozma-Dusk-Mane,Pheromosa,
+Xerneas,Lunala,Incineroar,Amoonguss,Kartana,Smeargle,
+1
+803450080
+Necrozma-Dusk-Mane,Tapu Lele,Kyogre,Swampert,Tsareena,Talonflame,
+Rayquaza,Groudon,Lilligant,Tapu Fini,Kangaskhan,Bisharp,
+1
+803446832
+Kyogre,Yveltal,Salamence,Tapu Koko,Aegislash,Amoonguss,
+Zekrom,Shiftry,Groudon,Tapu Koko,Tapu Lele,Gastrodon,
+1
+803416301
+Groudon,Bronzong,Xerneas,Gastrodon,Salamence,Tapu Koko,
+Kyogre,Xerneas,Raikou,Cresselia,Gardevoir,Incineroar,
+1
+803412968
+Kyogre,Necrozma-Dawn-Wings,Kartana,Gengar,Hitmontop,Tapu Koko,
+Rayquaza,Incineroar,Tapu Fini,Solgaleo,Amoonguss,Aegislash,
+2
+803397246
+Lunala,Kyogre,Cresselia,Pheromosa,Latios,Eevee,
+Kyogre,Ludicolo,Tapu Koko,Kartana,Hitmontop,Necrozma-Dusk-Mane,
+1
+803395182
+Lunala,Xerneas,Salamence,Amoonguss,Incineroar,Tapu Koko,
+Rayquaza,Necrozma-Dusk-Mane,Tapu Lele,Incineroar,Aegislash,Togekiss,
+2
+803393384
+Lunala,Kyogre,Cresselia,Pheromosa,Latios,Eevee,
+Incineroar,Pelipper,Cinccino,Mudsdale,Gengar,Tapu Bulu,
+1
+803372297
+Groudon,Kyogre,Bronzong,Hitmontop,Tapu Fini,Salamence,
+Landorus-Therian,Zekrom,Tapu Koko,Kyogre,Cresselia,Scizor,
+1
+803368796
+Rayquaza,Necrozma-Dusk-Mane,Tapu Lele,Incineroar,Aegislash,Togekiss,
+Clefairy,Snorlax,Clefable,Lunala,Tapu Lele,Solgaleo,
+1
+803357784
+Groudon,Kyogre,Bronzong,Hitmontop,Tapu Fini,Salamence,
+Kyurem,Tapu Lele,Metagross,Krookodile,Groudon,Zapdos,
+1
+803342335
+Lunala,Xerneas,Salamence,Amoonguss,Incineroar,Tapu Koko,
+Salamence,Xerneas,Incineroar,Ferrothorn,Cresselia,Groudon,
+2
+803331318
+Incineroar,Kyogre,Ferrothorn,Tapu Koko,Tapu Lele,Necrozma-Dusk-Mane,
+Ferrothorn,Tapu Fini,Incineroar,Necrozma-Dusk-Mane,Palkia,Lickilicky,
+2
+803329336
+Gastrodon-East,Whimsicott,Giratina-Origin,Kangaskhan,Kyogre,Machamp,
+Venusaur,Aerodactyl,Incineroar,Gastrodon-East,Aegislash,Metagross,
+1
+803328422
+Luxray,Cinccino,Azumarill,Reshiram,Krookodile,Solgaleo,
+Incineroar,Kyogre,Ferrothorn,Tapu Koko,Tapu Lele,Necrozma-Dusk-Mane,
+2
+803325442
+Kyogre,Yveltal,Raichu,Carracosta,Whimsicott,Arcanine,
+Yveltal,Tapu Lele,Kyogre,Heatran,Gyarados,Raichu,
+2
+803326402
+Eevee,Smeargle,Necrozma-Dawn-Wings,Clefairy,Xerneas,Sableye,
+Zoroark,Gastrodon,Greninja,Zygarde,Necrozma-Dusk-Mane,Blaziken,
+2
+803291438
+Gengar,Kyogre,Groudon,Tapu Lele,Bronzong,Hitmontop,
+Gastrodon-East,Whimsicott,Giratina-Origin,Kangaskhan,Kyogre,Machamp,
+2
+803289461
+Kyogre,Yveltal,Raichu,Carracosta,Tapu Koko,Gengar,
+Gastrodon-East,Whimsicott,Giratina-Origin,Kangaskhan,Kyogre,Machamp,
+2
+803284117
+Groudon,Tapu Bulu,Snorlax,Gengar,Mewtwo,Tapu Lele,
+Gengar,Skarmory,Umbreon,Metagross,Mudsdale,Kyogre,
+1
+803277133
+Gengar,Snorlax,Xerneas,Kyogre,Incineroar,Landorus-Therian,
+Murkrow,Crawdaunt,Mimikyu,Dugtrio-Alola,Lurantis,Salazzle,
+1
+803269013
+Groudon,Salamence,Raichu,Necrozma-Dusk-Mane,Tapu Fini,Incineroar,
+Tapu Koko,Incineroar,Necrozma-Dusk-Mane,Swampert,Kartana,Kyogre,
+2
+803263563
+Ferrothorn,Milotic,Incineroar,Tyranitar,Tapu Koko,Landorus-Therian,
+Kyogre,Tapu Lele,Incineroar,Tapu Koko,Ferrothorn,Nidoking,
+1
+803254802
+Kyogre,Tapu Lele,Necrozma-Dusk-Mane,Incineroar,Ludicolo,Snorlax,
+Ferrothorn,Milotic,Incineroar,Tyranitar,Tapu Koko,Landorus-Therian,
+1
+803249162
+Gastrodon-East,Whimsicott,Giratina-Origin,Kangaskhan,Kyogre,Machamp,
+Kyogre,Salazzle,Latias,Mawile,Cofagrigus,Tapu Koko,
+1
+803240768
+Lunala,Incineroar,Xerneas,Amoonguss,Tapu Koko,Salamence,
+Kyogre,Solgaleo,Tapu Lele,Kartana,Gengar,Incineroar,
+2
+803238854
+Necrozma-Dusk-Mane,Kyogre,Tsareena,Swampert,Tapu Lele,Celesteela,
+Kyogre,Alomomola,Amoonguss,Ampharos,Tapu Lele,Drampa,
+1
+803236683
+Greninja,Tapu Koko,Ferrothorn,Groudon,Blaziken,Rayquaza,
+Gastrodon-East,Whimsicott,Giratina-Origin,Kangaskhan,Kyogre,Machamp,
+2
+803232907
+Kyogre,Solgaleo,Tapu Lele,Kartana,Gengar,Incineroar,
+Kyogre,Incineroar,Solgaleo,Amoonguss,Salamence,Milotic,
+1
+803215200
+Whimsicott,Groudon,Tapu Fini,Lugia,Manectric,Persian-Alola,
+Groudon,Yveltal,Salamence,Liepard,Tapu Lele,Kartana,
+1
+803210948
+Kyogre,Tapu Koko,Gothitelle,Xerneas,Smeargle,Hitmontop,
+Xerneas,Zapdos,Kartana,Incineroar,Tapu Fini,Necrozma-Dusk-Mane,
+1
+803198482
+Kyogre,Necrozma-Dusk-Mane,Manectric,Whimsicott,Tapu Bulu,Gyarados,
+Shiftry,Stoutland,Kyogre,Eelektross,Charizard,Naganadel,
+1
+803190813
+Kyogre,Hitmontop,Gengar,Raichu,Rayquaza,Bronzong,
+Kyogre,Yveltal,Mawile,Raichu,Gothitelle,Mantine,
+1
+803190146
+Lunala,Xerneas,Salamence,Crobat,Greninja,Manectric,
+Rayquaza,Tornadus,Groudon,Tapu Fini,Ferrothorn,Luxray,
+1
+803184473
+Blacephalon,Drampa,Scizor,Lycanroc,Abomasnow,Exeggutor-Alola,
+Yveltal,Kartana,Breloom,Togekiss,Chansey,Kyogre,
+2
+803176008
+Kyogre,Yveltal,Salamence,Tapu Koko,Aegislash,Amoonguss,
+Groudon,Necrozma-Dawn-Wings,Incineroar,Amoonguss,Zapdos,Mawile,
+1
+803176573
+Rapidash,Krookodile,Crabominable,Zygarde-10%,Dustox,Zoroark,
+Xerneas,Kyogre,Cresselia,Gengar,Raichu,Amoonguss,
+2
+803175312
+Kyogre,Zygarde,Tapu Lele,Metagross,Amoonguss,Incineroar,
+Kyogre,Raichu,Ferrothorn,Rayquaza,Hitmontop,Cresselia,
+1
+803168869
+Tapu Lele,Necrozma-Dusk-Mane,Yveltal,Cradily,Golduck,Manectric,
+Kyogre,Xerneas,Greninja,Raichu,Landorus-Therian,Kartana,
+2
+803157581
+Rayquaza,Kyogre,Incineroar,Kartana,Amoonguss,Gengar,
+Kyogre,Lunala,Tapu Lele,Incineroar,Salamence,Amoonguss,
+1
+803153428
+Tapu Koko,Incineroar,Necrozma-Dusk-Mane,Swampert,Kartana,Kyogre,
+Gengar,Groudon,Ferrothorn,Kyogre,Tapu Koko,Hitmontop,
+1
+803143423
+Tapu Koko,Roserade,Simipour,Stakataka,Groudon,Volcarona,
+Rayquaza,Kyogre,Incineroar,Kommo-o,Amoonguss,Garchomp,
+2
+803141526
+Tapu Koko,Roserade,Simipour,Stakataka,Groudon,Volcarona,
+Kyogre,Incineroar,Necrozma-Dusk-Mane,Tapu Lele,Ludicolo,Snorlax,
+1
+803140962
+Metagross,Yveltal,Groudon,Tapu Lele,Clefairy,Snorlax,
+Rayquaza,Kyogre,Incineroar,Kommo-o,Amoonguss,Garchomp,
+2
+803140514
+Tapu Lele,Gengar,Clefairy,Groudon,Xerneas,Trevenant,
+Tapu Koko,Roserade,Simipour,Stakataka,Groudon,Volcarona,
+2
+803138462
+Metagross,Yveltal,Groudon,Tapu Lele,Clefairy,Snorlax,
+Groudon,Kyogre,Gengar,Tapu Koko,Celesteela,Amoonguss,
+1
+803137193
+Tapu Lele,Gengar,Clefairy,Groudon,Xerneas,Trevenant,
+Mewtwo,Kyogre,Thundurus,Tapu Lele,Cresselia,Kartana,
+1
+803137495
+Rayquaza,Gengar,Raichu,Bronzong,Hitmontop,Kyogre,
+Kyogre,Incineroar,Necrozma-Dusk-Mane,Tapu Lele,Ludicolo,Snorlax,
+2
+803137157
+Groudon,Kyogre,Gengar,Tapu Koko,Celesteela,Amoonguss,
+Blaziken,Giratina-Origin,Rayquaza,Greninja,Metagross,Ditto,
+1
+803137144
+Krookodile,Infernape,Kommo-o,Xerneas,Tapu Bulu,Garchomp,
+Marowak-Alola,Electivire,Necrozma,Swampert,Forretress,Accelgor,
+1
+803136231
+Tapu Koko,Incineroar,Necrozma-Dusk-Mane,Swampert,Kartana,Kyogre,
+Necrozma-Dawn-Wings,Ditto,Groudon,Tapu Lele,Aerodactyl,Stantler,
+1
+803133489
+Necrozma-Dawn-Wings,Ditto,Groudon,Tapu Lele,Aerodactyl,Stantler,
+Zekrom,Reshiram,Landorus-Therian,Kangaskhan,Crobat,Ditto,
+2
+803131311
+Tapu Koko,Incineroar,Necrozma-Dusk-Mane,Swampert,Kartana,Kyogre,
+Kyogre,Flygon,Hitmontop,Rayquaza,Raichu,Gardevoir,
+1
+803121946
+Kyogre,Xerneas,Raikou,Cresselia,Sableye,Gardevoir,
+Kyogre,Yveltal,Gengar,Landorus-Therian,Hitmontop,Amoonguss,
+2
+803120771
+Giratina-Origin,Groudon,Weavile,Tapu Bulu,Volcarona,Cresselia,
+Necrozma-Dusk-Mane,Rayquaza,Incineroar,Tapu Lele,Amoonguss,Metagross,
+2
+803112082
+Gogoat,Tapu Bulu,Manectric,Kyogre,Mismagius,Moltres,
+Groudon,Gengar,Blacephalon,Charizard,Celesteela,Chansey,
+1
+803086742
+Toxapex,Sylveon,Tapu Koko,Tyranitar,Porygon2,Hydreigon,
+Kyogre,Flygon,Scizor,Hitmontop,Rayquaza,Ludicolo,
+2
+803081258
+Kyogre,Yveltal,Gengar,Landorus-Therian,Hitmontop,Amoonguss,
+Groudon,Kyogre,Slowbro,Ferrothorn,Raichu,Aegislash,
+1
+803078542
+Groudon,Necrozma-Dawn-Wings,Incineroar,Amoonguss,Zapdos,Mawile,
+Kyogre,Yveltal,Gengar,Landorus-Therian,Hitmontop,Amoonguss,
+2
+803078197
+Mewtwo,Tapu Lele,Necrozma-Dusk-Mane,Metagross,Alakazam,Raichu-Alola,
+Smeargle,Groudon,Tapu Lele,Necrozma-Dusk-Mane,Sceptile,Thundurus,
+1
+803077512
+Necrozma-Dusk-Mane,Delphox,Latios,Kyogre,Audino,Oranguru,
+Mewtwo,Tapu Lele,Necrozma-Dusk-Mane,Metagross,Alakazam,Raichu-Alola,
+2
+803075594
+Decidueye,Primarina,Lycanroc-Midnight,Incineroar,Necrozma,Lapras,
+Mewtwo,Tapu Lele,Necrozma-Dusk-Mane,Metagross,Alakazam,Raichu-Alola,
+2
+803075179
+Mewtwo,Tapu Lele,Necrozma-Dusk-Mane,Metagross,Alakazam,Raichu-Alola,
+Kyogre,Landorus-Therian,Bisharp,Necrozma-Dawn-Wings,Kangaskhan,Xurkitree,
+1
+803073849
+Mewtwo,Tapu Lele,Necrozma-Dusk-Mane,Metagross,Alakazam,Raichu-Alola,
+Rayquaza,Kyogre,Oranguru,Rotom-Wash,Roserade,Seaking,
+1
+803071788
+Mewtwo,Tapu Lele,Necrozma-Dusk-Mane,Metagross,Alakazam,Raichu-Alola,
+Decidueye,Primarina,Lycanroc-Midnight,Incineroar,Toucannon,Scizor,
+1
+803060910
+Rayquaza,Kyogre,Oranguru,Tapu Fini,Rotom-Wash,Roserade,
+Rayquaza,Parasect,Celesteela,Persian-Alola,Necrozma-Dusk-Mane,Tapu Lele,
+1
+803053969
+Whimsicott,Groudon,Tapu Fini,Lugia,Manectric,Persian-Alola,
+Groudon,Necrozma-Dawn-Wings,Incineroar,Tapu Koko,Smeargle,Mawile,
+2
+803046341
+Lugia,Gengar,Weavile,Ninetales-Alola,Rayquaza,Smeargle,
+Rayquaza,Scrafty,Smeargle,Thundurus,Volcarona,Xerneas,
+2
+803040384
+Kyogre,Necrozma-Dusk-Mane,Incineroar,Gengar,Landorus-Therian,Kartana,
+Kyogre,Landorus-Therian,Tapu Koko,Gothitelle,Xerneas,Smeargle,
+2
+803038684
+Kyogre,Landorus-Therian,Tapu Koko,Gothitelle,Xerneas,Smeargle,
+Lopunny,Xerneas,Groudon,Kartana,Naganadel,Jellicent,
+1
+803032210
+Kyogre,Landorus-Therian,Tapu Koko,Gothitelle,Xerneas,Ferrothorn,
+Togedemaru,Gastrodon,Lugia,Rayquaza,Gengar,Lickilicky,
+1
+803027261
+Dialga,Kyogre,Salamence,Incineroar,Hitmontop,Bronzong,
+Lopunny,Xerneas,Groudon,Aegislash,Tapu Bulu,Golduck,
+1
+803024810
+Xerneas,Smeargle,Groudon,Ludicolo,Whimsicott,Incineroar,
+Typhlosion,Groudon,Lurantis,Necrozma-Dawn-Wings,Ampharos,Porygon2,
+1
+803023723
+Rayquaza,Landorus-Therian,Kyogre,Incineroar,Ferrothorn,Gengar,
+Kyogre,Necrozma-Dawn-Wings,Hitmontop,Ferrothorn,Tapu Koko,Kangaskhan,
+1
+811242920
+Audino,Kyogre,Celesteela,Mimikyu-Totem,Groudon,Amoonguss,
+Crobat,Groudon,Xerneas,Incineroar,Bronzong,Salamence,
+1
+811239475
+Aerodactyl,Groudon,Lunala,Amoonguss,Tapu Koko,Tapu Lele,
+Rayquaza,Snorlax,Tapu Koko,Incineroar,Xerneas,Tornadus,
+1
+810779405
+Liepard,Xerneas,Kyogre,Kartana,Salamence,Raichu,
+Aerodactyl,Kyogre,Lunala,Landorus-Therian,Tapu Lele,Amoonguss,
+2
+810770595
+Salamence,Kartana,Smeargle,Xerneas,Groudon,Cresselia,
+Mawile,Kyogre,Rayquaza,Oranguru,Crawdaunt,Liepard,
+1
+810395483
+Salamence,Groudon,Xerneas,Smeargle,Talonflame,Amoonguss,
+Xerneas,Tapu Lele,Latias,Smeargle,Groudon,Lucario,
+1
+810389703
+Smeargle,Xerneas,Togekiss,Lunala,Weavile,Terrakion,
+Xerneas,Tapu Lele,Latias,Smeargle,Groudon,Lucario,
+1
+809882053
+Rayquaza,Tapu Koko,Murkrow,Kyogre,Clefairy,Tsareena,
+Mewtwo,Terrakion,Kyurem-White,Sylveon,Milotic,Incineroar,
+2
+809872576
+Xerneas,Kyogre,Incineroar,Tsareena,Bronzong,Ditto,
+Greninja,Charizard,Masquerain,Electivire,Gliscor,Stakataka,
+2
+809376245
+Rhyperior,Gyarados,Darmanitan,Zygarde,Zoroark,Crobat,
+Mimikyu,Meowstic,Xerneas,Snorlax,Rayquaza,Porygon2,
+2
+809375400
+Kyogre,Rayquaza,Togedemaru,Tapu Koko,Tsareena,Celesteela,
+Zekrom,Reshiram,Ditto,Lurantis,Tapu Lele,Metagross,
+2
+809112449
+Scizor,Sylveon,Politoed,Tapu Koko,Serperior,Blacephalon,
+Blissey,Galvantula,Smeargle,Reuniclus,Alakazam,Alomomola,
+1
+809095003
+Zekrom,Reshiram,Ditto,Lucario,Lurantis,Sylveon,
+Parasect,Kyogre,Stakataka,Incineroar,Rayquaza,Tapu Lele,
+1
+808782191
+Butterfree,Incineroar,Tapu Lele,Necrozma-Dusk-Mane,Kangaskhan,Kyogre,
+Dialga,Groudon,Camerupt,Tapu Bulu,Smeargle,Aegislash,
+2
+808774938
+Lopunny,Kyogre,Lunala,Kartana,Weavile,Landorus,
+Gengar,Kyogre,Rayquaza,Kartana,Incineroar,Raichu,
+2
+808479472
+Tapu Lele,Necrozma-Dusk-Mane,Blaziken,Groudon,Latios,Pheromosa,
+Tapu Bulu,Incineroar,Tapu Koko,Venusaur,Gengar,Yveltal,
+1
+808480610
+Tapu Lele,Necrozma-Dusk-Mane,Cresselia,Zapdos,Salamence,Groudon,
+Rayquaza,Kyogre,Salamence,Tapu Koko,Crobat,Clefairy,
+2
+808193025
+Suicune,Ditto,Tyranitar,Gengar,Kommo-o,Amoonguss,
+Tapu Lele,Kyogre,Landorus-Therian,Garchomp,Gengar,Mewtwo,
+2
+808189723
+Tapu Lele,Kyogre,Landorus-Therian,Garchomp,Gengar,Mewtwo,
+Tapu Fini,Beedrill,Incineroar,Landorus-Therian,Tsareena,Golduck,
+2
+807950135
+Yveltal,Kyogre,Tapu Lele,Hitmontop,Metagross,Amoonguss,
+Incineroar,Rayquaza,Groudon,Blacephalon,Zapdos,Cresselia,
+2
+807942610
+Incineroar,Rayquaza,Groudon,Blacephalon,Zapdos,Cresselia,
+Smeargle,Tsareena,Bronzong,Manectric,Kyogre,Rayquaza,
+1
+807628730
+Groudon,Smeargle,Kyogre,Murkrow,Gengar,Tapu Lele,
+Incineroar,Crobat,Naganadel,Rayquaza,Groudon,Tapu Lele,
+2
+807627591
+Muk-Alola,Necrozma-Dusk-Mane,Xerneas,Swampert,Chesnaught,Oranguru,
+Beedrill,Lucario,Arcanine,Golduck,Espeon,Toxicroak,
+1
+807394636
+Tapu Lele,Lunala,Xerneas,Incineroar,Lucario,Amoonguss,
+Groudon,Gengar,Sableye,Solgaleo,Clefairy,Exeggutor,
+1
+807387260
+Tapu Lele,Lunala,Xerneas,Incineroar,Lucario,Amoonguss,
+Metagross,Tapu Lele,Raichu,Amoonguss,Kyogre,Yveltal,
+1
+807094604
+Liepard,Bronzong,Groudon,Salamence,Gengar,Necrozma-Dusk-Mane,
+Tapu Lele,Incineroar,Groudon,Yveltal,Metagross,Blacephalon,
+2
+807090545
+Lilligant,Groudon,Necrozma-Dusk-Mane,Landorus-Therian,Gengar,Tapu Koko,
+Kangaskhan,Cresselia,Tapu Fini,Ho-Oh,Amoonguss,Landorus-Therian,
+1
+806856905
+Gengar,Yveltal,Groudon,Whimsicott,Bronzong,Snorlax,
+Kyogre,Naganadel,Necrozma-Dawn-Wings,Tapu Fini,Kangaskhan,Marowak-Alola,
+1
+806850536
+Muk-Alola,Necrozma-Dusk-Mane,Xerneas,Swampert,Chesnaught,Oranguru,
+Kyogre,Mewtwo,Persian-Alola,Amoonguss,Gengar,Tapu Koko,
+1
+806535830
+Zekrom,Reshiram,Ludicolo,Gengar,Ditto,Landorus,
+Spinda,Rayquaza,Wormadam-Sandy,Machamp,Mimikyu,Groudon,
+2
+806531737
+Zekrom,Reshiram,Ludicolo,Gengar,Ditto,Landorus,
+Metagross,Tapu Lele,Raichu,Amoonguss,Kyogre,Yveltal,
+1
+806264916
+Tapu Lele,Yveltal,Xerneas,Golduck,Aggron,Ferrothorn,
+Incineroar,Groudon,Oranguru,Ferrothorn,Golduck,Mewtwo,
+2
+806260570
+Incineroar,Groudon,Oranguru,Ferrothorn,Golduck,Mewtwo,
+Metagross,Milotic,Ferrothorn,Salamence,Jolteon,Togekiss,
+1
+805904012
+Smeargle,Groudon,Kyurem-White,Meowstic,Machamp,Kangaskhan,
+Lucario,Raichu-Alola,Hitmontop,Steelix,Greninja,Ninetales-Alola,
+2
+805899319
+Tapu Lele,Blissey,Xerneas,Hydreigon,Drifblim,Mewtwo,
+Lucario,Raichu-Alola,Hitmontop,Steelix,Greninja,Ninetales-Alola,
+2
+805560274
+Kyogre,Necrozma-Dusk-Mane,Hitmontop,Tapu Lele,Ludicolo,Togekiss,
+Kyogre,Rayquaza,Incineroar,Tapu Koko,Suicune,Landorus-Therian,
+1
+805554945
+Rayquaza,Kartana,Tapu Lele,Zygarde,Aegislash,Gastrodon-East,
+Xerneas,Groudon,Landorus-Therian,Togekiss,Incineroar,Whimsicott,
+1
+805243980
+Kyogre,Necrozma-Dusk-Mane,Ditto,Kartana,Gengar,Incineroar,
+Necrozma-Dusk-Mane,Yveltal,Salamence,Landorus-Therian,Incineroar,Crobat,
+2
+805242205
+Kyogre,Swampert,Groudon,Tapu Koko,Venusaur,Charizard,
+Rayquaza,Kartana,Tapu Lele,Zygarde,Aegislash,Octillery,
+2
+805027400
+Groudon,Xerneas,Gothitelle,Incineroar,Salamence,Tapu Fini,
+Groudon,Xerneas,Salamence,Incineroar,Amoonguss,Gothitelle,
+1
+805019310
+Tapu Lele,Yveltal,Kyogre,Salamence,Bronzong,Tapu Koko,
+Gengar,Xerneas,Groudon,Smeargle,Incineroar,Tapu Koko,
+1
+804614686
+Kyogre,Bronzong,Gengar,Rayquaza,Tapu Bulu,Hitmontop,
+Froslass,Honchkrow,Probopass,Persian,Sharpedo,Hitmontop,
+2
+804279580
+Xerneas,Lunala,Salamence,Crobat,Greninja,Manectric,
+Mawile,Slowking,Blacephalon,Tapu Bulu,Mimikyu,Tapu Koko,
+1
+803887780
+Staraptor,Silvally-*,Smeargle,Gengar,Hitmontop,Persian-Alola,
+Muk-Alola,Serperior,Lycanroc-Dusk,Tapu Lele,Blacephalon,Gastrodon-East,
+1
+803532536
+Xerneas,Incineroar,Salamence,Yveltal,Tapu Koko,Tapu Fini,
+Xerneas,Raichu,Kyogre,Crobat,Salamence,Ferrothorn,
+2
+803229574
+Kyogre,Solgaleo,Tapu Lele,Kartana,Gengar,Incineroar,
+Landorus-Therian,Zekrom,Tapu Lele,Kyogre,Cresselia,Stakataka,
+1
+813349386
+Toxapex,Necrozma-Dawn-Wings,Rayquaza,Charizard,Pyukumuku,Sylveon,
+Tapu Koko,Raichu-Alola,Hawlucha,Groudon,Slaking,Serperior,
+2
+813346541
+Tapu Koko,Raichu-Alola,Hawlucha,Groudon,Slaking,Serperior,
+Groudon,Cherrim,Linoone,Xerneas,Metagross,Tapu Lele,
+2
+813343335
+Groudon,Cherrim,Linoone,Xerneas,Metagross,Tapu Lele,
+Necrozma-Dusk-Mane,Groudon,Clefairy,Salamence,Incineroar,Persian-Alola,
+1
+813307255
+Salamence,Gastrodon,Groudon,Necrozma-Dawn-Wings,Incineroar,Tapu Bulu,
+Beedrill,Kyogre,Necrozma-Dawn-Wings,Landorus-Therian,Amoonguss,Moltres,
+2
+813304432
+Beedrill,Kyogre,Necrozma-Dawn-Wings,Landorus-Therian,Amoonguss,Moltres,
+Salamence,Xerneas,Groudon,Tapu Koko,Smeargle,Ludicolo,
+1
+813275265
+Xerneas,Groudon,Cherrim,Oranguru,Tapu Fini,Crobat,
+Necrozma-Dusk-Mane,Gastrodon,Tapu Koko,Giratina-Origin,Landorus-Therian,Incineroar,
+1
+813273958
+Xerneas,Groudon,Cherrim,Oranguru,Tapu Fini,Crobat,
+Xerneas,Groudon,Salamence,Tapu Lele,Incineroar,Ferrothorn,
+1
+813272547
+Kyogre,Tapu Koko,Xerneas,Scizor,Incineroar,Gastrodon,
+Xerneas,Groudon,Cherrim,Oranguru,Tapu Fini,Crobat,
+2
+813269748
+Xerneas,Crobat,Kyogre,Incineroar,Lurantis,Metagross,
+Yveltal,Tapu Fini,Kyogre,Incineroar,Rotom-Heat,Venusaur,
+1
+813270467
+Xerneas,Groudon,Cherrim,Oranguru,Tapu Fini,Crobat,
+Kyogre,Pachirisu,Yveltal,Aegislash,Gothitelle,Gyarados,
+1
+813268752
+Groudon,Salamence,Necrozma-Dusk-Mane,Whimsicott,Raichu,Suicune,
+Salamence,Xerneas,Incineroar,Ferrothorn,Cresselia,Groudon,
+2
+813268343
+Mawile,Groudon,Necrozma-Dusk-Mane,Gothitelle,Incineroar,Ferrothorn,
+Xerneas,Groudon,Cherrim,Oranguru,Tapu Fini,Crobat,
+2
+813265082
+Manectric,Kyogre,Lunala,Arcanine,Bronzong,Amoonguss,
+Xerneas,Lunala,Incineroar,Amoonguss,Tapu Lele,Lucario,
+1
+813243437
+Beedrill,Dialga,Necrozma-Dawn-Wings,Landorus-Therian,Amoonguss,Moltres,
+Necrozma-Dusk-Mane,Rayquaza,Tapu Lele,Ditto,Tyranitar,Araquanid,
+1
+813235859
+Metagross,Tapu Lele,Kyogre,Yveltal,Raichu,Ferrothorn,
+Yveltal,Groudon,Salamence,Tapu Koko,Bronzong,Amoonguss,
+2
+813229837
+Xerneas,Necrozma-Dusk-Mane,Clefairy,Oranguru,Tapu Fini,Crobat,
+Swoobat,Xerneas,Tapu Lele,Smeargle,Groudon,Houndoom,
+1
+813217641
+Kyogre,Togedemaru,Hitmontop,Tapu Fini,Oranguru,Rayquaza,
+Groudon,Xerneas,Tapu Koko,Salamence,Incineroar,Bronzong,
+2
+813210358
+Groudon,Xerneas,Tapu Koko,Salamence,Incineroar,Bronzong,
+Vivillon-Polar,Incineroar,Tapu Lele,Rayquaza,Gothitelle,Kyogre,
+2
+813173990
+Xerneas,Whimsicott,Lugia,Amoonguss,Tapu Lele,Garchomp,
+Necrozma-Dusk-Mane,Rayquaza,Tapu Lele,Ditto,Tyranitar,Araquanid,
+2
+813169767
+Mewtwo,Groudon,Golduck,Crobat,Ferrothorn,Tapu Lele,
+Kyurem-White,Mewtwo,Metagross,Vikavolt,Tapu Lele,Cofagrigus,
+1
+813144449
+Xerneas,Gengar,Tapu Lele,Bronzong,Snorlax,Kommo-o,
+Lunala,Xerneas,Zoroark,Ferrothorn,Tsareena,Politoed,
+2
+813141459
+Lunala,Xerneas,Zoroark,Ferrothorn,Tsareena,Politoed,
+Togedemaru,Charizard,Landorus-Therian,Kartana,Tapu Fini,Snorlax,
+1
+813138354
+Yveltal,Amoonguss,Tapu Fini,Xerneas,Clefairy,Hariyama,
+Mewtwo,Yveltal,Garchomp,Tapu Lele,Snorlax,Ferrothorn,
+2
+813137261
+Mimikyu,Celesteela,Raichu-Alola,Mudsdale,Tapu Koko,Vikavolt,
+Mewtwo,Yveltal,Garchomp,Tapu Lele,Snorlax,Ferrothorn,
+2
+813128447
+Xerneas,Amoonguss,Gengar,Landorus-Therian,Kyogre,Xurkitree,
+Lunala,Xerneas,Zoroark,Ferrothorn,Tsareena,Politoed,
+2
+813115205
+Metagross,Tapu Lele,Groudon,Kyogre,Zapdos,Venusaur,
+Kyogre,Groudon,Tapu Lele,Lucario,Whimsicott,Amoonguss,
+2
+813099276
+Stakataka,Tapu Lele,Mewtwo,Yveltal,Incineroar,Araquanid,
+Eevee,Clefairy,Tapu Fini,Smeargle,Metagross,Latios,
+1
+813075221
+Xerneas,Lunala,Salamence,Crobat,Greninja,Manectric,
+Groudon,Salamence,Necrozma-Dusk-Mane,Whimsicott,Raichu,Suicune,
+1
+813046473
+Mewtwo,Tapu Koko,Ferrothorn,Raichu,Groudon,Cherrim,
+Smeargle,Salamence,Tsareena,Gyarados,Thundurus,Noivern,
+1
+813043826
+Xerneas,Scizor,Kyogre,Braviary,Incineroar,Garchomp,
+Smeargle,Salamence,Tsareena,Gyarados,Thundurus,Noivern,
+2
+813038961
+Smeargle,Salamence,Tsareena,Gyarados,Thundurus,Noivern,
+Groudon,Metagross,Xerneas,Incineroar,Tapu Koko,Scyther,
+2
+813038269
+Tapu Lele,Mewtwo,Xerneas,Metagross,Incineroar,Garbodor,
+Chandelure,Ludicolo,Kyogre,Tsareena,Ninetales-Alola,Tapu Lele,
+1
+813031623
+Smeargle,Salamence,Tsareena,Gyarados,Thundurus,Noivern,
+Groudon,Metagross,Xerneas,Incineroar,Tapu Koko,Scyther,
+2
+813027451
+Smeargle,Salamence,Tsareena,Gyarados,Thundurus,Noivern,
+Tapu Lele,Mewtwo,Xerneas,Metagross,Incineroar,Garbodor,
+2
+813026001
+Lunala,Kangaskhan,Scizor,Landorus-Therian,Tapu Koko,Kyogre,
+Xerneas,Groudon,Clefairy,Oranguru,Tapu Fini,Crobat,
+2
+813023400
+Xerneas,Groudon,Clefairy,Oranguru,Tapu Fini,Crobat,
+Rayquaza,Necrozma-Dusk-Mane,Smeargle,Tapu Lele,Amoonguss,Ludicolo,
+1
+813020804
+Smeargle,Salamence,Tsareena,Gyarados,Thundurus,Noivern,
+Naganadel,Silvally-*,Charizard,Tyranitar,Metagross,Tapu Bulu,
+1
+813021805
+Tapu Lele,Mewtwo,Xerneas,Metagross,Incineroar,Garbodor,
+Xerneas,Tapu Lele,Groudon,Toxapex,Venusaur,Comfey,
+1
+813021734
+Xerneas,Groudon,Clefairy,Oranguru,Tapu Fini,Crobat,
+Ferrothorn,Kingdra,Thundurus,Pelipper,Ludicolo,Swampert,
+1
+813016486
+Metagross,Tapu Lele,Kyogre,Yveltal,Raichu,Ferrothorn,
+Xerneas,Groudon,Clefairy,Oranguru,Tapu Fini,Crobat,
+2
+813013925
+Xerneas,Accelgor,Kyogre,Crobat,Sharpedo,Garchomp,
+Smeargle,Salamence,Tsareena,Gyarados,Thundurus,Noivern,
+2
+813010424
+Smeargle,Salamence,Tsareena,Gyarados,Thundurus,Noivern,
+Metagross,Tapu Lele,Kyogre,Yveltal,Raichu,Ferrothorn,
+1
+813006972
+Xerneas,Crobat,Kyogre,Incineroar,Lurantis,Metagross,
+Xerneas,Groudon,Clefable,Oranguru,Tapu Fini,Crobat,
+2
+813006083
+Smeargle,Salamence,Tsareena,Gyarados,Thundurus,Noivern,
+Yveltal,Tapu Lele,Lugia,Mawile,Naganadel,Kartana,
+2
+813003288
+Rayquaza,Groudon,Whimsicott,Weavile,Hitmontop,Tapu Fini,
+Xerneas,Groudon,Clefable,Oranguru,Tapu Fini,Crobat,
+2
+813001055
+Vivillon-Polar,Incineroar,Tapu Lele,Giratina,Sceptile,Kyogre,
+Smeargle,Salamence,Tsareena,Gyarados,Thundurus,Noivern,
+1
+812987322
+Xerneas,Groudon,Clefable,Oranguru,Tapu Fini,Crobat,
+Kyogre,Persian-Alola,Ditto,Rayquaza,Ludicolo,Landorus-Therian,
+1
+812975623
+Tapu Koko,Zygarde,Stakataka,Kyogre,Scizor,Bruxish,
+Xerneas,Groudon,Clefable,Oranguru,Tapu Fini,Crobat,
+2
+812975919
+Rayquaza,Necrozma-Dusk-Mane,Mandibuzz,Manectric,Garchomp,Landorus-Therian,
+Salamence,Necrozma-Dusk-Mane,Klefki,Ferrothorn,Incineroar,Kyogre,
+2
+812973534
+Groudon,Lunala,Volcarona,Oricorio,Gengar,Aegislash,
+Yveltal,Altaria,Xerneas,Luxray,Noivern,Arcanine,
+1
+812972176
+Xerneas,Groudon,Clefable,Oranguru,Tapu Fini,Crobat,
+Metagross,Tapu Lele,Kyogre,Yveltal,Raichu,Ferrothorn,
+1
+812955989
+Gengar,Hitmontop,Raichu,Tapu Fini,Kyogre,Rayquaza,
+Excadrill,Altaria,Archeops,Serperior,Rotom-Wash,Mimikyu,
+1
+812948611
+Xerneas,Groudon,Clefable,Oranguru,Tapu Fini,Crobat,
+Bronzong,Rayquaza,Kyogre,Snorlax,Amoonguss,Incineroar,
+1
+812945750
+Xerneas,Groudon,Clefable,Oranguru,Tapu Fini,Crobat,
+Ribombee,Oricorio-Sensu,Incineroar,Kyogre,Mewtwo,Ferrothorn,
+1
+812943083
+Xerneas,Groudon,Clefable,Oranguru,Tapu Fini,Crobat,
+Swoobat,Xerneas,Latias,Whimsicott,Houndoom,Groudon,
+1
+812937676
+Xerneas,Groudon,Clefable,Oranguru,Tapu Fini,Crobat,
+Blastoise,Cradily,Kyogre,Toxicroak,Stakataka,Yveltal,
+1
+812932084
+Xerneas,Groudon,Clefable,Oranguru,Tapu Fini,Crobat,
+Metagross,Tapu Lele,Kyogre,Yveltal,Raichu,Ferrothorn,
+1
+812929259
+Whimsicott,Terrakion,Gengar,Weavile,Landorus-Therian,Incineroar,
+Manectric,Gigalith,Silvally-*,Meowstic,Articuno,Nihilego,
+1
+812927095
+Groudon,Tapu Bulu,Naganadel,Smeargle,Necrozma-Dawn-Wings,Ludicolo,
+Cherrim,Stakataka,Snorlax,Necrozma-Dawn-Wings,Banette,Musharna,
+2
+812891030
+Kyogre,Rayquaza,Slowbro,Bisharp,Landorus-Therian,Greninja,
+Hariyama,Yanmega,Thundurus,Zebstrika,Lucario,Pheromosa,
+1
+812889015
+Tapu Lele,Necrozma-Dusk-Mane,Cresselia,Groudon,Landorus-Therian,Camerupt,
+Kyogre,Rayquaza,Thundurus,Tapu Koko,Ludicolo,Landorus-Therian,
+1
+812883612
+Kyogre,Rayquaza,Ferrothorn,Bisharp,Landorus-Therian,Greninja,
+Kyogre,Rayquaza,Thundurus,Tapu Koko,Ludicolo,Landorus-Therian,
+2
+812878381
+Tapu Lele,Necrozma-Dusk-Mane,Cresselia,Groudon,Landorus-Therian,Camerupt,
+Kyogre,Rayquaza,Ferrothorn,Bisharp,Landorus-Therian,Greninja,
+1
+812858435
+Rayquaza,Dialga,Tapu Koko,Bisharp,Hitmontop,Ferrothorn,
+Salamence,Thundurus,Groudon,Xerneas,Tapu Fini,Bisharp,
+1
+812846667
+Celesteela,Groudon,Swoobat,Steelix,Latias,Eevee,
+Necrozma-Dusk-Mane,Groudon,Togekiss,Salamence,Incineroar,Tapu Bulu,
+1
+812845651
+Groudon,Salamence,Necrozma-Dusk-Mane,Whimsicott,Raichu,Persian-Alola,
+Rayquaza,Tornadus,Gyarados,Giratina,Marowak-Alola,Gardevoir,
+2
+812841434
+Gardevoir,Xerneas,Groudon,Kommo-o,Gengar,Smeargle,
+Xerneas,Crobat,Kyogre,Metagross,Incineroar,Amoonguss,
+2
+812836032
+Necrozma-Dusk-Mane,Groudon,Togekiss,Salamence,Incineroar,Vikavolt,
+Kyogre,Groudon,Tapu Lele,Gengar,Ferrothorn,Whimsicott,
+1
+812830259
+Lunala,Xerneas,Salamence,Crobat,Greninja,Manectric,
+Metagross,Kyogre,Bronzong,Amoonguss,Yveltal,Suicune,
+1
+812817461
+Kyogre,Groudon,Tapu Lele,Gengar,Ferrothorn,Whimsicott,
+Kyogre,Zygarde,Tapu Lele,Metagross,Amoonguss,Incineroar,
+2
+812808543
+Xerneas,Groudon,Clefable,Oranguru,Tapu Fini,Crobat,
+Rayquaza,Kyogre,Porygon2,Kangaskhan,Zapdos,Ferrothorn,
+1
+812806470
+Suicune,Cobalion,Landorus-Therian,Tapu Lele,Toxapex,Kartana,
+Aegislash,Kyogre,Groudon,Ferrothorn,Greninja,Cresselia,
+2
+812788271
+Mewtwo,Groudon,Ferrothorn,Ludicolo,Blaziken,Primarina,
+Venusaur,Aerodactyl,Incineroar,Gastrodon-East,Aegislash,Necrozma-Dusk-Mane,
+1
+812788096
+Lucario,Xerneas,Kyogre,Hitmontop,Talonflame,Tapu Lele,
+Yveltal,Kyogre,Salamence,Tapu Koko,Aegislash,Amoonguss,
+2
+812780866
+Yveltal,Kyogre,Salamence,Tapu Koko,Aegislash,Amoonguss,
+Giratina,Gallade,Gengar,Krookodile,Medicham,Musharna,
+2
+812778797
+Palkia,Rayquaza,Gengar,Tapu Koko,Bronzong,Landorus-Therian,
+Rayquaza,Kyogre,Raichu,Incineroar,Stakataka,Landorus-Therian,
+2
+812777896
+Xerneas,Lunala,Kangaskhan,Ferrothorn,Amoonguss,Smeargle,
+Rayquaza,Kyogre,Raichu,Incineroar,Stakataka,Landorus-Therian,
+2
+812751351
+Lunala,Blacephalon,Tapu Fini,Murkrow,Necrozma-Dusk-Mane,Lopunny,
+Yveltal,Tapu Lele,Reshiram,Kartana,Gastrodon,Aerodactyl,
+2
+812748753
+Yveltal,Clefairy,Giratina-Origin,Nihilego,Mimikyu,Aggron,
+Lunala,Blacephalon,Tapu Fini,Murkrow,Necrozma-Dusk-Mane,Lopunny,
+2
+812747871
+Lunala,Blacephalon,Tapu Fini,Murkrow,Necrozma-Dusk-Mane,Lopunny,
+Lunala,Incineroar,Nihilego,Groudon,Kartana,Tapu Lele,
+1
+812729561
+Ninetales-Alola,Oranguru,Pidgeot,Blacephalon,Groudon,Kommo-o,
+Scrafty,Landorus-Therian,Tapu Lele,Groudon,Scizor,Zekrom,
+2
+812698087
+Audino,Kyogre,Celesteela,Mimikyu-Totem,Groudon,Amoonguss,
+Whimsicott,Groudon,Greninja,Necrozma-Dusk-Mane,Tapu Koko,Gengar,
+1
+812680108
+Tapu Koko,Raichu-Alola,Groudon,Yveltal,Whimsicott,Scizor,
+Pikachu,Charizard,Venusaur,Blastoise,Snorlax,Espeon,
+2
+812668276
+Salamence,Lugia,Camerupt,Groudon,Cresselia,Ferrothorn,
+Gengar,Hitmontop,Raichu,Tapu Fini,Kyogre,Rayquaza,
+2
+812663621
+Swoobat,Eevee,Steelix,Latias,Cradily,Groudon,
+Necrozma-Dusk-Mane,Rayquaza,Kartana,Incineroar,Tapu Koko,Clefairy,
+2
+812660587
+Kyogre,Clefairy,Dialga,Mawile,Incineroar,Meowstic,
+Raichu-Alola,Tapu Lele,Kartana,Kangaskhan,Groudon,Xerneas,
+2
+812662451
+Kyogre,Clefairy,Dialga,Mawile,Incineroar,Meowstic,
+Tapu Koko,Raichu-Alola,Groudon,Yveltal,Whimsicott,Scizor,
+2
+812605244
+Xerneas,Groudon,Kartana,Clefairy,Incineroar,Smeargle,
+Kyogre,Eevee,Smeargle,Metagross,Zygarde,Tapu Fini,
+1
+812592307
+Xerneas,Rayquaza,Incineroar,Tapu Fini,Manectric,Ferrothorn,
+Necrozma-Dusk-Mane,Kyogre,Stakataka,Tapu Lele,Incineroar,Ferrothorn,
+1
+812529428
+Xerneas,Lunala,Salamence,Crobat,Greninja,Manectric,
+Kyogre,Yveltal,Tapu Koko,Ferrothorn,Tapu Lele,Smeargle,
+1
+812527198
+Xerneas,Lunala,Salamence,Crobat,Greninja,Manectric,
+Groudon,Venusaur,Hitmontop,Rayquaza,Tapu Koko,Metagross,
+1
+812522134
+Groudon,Salamence,Amoonguss,Aegislash,Xerneas,Smeargle,
+Xerneas,Rayquaza,Incineroar,Tapu Fini,Manectric,Ferrothorn,
+2
+812521755
+Xerneas,Incineroar,Tapu Lele,Amoonguss,Kyogre,Kartana,
+Xerneas,Lunala,Salamence,Crobat,Greninja,Manectric,
+2
+812520244
+Mewtwo,Tapu Lele,Groudon,Kartana,Incineroar,Mantine,
+Groudon,Tapu Fini,Salamence,Incineroar,Kyogre,Stakataka,
+2
+812517038
+Groudon,Tapu Fini,Salamence,Incineroar,Kyogre,Stakataka,
+Kyogre,Tapu Lele,Mewtwo,Incineroar,Ferrothorn,Raichu,
+2
+812513447
+Xerneas,Incineroar,Tapu Lele,Amoonguss,Kyogre,Kartana,
+Xerneas,Lunala,Salamence,Crobat,Greninja,Manectric,
+2
+812501542
+Necrozma-Dawn-Wings,Kyogre,Kartana,Banette,Araquanid,Tapu Lele,
+Groudon,Tapu Fini,Salamence,Incineroar,Kyogre,Stakataka,
+2
+812492955
+Yveltal,Tapu Koko,Gengar,Groudon,Bronzong,Hitmontop,
+Groudon,Tapu Fini,Salamence,Incineroar,Kyogre,Stakataka,
+1
+812485742
+Gastrodon,Palkia,Rayquaza,Mawile,Amoonguss,Comfey,
+Kartana,Kyogre,Salamence,Mewtwo,Amoonguss,Landorus-Therian,
+1
+812483397
+Groudon,Tapu Koko,Hitmontop,Xerneas,Amoonguss,Salamence,
+Groudon,Tapu Fini,Salamence,Incineroar,Kyogre,Stakataka,
+1
+812468327
+Groudon,Tapu Fini,Salamence,Incineroar,Kyogre,Stakataka,
+Yveltal,Groudon,Raichu,Venusaur,Gengar,Sableye,
+1
+812449068
+Kyogre,Eevee,Smeargle,Metagross,Zygarde,Tapu Fini,
+Kyogre,Amoonguss,Tapu Koko,Incineroar,Oranguru,Rayquaza,
+1
+812398319
+Tornadus,Kyogre,Rayquaza,Empoleon,Raikou,Landorus-Therian,
+Mewtwo,Kyogre,Thundurus,Tapu Lele,Cresselia,Kartana,
+1
+812395810
+Tornadus,Kyogre,Rayquaza,Empoleon,Raikou,Landorus-Therian,
+Blastoise,Lycanroc-Dusk,Kyogre,Toxicroak,Stakataka,Yveltal,
+1
+812391731
+Kyogre,Necrozma-Dusk-Mane,Raichu,Mawile,Incineroar,Kartana,
+Xerneas,Lunala,Salamence,Crobat,Greninja,Manectric,
+2
+812389068
+Tapu Koko,Tapu Lele,Salamence,Groudon,Lunala,Porygon2,
+Aerodactyl,Kyogre,Lunala,Landorus-Therian,Tapu Lele,Amoonguss,
+2
+812387778
+Groudon,Kyogre,Ludicolo,Tapu Fini,Crobat,Landorus-Therian,
+Kyogre,Rayquaza,Thundurus,Tapu Koko,Ludicolo,Landorus-Therian,
+2
+812389295
+Ludicolo,Groudon,Kyogre,Golduck,Conkeldurr,Ambipom,
+Xerneas,Lunala,Salamence,Crobat,Greninja,Manectric,
+2
+812368231
+Hydreigon,Landorus-Therian,Groudon,Kartana,Swampert,Greninja,
+Ferrothorn,Kyogre,Necrozma-Dawn-Wings,Raichu,Cresselia,Kangaskhan,
+1
+812367407
+Xerneas,Raichu,Kyogre,Cresselia,Salamence,Ferrothorn,
+Incineroar,Kartana,Yveltal,Kyogre,Ditto,Charizard,
+2
+812362350
+Necrozma-Dusk-Mane,Kyogre,Tapu Bulu,Incineroar,Metagross,Tapu Lele,
+Naganadel,Metagross,Krookodile,Togekiss,Volcarona,Serperior,
+2
+812359497
+Greninja,Xerneas,Clefairy,Charizard,Vikavolt,Aegislash,
+Scrafty,Necrozma-Dusk-Mane,Groudon,Gastrodon,Lurantis,Chansey,
+2
+812323269
+Kyogre,Xerneas,Incineroar,Scizor,Ludicolo,Tapu Koko,
+Amoonguss,Kyogre,Yveltal,Pachirisu,Snorlax,Incineroar,
+1
+812322268
+Steelix,Garchomp,Gliscor,Camerupt,Nidoking,Marowak,
+Kyogre,Xerneas,Incineroar,Scizor,Ludicolo,Tapu Koko,
+2
+812318096
+Kyogre,Yveltal,Mawile,Crobat,Landorus-Therian,Togedemaru,
+Rayquaza,Xerneas,Landorus-Therian,Milotic,Aegislash,Kartana,
+1
+812309091
+Naganadel,Chandelure,Metagross,Kyogre,Landorus-Therian,Zapdos,
+Groudon,Bronzong,Rayquaza,Gengar,Tapu Koko,Gastrodon,
+2
+812300278
+Xerneas,Rayquaza,Incineroar,Tapu Fini,Manectric,Ferrothorn,
+Ho-Oh,Groudon,Blaziken,Comfey,Ambipom,Gengar,
+1
+812285049
+Crabominable,Mawile,Porygon-Z,Slowking,Giratina-Origin,Lugia,
+Gengar,Kyogre,Rayquaza,Bronzong,Incineroar,Clefairy,
+2
+812282168
+Smeargle,Xerneas,Necrozma-Dawn-Wings,Accelgor,Tapu Lele,Salamence,
+Groudon,Yveltal,Tapu Koko,Salamence,Kartana,Incineroar,
+2
+812270245
+Necrozma-Dusk-Mane,Kyogre,Tyranitar,Ludicolo,Gengar,Incineroar,
+Kyogre,Necrozma-Dusk-Mane,Tapu Koko,Tapu Bulu,Salamence,Incineroar,
+2
+812269224
+Rayquaza,Xerneas,Landorus-Therian,Milotic,Aegislash,Kartana,
+Xerneas,Rayquaza,Incineroar,Tapu Fini,Manectric,Ferrothorn,
+1
+812264306
+Weavile,Tapu Koko,Crobat,Rayquaza,Ferrothorn,Kyogre,
+Ferrothorn,Incineroar,Kyogre,Kangaskhan,Crobat,Lunala,
+2
+812245676
+Mawile,Landorus-Therian,Heatran,Rotom-Wash,Hydreigon,Pelipper,
+Kyogre,Rayquaza,Ferrothorn,Tornadus,Incineroar,Tapu Koko,
+1
+812239559
+Kyogre,Rayquaza,Ferrothorn,Tornadus,Incineroar,Tapu Koko,
+Naganadel,Chandelure,Metagross,Tapu Fini,Landorus-Therian,Zapdos,
+2
+812228315
+Kyogre,Yveltal,Salamence,Tapu Fini,Hitmontop,Raichu,
+Aerodactyl,Groudon,Lunala,Amoonguss,Tapu Koko,Tapu Lele,
+1
+812228160
+Tapu Koko,Incineroar,Cresselia,Kyogre,Ferrothorn,Groudon,
+Salamence,Xerneas,Incineroar,Ferrothorn,Cresselia,Groudon,
+2
+812223147
+Aerodactyl,Groudon,Lunala,Amoonguss,Tapu Koko,Tapu Lele,
+Kyogre,Rayquaza,Ferrothorn,Tornadus,Incineroar,Tapu Koko,
+1
+812216855
+Kyogre,Yveltal,Tapu Koko,Ferrothorn,Tapu Lele,Incineroar,
+Groudon,Kyogre,Tapu Koko,Tapu Lele,Smeargle,Stakataka,
+1
+812212269
+Salamence,Groudon,Xerneas,Smeargle,Talonflame,Amoonguss,
+Kyogre,Yveltal,Salamence,Tapu Fini,Hitmontop,Raichu,
+1
+812211969
+Tapu Lele,Necrozma-Dusk-Mane,Cresselia,Groudon,Landorus-Therian,Camerupt,
+Giratina-Origin,Ferrothorn,Necrozma-Dusk-Mane,Pheromosa,Salamence,Mienshao,
+1
+812210384
+Giratina-Origin,Ferrothorn,Necrozma-Dusk-Mane,Pheromosa,Salamence,Mienshao,
+Necrozma-Dawn-Wings,Yveltal,Amoonguss,Incineroar,Gengar,Gothitelle,
+2
+812202978
+Groudon,Kyogre,Tapu Koko,Tapu Lele,Smeargle,Stakataka,
+Xatu,Lucario,Mewtwo,Zygarde,Amoonguss,Araquanid,
+2
+812200710
+Aerodactyl,Groudon,Lunala,Amoonguss,Tapu Koko,Tapu Lele,
+Cresselia,Landorus-Therian,Ferrothorn,Kyogre,Groudon,Tapu Lele,
+1
+812193051
+Oricorio-Pom-Pom,Volcarona,Lilligant,Gyarados,Meowstic-F,Murkrow,
+Gardevoir,Incineroar,Snorlax,Zapdos,Tapu Fini,Smeargle,
+2
+812176074
+Xerneas,Scizor,Kyogre,Braviary,Incineroar,Garchomp,
+Ho-Oh,Groudon,Blaziken,Comfey,Ambipom,Gengar,
+1
+812166494
+Tapu Koko,Manectric,Incineroar,Yveltal,Kommo-o,Ho-Oh,
+Incineroar,Gardevoir,Landorus-Therian,Zekrom,Ferrothorn,Tapu Fini,
+1
+812159369
+Tapu Koko,Manectric,Incineroar,Yveltal,Kommo-o,Ho-Oh,
+Gengar,Incineroar,Kyogre,Gothitelle,Zygarde,Farfetch'd,
+1
+812157405
+Groudon,Xerneas,Bronzong,Aerodactyl,Sceptile,Azumarill,
+Tapu Koko,Manectric,Incineroar,Yveltal,Kommo-o,Ho-Oh,
+2
+812157012
+Necrozma-Dawn-Wings,Tapu Lele,Araquanid,Kyogre,Banette,Kartana,
+Mewtwo,Tapu Lele,Groudon,Lilligant,Stakataka,Liepard,
+1
+812148888
+Politoed,Kingdra,Thundurus,Cresselia,Kangaskhan,Conkeldurr,
+Tyranitar,Excadrill,Heatran,Hydreigon,Terrakion,Metagross,
+1
+812118525
+Greninja,Incineroar,Lycanroc-Dusk,Salamence,Hydreigon,Kommo-o,
+Tornadus,Kyogre,Rayquaza,Empoleon,Raikou,Landorus-Therian,
+2
+812107595
+Necrozma-Dawn-Wings,Xerneas,Venusaur,Incineroar,Crobat,Golduck,
+Sceptile,Tapu Koko,Bronzong,Staraptor,Gastrodon,Volcarona,
+1
+812105642
+Meowstic-F,Tapu Lele,Tapu Koko,Zekrom,Golduck,Reshiram,
+Groudon,Kyogre,Kangaskhan,Vikavolt,Tapu Lele,Kartana,
+2
+812095481
+Groudon,Kyogre,Bronzong,Salamence,Gengar,Raichu,
+Tapu Koko,Incineroar,Cresselia,Kyogre,Ferrothorn,Groudon,
+2
+812014559
+Salamence,Xerneas,Incineroar,Ferrothorn,Cresselia,Groudon,
+Tapu Koko,Venusaur,Groudon,Salamence,Xerneas,Smeargle,
+2
+812009165
+Palkia,Rayquaza,Gengar,Tapu Koko,Bronzong,Landorus-Therian,
+Blaziken,Mewtwo,Groudon,Tapu Koko,Landorus-Therian,Latios,
+1
+812005764
+Snorlax,Landorus,Incineroar,Groudon,Tornadus-Therian,Yveltal,
+Palkia,Rayquaza,Gengar,Tapu Koko,Bronzong,Landorus-Therian,
+2
+812001448
+Necrozma-Dawn-Wings,Groudon,Smeargle,Incineroar,Silvally-*,Tapu Lele,
+Kyogre,Eevee,Smeargle,Metagross,Zygarde,Gardevoir,
+2
+811999092
+Xerneas,Ferrothorn,Kyogre,Incineroar,Ledyba,Charizard,
+Groudon,Necrozma-Dawn-Wings,Dugtrio,Bronzong,Lopunny,Blacephalon,
+1
+811987138
+Necrozma-Dawn-Wings,Smeargle,Whimsicott,Incineroar,Solgaleo,Palossand,
+Rayquaza,Necrozma-Dusk-Mane,Whimsicott,Manectric,Celesteela,Landorus-Therian,
+1
+811989368
+Xerneas,Whimsicott,Incineroar,Kyogre,Tapu Koko,Celesteela,
+Xerneas,Lunala,Salamence,Crobat,Greninja,Manectric,
+2
+811982734
+Sceptile,Groudon,Yveltal,Celesteela,Tapu Lele,Landorus-Therian,
+Smeargle,Xerneas,Necrozma-Dawn-Wings,Accelgor,Tapu Lele,Salamence,
+1
+811973476
+Kyogre,Eevee,Smeargle,Metagross,Zygarde,Gardevoir,
+Kartana,Tapu Lele,Kyogre,Landorus-Therian,Salamence,Aegislash,
+1
+811968490
+Kyogre,Tapu Bulu,Thundurus,Rayquaza,Aegislash,Hitmontop,
+Kyogre,Rayquaza,Gengar,Mimikyu,Incineroar,Celesteela,
+1
+811955024
+Kyogre,Groudon,Manectric,Cresselia,Amoonguss,Stakataka,
+Kyogre,Rayquaza,Whimsicott,Arcanine,Aegislash,Ludicolo,
+1
+811957082
+Kyogre,Groudon,Manectric,Cresselia,Amoonguss,Stakataka,
+Groudon,Rayquaza,Incineroar,Ferrothorn,Hitmontop,Raichu,
+1
+811956186
+Kyogre,Xerneas,Metagross,Huntail,Amoonguss,Scolipede,
+Kyogre,Dragonite,Incineroar,Zapdos,Sceptile,Snorlax,
+1
+811923340
+Lucario,Zoroark,Gardevoir,Groudon,Kyogre,Charizard,
+Electivire,Magmortar,Dusknoir,Mamoswine,Magnezone,Empoleon,
+1
+811915754
+Ho-Oh,Groudon,Blaziken,Comfey,Ambipom,Gengar,
+Necrozma-Dawn-Wings,Smeargle,Whimsicott,Incineroar,Solgaleo,Palossand,
+2
+811912719
+Tapu Koko,Celesteela,Tapu Fini,Krookodile,Kartana,Necrozma-Dusk-Mane,
+Necrozma-Dawn-Wings,Smeargle,Whimsicott,Incineroar,Solgaleo,Palossand,
+2
+811907187
+Necrozma-Dawn-Wings,Smeargle,Whimsicott,Incineroar,Solgaleo,Palossand,
+Smeargle,Drifblim,Tapu Lele,Gengar,Necrozma-Dawn-Wings,Xerneas,
+1
+811902386
+Lucario,Charizard,Scizor,Shuckle,Electivire,Greninja,
+Xerneas,Tapu Koko,Kyogre,Incineroar,Lucario,Salamence,
+2
+811895981
+Cresselia,Xerneas,Groudon,Incineroar,Tapu Fini,Amoonguss,
+Necrozma-Dusk-Mane,Ludicolo,Kyogre,Salamence,Amoonguss,Hitmontop,
+1
+811877037
+Groudon,Salamence,Amoonguss,Aegislash,Xerneas,Smeargle,
+Xerneas,Lunala,Salamence,Crobat,Greninja,Manectric,
+2
+811874139
+Xerneas,Lunala,Salamence,Crobat,Greninja,Manectric,
+Jumpluff,Dialga,Groudon,Bronzong,Heracross,Kommo-o,
+1
+811869099
+Incineroar,Kartana,Yveltal,Kyogre,Ditto,Charizard,
+Jumpluff,Dialga,Groudon,Bronzong,Heracross,Kommo-o,
+1
+811859304
+Xerneas,Rayquaza,Incineroar,Tapu Fini,Manectric,Ferrothorn,
+Eevee,Zapdos,Reuniclus,Ambipom,Groudon,Tapu Lele,
+2
+811849417
+Kartana,Tapu Lele,Kyogre,Landorus-Therian,Salamence,Aegislash,
+Xerneas,Groudon,Clefable,Oranguru,Tapu Fini,Crobat,
+2
+811825434
+Swampert,Kyogre,Scizor,Zapdos,Incineroar,Metagross,
+Infernape,Togekiss,Sceptile,Wobbuffet,Tapu Koko,Garchomp,
+2
+811822425
+Bruxish,Krookodile,Sableye,Murkrow,Rayquaza,Tapu Koko,
+Infernape,Togekiss,Sceptile,Wobbuffet,Tapu Koko,Garchomp,
+2
+811792140
+Kyogre,Cresselia,Groudon,Tapu Fini,Gourgeist-*,Audino,
+Malamar,Whimsicott,Xerneas,Kyogre,Tapu Koko,Incineroar,
+1
+811786125
+Kyogre,Cresselia,Groudon,Tapu Fini,Gourgeist-*,Audino,
+Yveltal,Kyogre,Salamence,Landorus-Therian,Aegislash,Amoonguss,
+2
+811776277
+Tapu Koko,Raichu-Alola,Muk-Alola,Hitmontop,Flygon,Kyogre,
+Kyogre,Groudon,Metagross,Latias,Thundurus,Staraptor,
+2
+811747510
+Houndoom,Yveltal,Groudon,Tapu Koko,Weavile,Toxicroak,
+Groudon,Cloyster,Xerneas,Infernape,Lucario,Dragonite,
+1
+811746964
+Houndoom,Yveltal,Groudon,Tapu Koko,Weavile,Toxicroak,
+Necrozma-Dawn-Wings,Whimsicott,Cresselia,Ursaring,Absol,Crabominable,
+1
+811744435
+Yveltal,Tyranitar,Excadrill,Necrozma-Dusk-Mane,Incineroar,Tapu Lele,
+Xerneas,Ferrothorn,Kyogre,Incineroar,Charizard,Ledyba,
+2
+811717403
+Yveltal,Tyranitar,Excadrill,Necrozma-Dusk-Mane,Incineroar,Tapu Lele,
+Ferrothorn,Lunala,Empoleon,Kangaskhan,Ho-Oh,Tapu Koko,
+1
+811706203
+Ninjask,Caterpie,Espeon,Scolipede,Eevee,Vaporeon,
+Xerneas,Whimsicott,Kartana,Tapu Fini,Kyogre,Incineroar,
+2
+811688317
+Ninetales-Alola,Simipour,Xerneas,Lugia,Aggron,Persian-Alola,
+Venusaur,Celesteela,Golem-Alola,Charizard,Gyarados,Electivire,
+1
+811686517
+Crawdaunt,Sandslash-Alola,Magnezone,Venusaur,Blaziken,Nidoqueen,
+Ninetales-Alola,Simipour,Xerneas,Lugia,Aggron,Persian-Alola,
+2
+811664711
+Necrozma-Dusk-Mane,Kyogre,Incineroar,Tapu Lele,Gengar,Landorus-Therian,
+Kyurem-White,Necrozma-Dusk-Mane,Crobat,Incineroar,Aegislash,Tapu Bulu,
+1
+811655481
+Jolteon,Kyogre,Swampert,Zekrom,Gyarados,Politoed,
+Rayquaza,Solgaleo,Whimsicott,Manectric,Celesteela,Landorus-Therian,
+2
+811648289
+Necrozma-Dawn-Wings,Yveltal,Amoonguss,Incineroar,Gengar,Gothitelle,
+Kyogre,Togekiss,Xerneas,Swampert,Golduck,Landorus-Therian,
+1
+811645536
+Necrozma-Dawn-Wings,Yveltal,Amoonguss,Incineroar,Gengar,Gothitelle,
+Tapu Lele,Necrozma-Dusk-Mane,Cresselia,Groudon,Heliolisk,Landorus-Therian,
+2
+811622251
+Xerneas,Lunala,Salamence,Crobat,Greninja,Manectric,
+Tapu Koko,Celesteela,Marowak-Alola,Tapu Fini,Whimsicott,Krookodile,
+1
+811616625
+Xerneas,Lunala,Salamence,Crobat,Greninja,Manectric,
+Mewtwo,Tapu Lele,Tapu Koko,Kyogre,Landorus,Amoonguss,
+1
+811614364
+Mewtwo,Tapu Lele,Groudon,Whimsicott,Stakataka,Mawile,
+Xerneas,Lunala,Salamence,Crobat,Greninja,Manectric,
+2
+811558309
+Kyogre,Incineroar,Tapu Koko,Rayquaza,Crobat,Metagross,
+Salamence,Whimsicott,Landorus-Therian,Celesteela,Kyogre,Mewtwo,
+1
+811554685
+Kyogre,Incineroar,Tapu Koko,Rayquaza,Crobat,Metagross,
+Kyogre,Raichu,Kyurem-White,Tapu Koko,Landorus-Therian,Heracross,
+1
+811548136
+Incineroar,Yveltal,Amoonguss,Kyogre,Sceptile,Rotom-Wash,
+Incineroar,Venusaur,Groudon,Ninetales-Alola,Garchomp,Crobat,
+1
+811534478
+Kyogre,Incineroar,Ludicolo,Xerneas,Ferrothorn,Tapu Koko,
+Xatu,Tapu Fini,Yveltal,Ferrothorn,Groudon,Tsareena,
+1
+811501139
+Kyogre,Groudon,Liepard,Purrloin,Sableye,Tapu Fini,
+Aerodactyl,Groudon,Lunala,Amoonguss,Tapu Koko,Tapu Lele,
+2
+811480048
+Roserade,Gastrodon,Togekiss,Sharpedo,Aggron,Chandelure,
+Tapu Koko,Incineroar,Salamence,Gastrodon,Landorus-Therian,Celesteela,
+2
+811466758
+Kyurem-White,Necrozma-Dawn-Wings,Nihilego,Tapu Lele,Ferrothorn,Incineroar,
+Necrozma-Dawn-Wings,Whimsicott,Cresselia,Ursaring,Absol,Crabominable,
+1
+811464947
+Tapu Koko,Raichu-Alola,Groudon,Tapu Fini,Whimsicott,Yveltal,
+Necrozma-Dawn-Wings,Kyogre,Kartana,Banette,Araquanid,Tapu Lele,
+2
+811456040
+Xerneas,Whimsicott,Kangaskhan,Kartana,Tapu Fini,Kyogre,
+Kyogre,Tapu Lele,Incineroar,Garchomp,Kartana,Xerneas,
+1
+811455250
+Thundurus,Kyogre,Toxicroak,Gothitelle,Jellicent,Mawile,
+Beedrill,Groudon,Xerneas,Amoonguss,Porygon2,Golem-Alola,
+2
+811446283
+Necrozma-Dawn-Wings,Smeargle,Whimsicott,Incineroar,Solgaleo,Nihilego,
+Mewtwo,Necrozma-Dusk-Mane,Tapu Lele,Ferrothorn,Incineroar,Ditto,
+2
+811434680
+Beedrill,Groudon,Xerneas,Amoonguss,Porygon2,Golem-Alola,
+Lugia,Groudon,Incineroar,Tapu Lele,Gastrodon,Mawile,
+1
+811391639
+Rayquaza,Kyogre,Muk-Alola,Malamar,Crobat,Tapu Koko,
+Incineroar,Kartana,Yveltal,Kyogre,Ditto,Charizard,
+2
+811382655
+Incineroar,Kartana,Yveltal,Kyogre,Ditto,Swampert,
+Incineroar,Groudon,Venusaur,Solgaleo,Tapu Koko,Gastrodon-East,
+1
+811380235
+Alakazam,Tapu Lele,Arcanine,Gengar,Araquanid,Sandslash-Alola,
+Incineroar,Kartana,Yveltal,Kyogre,Ditto,Swampert,
+2
+811375473
+Kyogre,Groudon,Tapu Lele,Lucario,Whimsicott,Amoonguss,
+Beedrill,Groudon,Xerneas,Amoonguss,Porygon2,Golem-Alola,
+2
+811371628
+Mewtwo,Tapu Lele,Groudon,Incineroar,Tapu Koko,Dragalge,
+Blaziken,Mewtwo,Tyranitar,Gyarados,Necrozma-Dusk-Mane,Garchomp,
+2
+811364396
+Smeargle,Rayquaza,Kyogre,Krookodile,Tapu Koko,Naganadel,
+Gyarados,Celesteela,Blaziken,Sceptile,Xerneas,Chansey,
+2
+811361188
+Xerneas,Lunala,Salamence,Crobat,Greninja,Manectric,
+Kyogre,Groudon,Tapu Lele,Gengar,Shedinja,Whimsicott,
+1
+811355994
+Xerneas,Lunala,Salamence,Crobat,Greninja,Manectric,
+Kyogre,Groudon,Tapu Lele,Gengar,Shedinja,Whimsicott,
+1
+811313520
+Mawile,Quagsire,Flareon,Dusclops,Drampa,Mantine,
+Kyogre,Dialga,Amoonguss,Incineroar,Togekiss,Crobat,
+1
+811258234
+Beedrill,Groudon,Xerneas,Amoonguss,Porygon2,Golem-Alola,
+Groudon,Xerneas,Smeargle,Sableye,Tapu Lele,Salamence,
+2
+811249140
+Groudon,Xerneas,Smeargle,Cresselia,Weavile,Tapu Koko,
+Rayquaza,Kyogre,Raichu,Ferrothorn,Incineroar,Gengar,
+1
