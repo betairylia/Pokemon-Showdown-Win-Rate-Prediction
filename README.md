@@ -74,14 +74,14 @@ e.g.
 
 Network | Structure
 --- | ---
-RNN | Single layer LSTM<br>Dropout, keep = 0.7
+Input RNN | Single layer LSTM<br>Dropout, keep = 0.7
 Pokemon MLP | Input - 128 - 128 - output<br>Dropout, keep = 0.7, only for output
 Team MLP | Input - 512 - 512 - 256 - output<br>Dropout for last 2 layers, keep = 0.8 for layer3 & keep = 0.7 for layer4
 Big MLP (w/o -big) | Input - 512 - 256 - 128 - output<br>Dropout for layer2 & layer3, keep = 0.8 & 0.7, respectively
 Big MLP (with -big) | Input - 1024 - 512 - 512 - 256 - output<br>Dropout for layer 2, 3 & 4, keep = 0.8, 0.8, 0.7, respectively
 
 All MLPs has a Batch Normalization layer before activation.  
-The last layer of Big MLP has Sigmoid activation, Other layers have 0.2 leakyRelu.
+The last layer of both Big MLPs has Sigmoid activation, Other layers have 0.2 leakyRelu.
 
 ## Misc
 
