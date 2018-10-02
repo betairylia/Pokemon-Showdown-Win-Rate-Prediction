@@ -35,7 +35,7 @@ Parameter Short hand | Usage | Comments
 -thu | -thu 256 | Latent vector size for each Team
 -big | -big | Directly predict results from 12 Pokemon vectors instead of 2 Team vectors, using a BIG model. ( No parameters )
 -load | -load modelFiles/ou.ckpt | Load saved model weights (.ckpt)
--fmt | -fmt ou | Filename used to store trained model weights when training ends. File will be saved as ./modelFiles/<format>.ckpt
+-fmt | -fmt ou | Filename used to store trained model weights when training ends. File will be saved as ./modelFiles/[format].ckpt
 
 e.g.  
 `python simpleToy.py dataset\train_vgcSun.txt dataset\test_vgcSun.txt -gpu 0 -pu 128 -thu 256 -bs 64 -ep 600 -fmt vgc_team_dropout`
