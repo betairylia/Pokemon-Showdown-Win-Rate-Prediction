@@ -12,15 +12,15 @@ This is an simple model predicts win-rate for pokemon (showdown) matches.
 ## Usage
 ### Get match data
 
-> python spider.py [tierName]  
+`python spider.py [tierName]`  
 
 e.g.
 
-> python spider.py gen7vgc2019sunseries
+`python spider.py gen7vgc2019sunseries`
 
 ### Train the model
 
-> python simpleToy.py [Train_data_path(.txt)] [Test_data_path(.txt)] [parameters]
+`python simpleToy.py [Train_data_path(.txt)] [Test_data_path(.txt)] [parameters]`
 
 Available parameters:
 
@@ -37,18 +37,18 @@ Parameter Short hand | Usage | Comments
 -load | -load modelFiles/ou.ckpt | Load saved model weights (.ckpt)
 -fmt | -fmt ou | Filename used to store trained model weights when training ends. File will be saved as ./modelFiles/<format>.ckpt
 
-e.g.
-> python simpleToy.py dataset\train_vgcSun.txt dataset\test_vgcSun.txt -gpu 0 -pu 128 -thu 256 -bs 64 -ep 600 -fmt vgc_team_dropout
+e.g.  
+`python simpleToy.py dataset\train_vgcSun.txt dataset\test_vgcSun.txt -gpu 0 -pu 128 -thu 256 -bs 64 -ep 600 -fmt vgc_team_dropout`
 
 ### Use the model to predict results
 
-> python predict.py [parameters]
+`python predict.py [parameters]`
 
 Parameters same as above.  
 However, one **must** load a saved weight file (.ckpt) in order to get reasonable results.  
 
-e.g.
-> python predict.py -gpu 0 -pu 128 -thu 256 -load modelFiles/vgc_team_dropout.ckpt
+e.g.  
+`python predict.py -gpu 0 -pu 128 -thu 256 -load modelFiles/vgc_team_dropout.ckpt`
 
 **NOTE:**  
 When input team members for each side, one **must**:  
@@ -59,7 +59,7 @@ When input team members for each side, one **must**:
 * ADD a EXTRA COMMA at the end of input.
 
 e.g.  
-> Rotom-Wash,Bronzong,Incineroar,Groudon,Venusaur,Xerneas,
+`Rotom-Wash,Bronzong,Incineroar,Groudon,Venusaur,Xerneas,`
 
 ## Details  
 
