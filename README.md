@@ -86,6 +86,7 @@ The last layer of both Big MLPs has Sigmoid activation, Other layers have 0.2 le
 ## Misc
 
 **Accurancy is about 80% after 2000 epochs.**  
+Parameters: `-pu 128 -thu 256 -bs 64`, without `-big`  
 Accurancy is better on OU tier (86%) vs VGC 2019 Sun Series (80%).  
 Teams might be more important ( and also less variants during battle ) in singles xD (x  
 
