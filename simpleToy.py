@@ -365,7 +365,7 @@ def train():
             
             total_acc += n_acc
             np.set_printoptions(suppress=True, precision = 4)
-            # print(_r)
+            print(_r)
 
         training_acc = training_acc / (dataCount // batch_size)
         total_acc = total_acc / (test_dataCount // batch_size)
