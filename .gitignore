@@ -1,5 +1,6 @@
-# Saved model data
+# Saved model data & logs
 modelFiles/
+logs/
 
 # python cache
 __pycache__/

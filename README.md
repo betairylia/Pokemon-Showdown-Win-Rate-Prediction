@@ -4,12 +4,12 @@ This is an simple model predicts win-rate for pokemon (showdown) matches.
 **WORK IN PROGRESS**
 
 ## Requirements ( latest should work )
-* python 3.5  
+* python 3.6  
 * tensorflow  
 * tensorlayer  
 * termcolor (used to print out pretty logs)
 
-## Usage
+## Usage (v2)
 ### Get match data
 
 `python spider.py [tierName]`  
@@ -17,6 +17,36 @@ This is an simple model predicts win-rate for pokemon (showdown) matches.
 e.g.
 
 `python spider.py gen7vgc2019sunseries`
+
+### Convert raw data to embedded data
+
+`python convertRaw.py [filename] (-max maxSpecies)`
+
+e.g.
+
+`python convertRaw.py gen7ou.txt`
+
+### Train the model
+
+`python trainv2.py [formatPrefix (data file name without .txt)]`
+
+Please use -h option to print the help message for more options.  
+Note: -fmt & -load is not working now.
+
+### Notes
+
+Currently accuracy is about 60% (best performance).  
+maxpool is better than summation (might for classification problems).
+
+## Usage (legacy version)
+
+**Accurancy recalculating**  
+It seems that it is **no better than random guess** (acc 50%).  
+I'm very sorry for this mistake.  
+Reason: tf.metrics.accurancy just messed up my training acc and validation acc by calculating all history accurancy. I don't know that although I found it was weird...I don't even thought about it...OMG.
+
+v2 version don't have this problem.  
+current best accuracy on validation set is **61.9%** (v2 model).
 
 ### Train the model
 
@@ -85,10 +115,10 @@ The last layer of both Big MLPs has Sigmoid activation, Other layers have 0.2 le
 
 ## Misc
 
-**Accurancy is about 80% after 2000 epochs.**  
-Parameters: `-pu 128 -thu 256 -bs 64`, without `-big`  
-Accurancy is better on OU tier (86%) vs VGC 2019 Sun Series (80%).  
-Teams might be more important ( and also less variants during battle ) in singles xD (x  
+**Accurancy recalculating**  
+It seems that it is **no better than random guess** (acc 50%).  
+I'm very sorry for this mistake.  
+Reason: tf.metrics.accurancy just messed up my training acc and validation acc by calculating all history accurancy. I don't know that although I found it was weird...I don't even thought about it...OMG.
 
 **Predicting Philadelphi Regional Masters Finals:**  
 

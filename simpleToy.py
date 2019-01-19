@@ -229,7 +229,9 @@ def train():
         logits_test = net_test.outputs
 
     predict_softmax = tf.nn.softmax(logits_test)
-    acc, acc_op = tf.metrics.accuracy(labels = tf.argmax(ph_winner, 1), predictions = tf.argmax(logits_test, 1))
+
+    correct_mat = tf.equal(tf.argmax(ph_winner, 1), tf.argmax(logits_test, 1))
+    acc = tf.reduce_mean(tf.cast(correct_mat, tf.float32))
 
     # Create session
     sess = tf.Session()
@@ -314,7 +316,7 @@ def train():
             
             # feed_dict.update( net.all_drop )
 
-            _, n_loss, n_acc = sess.run([train_op, loss, acc_op], feed_dict = feed_dict)
+            _, n_loss, n_acc = sess.run([train_op, loss, acc], feed_dict = feed_dict)
             
             # print(lp1)
             # print(pm0.shape)
@@ -361,7 +363,7 @@ def train():
             # dp_dict = tl.utils.dict_to_one( net.all_drop )
             # feed_dict.update( dp_dict )
 
-            _, n_acc, _r = sess.run([acc, acc_op, predict_softmax], feed_dict = feed_dict)
+            n_acc, _r = sess.run([acc, predict_softmax], feed_dict = feed_dict)
             
             total_acc += n_acc
             np.set_printoptions(suppress=True, precision = 4)
