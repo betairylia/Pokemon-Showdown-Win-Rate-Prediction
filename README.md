@@ -40,10 +40,10 @@ maxpool is better than summation (might for classification problems).
 
 ## Usage (legacy version)
 
-**Accurancy recalculating**  
+**Accuracy recalculating**  
 It seems that it is **no better than random guess** (acc 50%).  
 I'm very sorry for this mistake.  
-Reason: tf.metrics.accurancy just messed up my training acc and validation acc by calculating all history accurancy. I don't know that although I found it was weird...I don't even thought about it...OMG.
+Reason: tf.metrics.accuracy just messed up my training acc and validation acc by calculating all history accuracy. I don't know that although I found it was weird...I don't even thought about it...OMG.
 
 v2 version don't have this problem.  
 current best accuracy on validation set is **61.9%** (v2 model).
